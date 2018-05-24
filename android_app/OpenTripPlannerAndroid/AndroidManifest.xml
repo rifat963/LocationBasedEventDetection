@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2012 University of South Florida
+  
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+  
+         http://www.apache.org/licenses/LICENSE-2.0
+  
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and 
+  limitations under the License.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="unipv.irma.opentripplanner.android"
+    android:versionCode="6"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+
+    <!-- Android Maps API V2 -->
+    <permission
+        android:name="unipv.irma.opentripplanner.android.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="unipv.irma.opentripplanner.android.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+   
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+    
+     <!-- GCM requires a Google account. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <!-- Keeps the processor from sleeping when a message is received. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Creates a custom permission so only this app can receive its messages. -->
+    <permission
+        android:name="unipv.irma.opentripplanner.android.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    
+    <!-- Permission to vibrate -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    
+    <uses-permission android:name="unipv.irma.opentripplanner.android.permission.C2D_MESSAGE" />
+
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    
+
+    <application
+        android:name=".OTPApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher_opentripplanner"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignUpActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+        <activity
+            android:name=".SignUpTermsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme" >
+        </activity>
+        <activity
+            android:name=".ForgotPswActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme" >
+        </activity>
+        <activity
+            android:name=".DashboardActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".AccountActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".MyActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".TripFavouriteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".TripMonitoredActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".TripFavouriteMapActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".TripMonitoredMapActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".FeedbackActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+
+        <service android:name=".NavigationService" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyAaGUmbTwi4DVRRoUOKGkW1YwLMKlw54G4" />
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Receives the registration id. -->
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="unipv.irma.opentripplanner.android" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="unipv.irma.opentripplanner.android.GCMIntentService" />
+    </application>
+
+</manifest>

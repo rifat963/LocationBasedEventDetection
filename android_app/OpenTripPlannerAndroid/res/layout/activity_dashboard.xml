@@ -1,0 +1,232 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_texture"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/rr_header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/layer_header_green" >
+
+        <ImageButton
+            android:id="@+id/btn_logout"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/icon_logout" />
+
+        <TextView
+            android:id="@+id/textViewApp"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/btn_options"
+            android:layout_toRightOf="@+id/btn_logout"
+            android:gravity="center_horizontal"
+            android:text="@string/activity_dashboard"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/btn_options"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/icon_options" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rr_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="TextView"
+        android:textColor="#000"
+        android:textSize="20dp" />
+
+    <RelativeLayout
+        android:id="@+id/rr_plan"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/txt_welcome"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_tripplanner"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/imageView1"
+            android:background="@drawable/layer_orange_rectangle"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/dashboard_trip"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/triangle" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rr_favourite"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/rr_plan"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_favourite"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/imageView1"
+            android:background="@drawable/layer_orange_rectangle"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/dashboard_favourite"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/triangle" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rr_recent"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/rr_favourite"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_recent"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/imageView1"
+            android:background="@drawable/layer_orange_rectangle"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/dashboard_recent"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/triangle" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rr_feedback"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/rr_recent"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_feedback"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/imageView1"
+            android:background="@drawable/layer_orange_rectangle"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/dashboard_feedback"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/triangle" />
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/img_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/flag_unipv" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/img_logo"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/greenbar_1" />
+    
+<ScrollView android:id="@+id/scrollrr"
+  android:layout_width="230dp"
+  android:layout_height="90dp"
+    android:layout_margin="5dp"
+   android:layout_below="@+id/imageView2">
+
+<TextView
+    
+    android:id="@+id/txtBroadcast"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignTop="@+id/img_logo"
+    android:text="Fetching ... Events Data..."
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</ScrollView>
+
+
+   <ImageView
+    android:id="@+id/ImageView01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/scrollrr"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:src="@drawable/greenbar_1" />
+
+</RelativeLayout>

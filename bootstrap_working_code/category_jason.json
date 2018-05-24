@@ -1,0 +1,43 @@
+{
+    "name": "Main",
+    "children": [{
+            "name": "Local business",
+            "children": [{
+                "name": "Bakery",
+                "size": 3938
+            }, {
+                "name": "Cafe",
+                "size": 3812
+            }, {
+                "name": "Restaurant",
+                "size": 3812
+            }, {
+                "name": "Shop",
+                "size": 3812
+            },{
+                "name": "Pizza Place",
+                "size": 3812
+            }, {
+                "name": "Store",
+                "size": 3812
+            }]
+        },{
+            "name": "Education",
+            "children": [{
+                "name": "School",
+                "size": 3938
+            }, {
+                "name": "University",
+                "size": 3812
+            }, {
+                "name": "Fraternity House",
+                "size": 3812
+            }, {
+                "name": "Library",
+                "size": 3812
+            }, {
+                "name": "College",
+                "size": 3812
+            }]
+        }]
+}

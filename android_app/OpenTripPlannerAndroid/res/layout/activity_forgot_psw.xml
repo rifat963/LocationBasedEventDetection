@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_texture"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/rr_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:id="@+id/ll_header"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/layer_header_green" />
+
+        <ImageView
+            android:id="@+id/logo_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/logo_header" />
+
+        <TextView
+            android:id="@+id/textViewApp"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_toRightOf="@+id/logo_header"
+            android:gravity="center"
+            android:text="@string/activity_trip"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rr_header"
+        android:layout_centerHorizontal="true"
+        android:padding="20dp" >
+
+        <EditText
+            android:id="@+id/et_mail"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/layer_green"
+            android:hint="@string/login_email"
+            android:inputType="textNoSuggestions"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btn_send"
+            style="@style/ShadowBarText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/et_mail"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/layer_orange"
+            android:text="@string/forgot_send"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_back"
+            style="@style/ShadowBarText"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/layer_orange"
+            android:text="@string/sign_up_back"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</RelativeLayout>

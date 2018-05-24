@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="MyTheme" parent="@android:style/Theme.Light.NoTitleBar"></style>
+
+    <!-- Ombra nel testo -->
+    <style name="ShadowBarText">
+        <item name="android:shadowColor">#666666</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+</resources>

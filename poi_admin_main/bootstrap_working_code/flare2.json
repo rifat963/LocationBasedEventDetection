@@ -1,0 +1,439 @@
+{
+    "name": "Main",
+    "children": [{
+        "name": "Arts & Entertainment",
+        "children": [{
+            "name": "Movie Theater",
+            "children": [{
+                "name": "Indie Movie Theater",
+                "size": 3938
+            }, {
+                "name": "Multiplex",
+                "size": 3812
+            }]
+        },{
+            "name": "Museum",
+            "children": [{
+                "name": "Art Museum",
+                "size": 3938
+            }, {
+                "name": "History Museum",
+                "size": 3812
+            }, {
+                "name": "Planetarium",
+                "size": 3812
+            }, {
+                "name": "Science Museum",
+                "size": 3812
+            }]
+        },{
+            "name": "Music Venue",
+            "children": [{
+                "name": "Jazz Club",
+                "size": 3938
+            }, {
+                "name": "Piano Bar",
+                "size": 3812
+            }, {
+                "name": "Rock Club",
+                "size": 3812
+            }]
+        },{
+            "name": "Performing Arts Venue",
+            "children": [{
+                "name": "Dance Studio",
+                "size": 3938
+            }, {
+                "name": "Indie Theater",
+                "size": 3812
+            }, {
+                "name": "Opera House",
+                "size": 3812
+            }, {
+                "name": "Theater",
+                "size": 3812
+            }]
+        },{
+            "name": "Stadium",
+            "children": [{
+                "name": "Baseball Stadium",
+                "size": 3938
+            }, {
+                "name": "Basketball Stadium",
+                "size": 3812
+            }, {
+                "name": "Cricket Ground",
+                "size": 3812
+            }, {
+                "name": "Football Stadium",
+                "size": 3812
+            }, {
+                "name": "Hockey Arena",
+                "size": 3812
+            }, {
+                "name": "Soccer Stadium",
+                "size": 3812
+            }, {
+                "name": "Tennis",
+                "size": 3812
+            }, {
+                "name": "Track Stadium",
+                "size": 3812
+            }]
+        },{
+            "name": "Theme Park",
+            "children": [{
+                "name": "Theme Park Ride / Attraction",
+                "size": 3938
+            }]
+        }, {
+            "name": "Aquarium",
+            "size": 16540
+        },{
+            "name": "Arcade",
+            "size": 16540
+        },{
+            "name": "Art Gallery",
+            "size": 16540
+        },{
+            "name": "Bowling Alley",
+            "size": 16540
+        },{
+            "name": "Casino",
+            "size": 16540
+        },{
+            "name": "Arcade",
+            "size": 16540
+        },{
+            "name": "Comedy Club",
+            "size": 16540
+        },{
+            "name": "Concert Hall",
+            "size": 16540
+        },{
+            "name": "General Entertainment",
+            "size": 16540
+        },{
+            "name": "Historic Site",
+            "size": 16540
+        },{
+            "name": "Pool Hall",
+            "size": 16540
+        },{
+            "name": "Public Art",
+            "size": 16540
+        },{
+            "name": "Racetrack",
+            "size": 16540
+        },{
+            "name": "Water Park",
+            "size": 16540
+        },{
+            "name": "Zoo",
+            "size": 16540
+        }]
+    },{
+        "name": " College & University",
+        "children": [ {
+            "name": "College Academic Building",
+            "size": 16540
+        },{
+            "name": "College Administrative Building",
+            "size": 16540
+        },{
+            "name": "College Auditorium",
+            "size": 16540
+        },{
+            "name": "College Bookstore",
+            "size": 16540
+        },{
+            "name": "College Cafeteria",
+            "size": 16540
+        },{
+            "name": "College Classroom",
+            "size": 16540
+        },{
+            "name": "College Gym",
+            "size": 16540
+        },{
+            "name": "College Lab",
+            "size": 16540
+        },{
+            "name": "College Library",
+            "size": 16540
+        },{
+            "name": "College Quad",
+            "size": 16540
+        },{
+            "name": "College Rec Center",
+            "size": 16540
+        },{
+            "name": "College Residence Hall",
+            "size": 16540
+        },{
+            "name": "College Stadium",
+            "size": 16540
+        },{
+            "name": "College Theater",
+            "size": 16540
+        },{
+            "name": "Community College",
+            "size": 16540
+        },{
+            "name": "Fraternity House",
+            "size": 16540
+        },{
+            "name": "General College & University",
+            "size": 16540
+        },{
+            "name": "Law School",
+            "size": 16540
+        },{
+            "name": "Sorority House",
+            "size": 16540
+        },{
+            "name": "Student Center",
+            "size": 16540
+        },{
+            "name": "Trade School",
+            "size": 16540
+        },{
+            "name": "University",
+            "size": 16540
+        }]
+    },{
+        "name": "Food",
+        "children": [{
+            "name": "Restaurant",
+            "size": 16540
+        },{
+            "name": "Bakery",
+            "size": 16540
+        },{
+            "name": "Bistro",
+            "size": 16540
+        },{
+            "name": "Breakfast Spot",
+            "size": 16540
+        },{
+            "name": "Cafeteria",
+            "size": 16540
+        },{
+            "name": "Café",
+            "size": 16540
+        },{
+            "name": "Coffee Shop",
+            "size": 16540
+        },{
+            "name": "Creperie",
+            "size": 16540
+        },{
+            "name": "Shop",
+            "size": 16540
+        },{
+            "name": "Bar",
+            "size": 16540
+        },{
+            "name": "Pizza Place",
+            "size": 16540
+        }]
+    },{
+        "name": "Outdoors & Recreation",
+        "children": [ {
+            "name": "Athletics & Sports",
+            "size": 16540
+        },{
+            "name": "Visualization",
+            "size": 16540
+        },{
+            "name": "Court",
+            "size": 16540
+        },{
+            "name": "Field",
+            "size": 16540
+        },{
+            "name": "Beach",
+            "size": 16540
+        },{
+            "name": "Botanical Garden",
+            "size": 16540
+        },{
+            "name": "Bridge",
+            "size": 16540
+        },{
+            "name": "Castle",
+            "size": 16540
+        },{
+            "name": "Cemetery",
+            "size": 16540
+        },{
+            "name": "Garden",
+            "size": 16540
+        },{
+            "name": "Lake",
+            "size": 16540
+        },{
+            "name": "Mountain",
+            "size": 16540
+        },{
+            "name": "Palace",
+            "size": 16540
+        },{
+            "name": "States & Municipalities",
+            "size": 16540
+        }]
+    },{
+        "name": " Professional & Other Places",
+        "children": [ {
+            "name": "Auditorium",
+            "size": 16540
+        },{
+            "name": "Building",
+            "size": 16540
+        },{
+            "name": "Convention Center",
+            "size": 16540
+        },{
+            "name": "Factory",
+            "size": 16540
+        },{
+            "name": "Government Building",
+            "size": 16540
+        },{
+            "name": "Library",
+            "size": 16540
+        },{
+            "name": "Medical Center",
+            "size": 16540
+        },{
+            "name": "Post Office",
+            "size": 16540
+        },{
+            "name": "School",
+            "size": 16540
+        },{
+            "name": "TV Station",
+            "size": 16540
+        },{
+            "name": "Warehouse",
+            "size": 16540
+        }]
+    },{
+        "name": " Shops & Services",
+        "children": [ {
+            "name": "ATM",
+            "size": 16540
+        },{
+            "name": "Bank",
+            "size": 16540
+        },{
+            "name": "Store",
+            "size": 16540
+        },{
+            "name": "Shop",
+            "size": 16540
+        },{
+            "name": "Bookstore",
+            "size": 16540
+        },{
+            "name": "Food & Drink Shop",
+            "size": 16540
+        },{
+            "name": "Gym / Fitness Center",
+            "size": 16540
+        },{
+            "name": "Mall",
+            "size": 16540
+        },{
+            "name": "Market",
+            "size": 16540
+        },{
+            "name": " Bookstore",
+            "size": 16540
+        }]
+    },{
+        "name": "Travel & Transport",
+        "children": [ {
+            "name": "Airport",
+            "size": 16540
+        },{
+            "name": "Bike Rental / Bike Share",
+            "size": 16540
+        },{
+            "name": "Boat or Ferry",
+            "size": 16540
+        },{
+            "name": "Border Crossing",
+            "size": 16540
+        },{
+            "name": "Bus Station",
+            "size": 16540
+        },{
+            "name": "Bus Stop",
+            "size": 16540
+        },{
+            "name": "Cable Car",
+            "size": 16540
+        },{
+            "name": "General Travel",
+            "size": 16540
+        },{
+            "name": "Hotel",
+            "size": 16540
+        },{
+            "name": "Intersection",
+            "size": 16540
+        },{
+            "name": "Light Rail",
+            "size": 16540
+        },{
+            "name": "Moving Target",
+            "size": 16540
+        },{
+            "name": "Pier",
+            "size": 16540
+        },{
+            "name": "RV Park",
+            "size": 16540
+        },{
+            "name": "Rental Car Location",
+            "size": 16540
+        },{
+            "name": "Rest Area",
+            "size": 16540
+        },{
+            "name": "Road",
+            "size": 16540
+        },{
+            "name": "Street",
+            "size": 16540
+        },{
+            "name": "Subway",
+            "size": 16540
+        },{
+            "name": "Taxi",
+            "size": 16540
+        },{
+            "name": "Toll Booth",
+            "size": 16540
+        },{
+            "name": "Toll Plaza",
+            "size": 16540
+        },{
+            "name": "Tourist Information Center",
+            "size": 16540
+        },{
+            "name": "Train Station",
+            "size": 16540
+        },{
+            "name": "Tram",
+            "size": 16540
+        },{
+            "name": "Travel Lounge",
+            "size": 16540
+        },{
+            "name": "Tunnel",
+            "size": 16540
+        }]
+    }]
+}

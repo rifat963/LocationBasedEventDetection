@@ -1,0 +1,70 @@
+TripPlanner Pavia
+<br>
+Copyright (c) 2013-2014 
+<br>
+by “Laboratorio Servizi Pavia”
+<br>
+<br>
+*** END USER LICENSE AGREEMENT ***
+<br>
+<br>
+Please read this End User License Agreement (“EULA”) entirely and carefully before hitting the Accept button or using the TripPlanner Pavia application (“Application”). By accepting this agreement or by using this software you agree to be bound to the following terms.
+<br>
+<br>
+If you do not accept the terms of this EULA do not click the Accept button or use the application.
+<br>
+<br>
+The Application is licensed, not sold, to you by “Laboratorio Servizi Pavia” for use only in accordance with the conditions of this EULA and any other rules established by any other third party terms of use, such as the Google Play one or other vendors’ Terms of Service. The Application is defined as the following: (I) the mobile software application accompanying this EULA, including, without restricting to, any script, software code, interfaces, graphics, displays, text, documentation and other components; (II) any updates, patches, modifications or enhancements to the items listed in subsection (I); (III) any various website the Application may direct you to via any browser located on any device.
+<br>
+<br>
+1- License
+<br>
+“Laboratorio Servizi Pavia” grants You a limited, revocable, non-exclusive and non-transferable right to install and use the Application and its related services on a mobile device only in accordance with the terms of this EULA.
+<br>
+<br>
+2- Restriction of Use
+<br>
+You shall use the Application always in accordance with the conditions of any service agreement associated with your device. Furthermore You abide to not: (I) attempt to decompile, reverse engineer, disassemble, derive any part of source code and/or decrypt the Application; (II) apply any modification, adaptation, patch, improvement, translation or other derivative works on the Application; (III) violate any applicable law, rule or regulation in connection with the use of the Application; (IV) display or distribute material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promoting hatred, discriminating or displaying prejudice based on religion, ethnic heritage, race, sexual orientation or age; (V) remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of any company; (VI) use the Application for any kind of commercial purpose, behavior aimed at generating revenue, or other purpose for which it is not designed or intended; (VII) render the Application available over a network or any other kind of environment by allowing access or use by multiple simultaneous devices or users; (VIII) use or modify the Application in any way aimed at starting multiple or automated connections or queries to any website or to send any kind of undesired e-mail (spam); (IX) use information, interfaces or other intellectual property of “Laboratorio Servizi Pavia” in the creation, deployment or commercialization of any accessory or application for use with this licensed Application. 
+<br>
+<br>
+3 Copyright Restrictions
+<br>
+You acknowledge and agree that: (I) the Application contains confidential and/or proprietary information which is protected by applicable intellectual property law and/or other laws; (II) the source code and every part of the Application, including interface, directories, queries, format, algorithms, structure are part of intellectual property and proprietary and/or confidential information of “Laboratorio Servizi Pavia”; (III “Laboratorio Servizi Pavia” and/or the respective third parties own all rights to the Application and its content which can be accessed or visualized through the Application, including without limitation all the intellectual property rights; (IV) any usage of third party software as part of the Application is limited and regulated by the terms and conditions of the third party license applicable to that software; (V) unless expressly written in this EULA any intellectual property rights in or to the Application are not conceded to You. 
+Name, logo and graphic of this Application must not be used in any commercial manner or in order to promote products developed in relation to this Application without an explicit authorization.
+You agree that you are the only one to be considered responsible for your use of the Application, including the event of a third party claim that the Application and/or Your possession or use of the Application infringes any third party's intellectual property rights, in which case You will be liable of any of the consequences (including any loss or damage which “Laboratorio Servizi Pavia” may suffer). In case of such event You will swiftly notify “Laboratorio Servizi Pavia” of it.
+<br>
+<br>
+4- Transfer
+<br>
+The Application and the license here granted shall not be sold, offered for resale, rented, lent, transferred, sublicensed, copied, shared or redistributed in whole or in any part.
+<br>
+<br>
+5- Privacy
+<br>
+By accepting this EULA You authorize the acquisition, storage, use and redistribution of any kind of data and information relevant and/or derived from Your Application usage, as search requests, results, patterns and such, and any further data You provided. This information will be collected in compliance to privacy regulations and will not contain personally identifiably data. It will therefore be considered as non-confidential and will be treated as free to reproduce and/or to redistribute without any restriction.
+“Laboratorio Servizi Pavia” has the right to change any part of its privacy policy at any time at its discretion. However, any of these changes will be documented accordingly and You will be asked to accept them. Your usage of the Application after the publication of these changes will be regarded as a complete acceptance of them.
+<br>
+<br>
+6- Termination
+<br>
+Any failure to comply with the terms and conditions of this EULA will result in automatic and immediate termination of this license, even without explicit notice. “Laboratorio Servizi Pavia” may or may not suspend or terminate this license without notice or reason. You can decide to terminate this license at any time by entirely deleting the Application from your mobile device. Any financial obligations incurred by you shall survive the termination of this license. In any situation, upon the termination of this license You abide to stop to use and to remove this Application from all and any of Your devices.
+<br>
+<br>
+7- Governing Law
+<br>
+This EULA shall be governed by the Italian laws. You hereby irrevocably attorn and submit to the non-exclusive jurisdiction of the courts of Italy therefrom. If any clause contained will be considered unlawful, void or otherwise unenforceable, then that clause shall be regarded severable from this EULA and not affect the validity and enforceability of any other clauses.
+<br>
+<br>
+8- Warranties
+<br>
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT ANY USE OF OR RELIANCE UPON THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK. 
+THE APPLICATION IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT ANY KIND OF WARRANTIES. THIS DISCLAIMER CONCERNS ALSO ALL THE INFORMATION GENERATED, ACCESSED AND EDITED BY THE APPLICATION. 
+“Laboratorio Servizi Pavia” IS NOT RESPONSIBLE FOR ANY HARM TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR ANY LOSS OF DATA THAT MAY RESULTS FROM THE USAGE OF THIS APPLICATION.
+THE APPLICATION IS NOT INTENDED FOR USE IN ANY KIND OF CRITICAL SYSTEM OR DANGEROUS ENVIRONMENT.
+“Laboratorio Servizi Pavia” EXPRESSLY ESCLUDES ALL WARRANTIES, ESPRESSED OR IMPLIED, INCLUDING, YET NOT LIMITED BY, ANY IMPLIED WARRANTIES OF MERCHANTABLE QUALITY OR FITNESSOF USE. 
+“Laboratorio Servizi Pavia” HAS NO OBLIGATION TO MAINTAIN OR SUPPORT THE APPLICATION. 
+<br>
+<br>
+9- Limitation of Liability
+<br>
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT “Laboratorio Servizi Pavia” OR ITS AFFILIATES ARE UNDER NO CIRCUMSTANCES LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGE THAT MAY ARISE OUT OF YOUR USE OR INABILITY TO USE THE APPLICATION AND ANY OTHER SERVICE, INCLUDING ANY DAMAGE TO YOUR MOBILE DEVICE(S) AND/OR ANY LOSS OF DATA, WHETHER OR NOT “Laboratorio Servizi Pavia” WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR SHOULD HAVE BEEN AWARE OF THAT POSSIBILITY.

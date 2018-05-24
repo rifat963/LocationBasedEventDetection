@@ -1,0 +1,8282 @@
+{
+  "1": {
+    "labels": {
+      "kr": "Factual 장소",
+      "zh_hant": "Factual 場所",
+      "en": "Factual Places",
+      "zh": "Factual 场所",
+      "jp": "Factual 場所",
+      "pt": "Lugares Factual",
+      "de": "Factual Orte",
+      "it": "Luoghi Factual",
+      "es": "Lugares Factual",
+      "fr": "Endroits de Factual"
+    },
+    "parents": [
+
+    ],
+    "abstract": true
+  },
+  "2": {
+    "labels": {
+      "kr": "자동차",
+      "zh_hant": "機動車",
+      "en": "Automotive",
+      "zh": "机动车",
+      "jp": "自動車",
+      "pt": "Automóvel",
+      "de": "Kraftfahrzeug",
+      "it": "Autovetture",
+      "es": "Automotriz",
+      "fr": "Automobile"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "3": {
+    "labels": {
+      "kr": "자동차 감정 사",
+      "zh_hant": "汽車估價師",
+      "en": "Car Appraisers",
+      "zh": "汽车估价师",
+      "jp": "車鑑定士",
+      "pt": "Peritos de Automóveis",
+      "de": "Sachverständige",
+      "it": "Periti Automobilistici",
+      "es": "Tasadores de Coches",
+      "fr": "Courtiers Voiture"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "4": {
+    "labels": {
+      "kr": "자동차 딜러 및 임대",
+      "zh_hant": "汽車經銷和租賃",
+      "en": "Car Dealers and Leasing",
+      "zh": "汽车经销和租赁",
+      "jp": "自動車ディーラー、リース",
+      "pt": "Aluguer e Leasing de Automóveis",
+      "de": "Autohändler und Leasing",
+      "it": "Vendite e Leasing",
+      "es": "Comerciantes de Automóviles y Arrendamiento",
+      "fr": "Concessionnaires et Leasing"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "5": {
+    "labels": {
+      "kr": "중고차",
+      "zh_hant": "二手車",
+      "en": "Used Cars",
+      "zh": "二手车",
+      "jp": "中古車",
+      "pt": "Carros Usados",
+      "de": "Gebrauchtwagen",
+      "it": "Auto Usate",
+      "es": "Carros Usados",
+      "fr": "Voiture D'occasion"
+    },
+    "parents": [
+      "4"
+    ],
+    "abstract": false
+  },
+  "6": {
+    "labels": {
+      "kr": "자동차 부품 및 악세사리",
+      "zh_hant": "汽車零配件",
+      "en": "Car Parts and Accessories",
+      "zh": "汽车零配件",
+      "jp": "カー用品",
+      "pt": "Partes de Automóveis e Acessórios",
+      "de": "Autoteile und Zubehör",
+      "it": "Accessori e Ricambi Auto",
+      "es": "Partes de Automóviles y Accesorios",
+      "fr": "Pièces D'auto et Accessoires"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "7": {
+    "labels": {
+      "kr": "세차 및 상세한, 세부적인",
+      "zh_hant": "汽車清潔和美容",
+      "en": "Car Wash and Detail",
+      "zh": "汽车清洁和美容",
+      "jp": "洗車と清掃、手入れ",
+      "pt": "Lavagem e Limpeza Automóvel",
+      "de": "Autowaschanlage und Sonstiges",
+      "it": "Autolavaggio e Ritocchi",
+      "es": "Lavacoches y Detalle",
+      "fr": "Lavage de Voitures et Détail"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "8": {
+    "labels": {
+      "kr": "고 전적인과 골동품 자동차",
+      "zh_hant": "經典或古董車",
+      "en": "Classic and Antique Car",
+      "zh": "经典或古董车",
+      "jp": "クラシックとアンティークの車",
+      "pt": "Carros Clássicos e Antigos",
+      "de": "Klassische und Historische Fahrzeuge",
+      "it": "Auto D'epoca",
+      "es": "Coche Clásico y Antiguo",
+      "fr": "Classique et Antique"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "9": {
+    "labels": {
+      "kr": "정비 및 수리",
+      "zh_hant": "維護和修理",
+      "en": "Maintenance and Repair",
+      "zh": "维护和修理",
+      "jp": "メンテナンスと修理",
+      "pt": "Manutenção e Reparação",
+      "de": "Wartung und Reparatur",
+      "it": "Riparazione e Manutenzione",
+      "es": "Mantenimiento y Reparación",
+      "fr": "Entretien et Réparation"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "10": {
+    "labels": {
+      "kr": "오일 및 윤 활 유",
+      "zh_hant": "機油和潤滑油",
+      "en": "Oil and Lube",
+      "zh": "机油和润滑油",
+      "jp": "オイル・潤滑油",
+      "pt": "Óleo e Lubrificante",
+      "de": "Öle und Schmierstoffe",
+      "it": "Olio e Lubrificanti",
+      "es": "Aceite y Lubricante",
+      "fr": "Huile et Lubrifiant"
+    },
+    "parents": [
+      "9"
+    ],
+    "abstract": false
+  },
+  "11": {
+    "labels": {
+      "kr": "스모그 확인",
+      "zh_hant": "煙霧檢測",
+      "en": "Smog Check",
+      "zh": "烟雾检测",
+      "jp": "スモッグテスト",
+      "pt": "Controlo de Poluição",
+      "de": "Abgasuntersuchung",
+      "it": "Controllo Emissioni",
+      "es": "Comprobación de Niebla Tóxica",
+      "fr": "Vérification Pic de Pollution"
+    },
+    "parents": [
+      "9"
+    ],
+    "abstract": false
+  },
+  "12": {
+    "labels": {
+      "kr": "타이어",
+      "zh_hant": "輪胎",
+      "en": "Tires",
+      "zh": "轮胎",
+      "jp": "タイヤ",
+      "pt": "Pneus",
+      "de": "Reifen",
+      "it": "Pneumatici",
+      "es": "Llantas",
+      "fr": "Pneus"
+    },
+    "parents": [
+      "9"
+    ],
+    "abstract": false
+  },
+  "13": {
+    "labels": {
+      "kr": "변속기",
+      "zh_hant": "傳輸",
+      "en": "Transmissions",
+      "zh": "传输",
+      "jp": "トランス ミッション",
+      "pt": "Transmissões",
+      "de": "Getriebe",
+      "it": "Trasmissioni",
+      "es": "Transmisiones",
+      "fr": "Boîte de Vitesse"
+    },
+    "parents": [
+      "9"
+    ],
+    "abstract": false
+  },
+  "14": {
+    "labels": {
+      "kr": "오토바이, 모페드와 스쿠터",
+      "zh_hant": "摩托車、輕便摩托車和踏板車",
+      "en": "Motorcycles, Mopeds and Scooters",
+      "zh": "摩托车、轻便摩托车和踏板车",
+      "jp": "オートバイ、モペット、スクーター",
+      "pt": "Motociclos, Ciclomotores e Velocípedes",
+      "de": "Motorräder, Mofas und Roller",
+      "it": "Motocicli, Ciclomotori e Scooter",
+      "es": "Motocicletas, Ciclomotores y Motonetas",
+      "fr": "Motocyclettes, Mobilettes et Scooters"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "15": {
+    "labels": {
+      "kr": "수리",
+      "zh_hant": "維修",
+      "en": "Repair",
+      "zh": "维修",
+      "jp": "修理",
+      "pt": "Reparação",
+      "de": "Reparatur",
+      "it": "Riparazione",
+      "es": "Reparación",
+      "fr": "Réparation"
+    },
+    "parents": [
+      "14"
+    ],
+    "abstract": false
+  },
+  "16": {
+    "labels": {
+      "kr": "판매",
+      "zh_hant": "銷售",
+      "en": "Sales",
+      "zh": "销售",
+      "jp": "販売",
+      "pt": "Vendas",
+      "de": "Verkauf",
+      "it": "Vendita",
+      "es": "Ventas",
+      "fr": "Ventes"
+    },
+    "parents": [
+      "14"
+    ],
+    "abstract": false
+  },
+  "17": {
+    "labels": {
+      "kr": "캠핑카 및 이동 주택차",
+      "zh_hant": "房車",
+      "en": "RVs and Motor Homes",
+      "zh": "房车",
+      "jp": "RVsおよびキャンピングカー",
+      "pt": "Roulottes e Autocaravanas",
+      "de": "Wohnmobile und Reisemobile",
+      "it": "Roulotte e Camper",
+      "es": "Vehículos de Recreación y Autocaravanas",
+      "fr": "Camping-cars"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "18": {
+    "labels": {
+      "kr": "폐차장",
+      "zh_hant": "廢車場",
+      "en": "Salvage Yards",
+      "zh": "废车场",
+      "jp": "廃車置き場",
+      "pt": "Ferro-velho",
+      "de": "Schrottplatz",
+      "it": "Centro Di Rottamazione",
+      "es": "Patios de Salvamento",
+      "fr": "Casse"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "19": {
+    "labels": {
+      "kr": "견인",
+      "zh_hant": "拖車",
+      "en": "Towing",
+      "zh": "拖车",
+      "jp": "けん引",
+      "pt": "Reboque",
+      "de": "Abschleppen",
+      "it": "Carro Attrezzi",
+      "es": "Remolque",
+      "fr": "Remorquage"
+    },
+    "parents": [
+      "2"
+    ],
+    "abstract": false
+  },
+  "20": {
+    "labels": {
+      "kr": "지역 사회와 정부",
+      "zh_hant": "社區和政府",
+      "en": "Community and Government",
+      "zh": "社区和政府",
+      "jp": "地域社会と政府",
+      "pt": "Comunidade e Governo",
+      "de": "Gemeinschaft und Regierung",
+      "it": "Servizi Locali e Pubblica Amministrazione",
+      "es": "Comunidad y Gobierno",
+      "fr": "Communauté et Gouvernement"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "21": {
+    "labels": {
+      "kr": "동물 보호소 및 동물 보호 협회",
+      "zh_hant": "動物庇護所和人道協會",
+      "en": "Animal Shelters and Humane Societies",
+      "zh": "动物庇护所和人道协会",
+      "jp": "動物のシェルターと愛護団体",
+      "pt": "Abrigos de Animais e Associações Humanitárias",
+      "de": "Tierheime und Menschliche Gesellschaften",
+      "it": "Rifugi e Protezione Animali",
+      "es": "Refugios de Animales y Sociedades Humanas",
+      "fr": "Abris D'animaux et Sociétés de Protection Des Animaux"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "22": {
+    "labels": {
+      "kr": "묘지",
+      "zh_hant": "墓地",
+      "en": "Cemeteries",
+      "zh": "墓地",
+      "jp": "墓地",
+      "pt": "Cemitérios",
+      "de": "Friedhöfe",
+      "it": "Cimiteri",
+      "es": "Cementerios",
+      "fr": "Cimetières"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "23": {
+    "labels": {
+      "kr": "보육 및 유치원",
+      "zh_hant": "托兒所和幼兒園",
+      "en": "Day Care and Preschools",
+      "zh": "托儿所和幼儿园",
+      "jp": "保育園と幼稚園",
+      "pt": "Creches e Jardins de Infância",
+      "de": "Tagespflege und Kindergärten",
+      "it": "Asili Nido e Scuole Materne",
+      "es": "Guardería y Parvularios",
+      "fr": "Crèches et Garderies"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "24": {
+    "labels": {
+      "kr": "장애인 복지",
+      "zh_hant": "殘障人士服務中心",
+      "en": "Disabled Persons Services",
+      "zh": "残障人士服务中心",
+      "jp": "身体障害者支援",
+      "pt": "Serviços de Apoio a Pessoas com Necessidades Especiais",
+      "de": "Dienstleistungen Für Menschen Mit Behinderung",
+      "it": "Assistenza Disabili",
+      "es": "Servicios para Personas Deshabilitadas",
+      "fr": "Services Aux Personnes À Mobilité Réduite"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "25": {
+    "labels": {
+      "kr": "약물 및 알코올 서비스",
+      "zh_hant": "戒毒和戒酒中心",
+      "en": "Drug and Alcohol Services",
+      "zh": "戒毒和戒酒中心",
+      "jp": "薬物およびアルコール中毒患者支援",
+      "pt": "Serviços de Tratamento de Alcoolismo e Toxicodependência",
+      "de": "Suchthilfe",
+      "it": "Assistenza Alcolisti e Tossicodipendenti",
+      "es": "Servicios de Drogas y Licores",
+      "fr": "Lutte Contre La Toxicomanie et Alcoolisme"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "26": {
+    "labels": {
+      "kr": "교육",
+      "zh_hant": "教育",
+      "en": "Education",
+      "zh": "教育",
+      "jp": "教育",
+      "pt": "Ensino",
+      "de": "Bildung",
+      "it": "Istruzione",
+      "es": "Educación",
+      "fr": "Éducation"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "27": {
+    "labels": {
+      "kr": "성인 교육",
+      "zh_hant": "成人教育",
+      "en": "Adult Education",
+      "zh": "成人教育",
+      "jp": "成人教育",
+      "pt": "Ensino para Adultos",
+      "de": "Erwachsenenbildung",
+      "it": "Corsi Per Adulti",
+      "es": "Educación de Adultos",
+      "fr": "Éducation Des Adultes"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "28": {
+    "labels": {
+      "kr": "미술 수업 및 학교",
+      "zh_hant": "藝術類課程和院校",
+      "en": "Art Lessons and Schools",
+      "zh": "艺术类课程和院校",
+      "jp": "美術教室と学校",
+      "pt": "Escolas de Arte",
+      "de": "Kunstunterricht und Schule",
+      "it": "Scuole e Corsi D'arte",
+      "es": "Lecciones de Arte y Escuelas",
+      "fr": "Écoles et Leçons de Beaux-art"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "29": {
+    "labels": {
+      "kr": "전문 대학 및 대학",
+      "zh_hant": "高等院校",
+      "en": "Colleges and Universities",
+      "zh": "高等院校",
+      "jp": "大学",
+      "pt": "Faculdades, Universidades e Institutos Superiores",
+      "de": "Hochschulen und Universitäten",
+      "it": "Università",
+      "es": "Colegios y Universidades",
+      "fr": "Universités et Écoles Techniques"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "30": {
+    "labels": {
+      "kr": "컴퓨터 교육",
+      "zh_hant": "計算機培訓",
+      "en": "Computer Training",
+      "zh": "计算机培训",
+      "jp": "コンピュータ トレーニング",
+      "pt": "Formação em Informática",
+      "de": "Computer-Schulung",
+      "it": "Corsi Di Informatica",
+      "es": "Enseñanza para el Uso de la Computadora",
+      "fr": "Formation En Informatique"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "31": {
+    "labels": {
+      "kr": "요리 수업 및 학교",
+      "zh_hant": "烹飪課程和學校",
+      "en": "Culinary Lessons and Schools",
+      "zh": "烹饪课程和学校",
+      "jp": "料理教室、調理師学校",
+      "pt": "Escolas de Culinária",
+      "de": "Kulinarischer Unterricht und Schulen",
+      "it": "Scuole e Corsi Di Cucina",
+      "es": "Lecciones Culinarias y Escuelas",
+      "fr": "Écoles Culinaires et Cours de Cuisine"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "32": {
+    "labels": {
+      "kr": "운전 학교",
+      "zh_hant": "駕駛學校",
+      "en": "Driving Schools",
+      "zh": "驾驶学校",
+      "jp": "教習所",
+      "pt": "Escolas de Condução",
+      "de": "Fahrschulen",
+      "it": "Autoscuole",
+      "es": "Autoescuelas",
+      "fr": "Écoles de Conduite"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "33": {
+    "labels": {
+      "kr": "남학생과 여학생 클럽",
+      "zh_hant": "兄弟會和姐妹會",
+      "en": "Fraternities and Sororities",
+      "zh": "兄弟会和姐妹会",
+      "jp": "男子・女子社交クラブ",
+      "pt": "Repúblicas",
+      "de": "Bruderschaften und Schwesternschaften",
+      "it": "Gruppi Universitari",
+      "es": "Fraternidades y Sororidades",
+      "fr": "Fraternités et Sororités"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "34": {
+    "labels": {
+      "kr": "유치원",
+      "zh_hant": "中小學",
+      "en": "Primary and Secondary Schools",
+      "zh": "中小学",
+      "jp": "小学校、中学／高等学校",
+      "pt": "Escolas Primárias e Secundárias",
+      "de": "Haupt-und Realschulen",
+      "it": "Scuole Primarie e Secondarie",
+      "es": "Escuelas Primaria y Secundaria",
+      "fr": "Écoles Primaires et Secondaires"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "35": {
+    "labels": {
+      "kr": "개인 교습 및 교육 서비스",
+      "zh_hant": "輔導和補習機構",
+      "en": "Tutoring and Educational Services",
+      "zh": "辅导和补习机构",
+      "jp": "家庭教師と教育サービス",
+      "pt": "Cursos Particulares e Serviços Educativos",
+      "de": "Nachhilfe und Pädagogische Dienste",
+      "it": "Lezioni Private e Tutoring",
+      "es": "Tutoría y Servicios Educativos",
+      "fr": "Cours Particuliers et Services Éducatifs"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "36": {
+    "labels": {
+      "kr": "직업 학교",
+      "zh_hant": "職業學校",
+      "en": "Vocational Schools",
+      "zh": "职业学校",
+      "jp": "職業専門学校",
+      "pt": "Escolas Profissionais",
+      "de": "Berufliche Schulen",
+      "it": "Scuole Professionali",
+      "es": "Escuelas de Formación Profesional",
+      "fr": "Écoles de Formation Professionnelle"
+    },
+    "parents": [
+      "26"
+    ],
+    "abstract": false
+  },
+  "37": {
+    "labels": {
+      "kr": "정부 부처 및 기관",
+      "zh_hant": "政府部門和機構",
+      "en": "Government Departments and Agencies",
+      "zh": "政府部门和机构",
+      "jp": "政府省庁／機関",
+      "pt": "Ministérios e Organismos Governamentais",
+      "de": "Ministerien und Behörden",
+      "it": "Agenzie e Dipartimenti Amministrativi",
+      "es": "Departamentos y Institutos Gubernamentales",
+      "fr": "Ministères et Organismes Gouvernementaux"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "38": {
+    "labels": {
+      "kr": "정부 로비스트",
+      "zh_hant": "政府說客",
+      "en": "Government Lobbyists",
+      "zh": "政府说客",
+      "jp": "政府ロビイスト",
+      "pt": "Lobbyistas Governamentais",
+      "de": "Staatliche Interessenvertreter",
+      "it": "Lobbisti",
+      "es": "Cabilderos del Gobierno",
+      "fr": "Lobbyistes"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "39": {
+    "labels": {
+      "kr": "주택 지원 및 대피 소",
+      "zh_hant": "住房援助和收容所",
+      "en": "Housing Assistance and Shelters",
+      "zh": "住房援助和收容所",
+      "jp": "住宅支援と施設",
+      "pt": "Assistência Habitacional e Abrigos",
+      "de": "Unterstützung Für Die Wohnung und Unterkünfte",
+      "it": "Case Popolari e Rifugi Per Senzatetto",
+      "es": "Asistencia para la Vivienda y Refugios",
+      "fr": "Aides Au Logement et Refuges"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "40": {
+    "labels": {
+      "kr": "법 집행 기관 및 공공 안전",
+      "zh_hant": "執法和公眾安全",
+      "en": "Law Enforcement and Public Safety",
+      "zh": "执法和公众安全",
+      "jp": "公安",
+      "pt": "Forças de Segurança e Ordem Pública",
+      "de": "Gesetzesvollzug und Öffentliche Sicherheit",
+      "it": "Forze Dell'ordine e Della Sicurezza Pubblica",
+      "es": "Aplicación de la Ley y Seguridad Pública",
+      "fr": "Maintient de L'ordre et Sûreté Publique"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "41": {
+    "labels": {
+      "kr": "구조 서비스",
+      "zh_hant": "救援服務",
+      "en": "Rescue Services",
+      "zh": "救援服务",
+      "jp": "救急",
+      "pt": "Serviços de Socorro",
+      "de": "Rettungsdienste",
+      "it": "Servizi Di Emergenza",
+      "es": "Servicios de Rescate",
+      "fr": "Services de Secours"
+    },
+    "parents": [
+      "40"
+    ],
+    "abstract": false
+  },
+  "42": {
+    "labels": {
+      "kr": "소방소",
+      "zh_hant": "消防局",
+      "en": "Fire Stations",
+      "zh": "消防局",
+      "jp": "消防署",
+      "pt": "Quarteis de Bombeiros",
+      "de": "Feuerwehr",
+      "it": "Caserme Vigili Del Fuoco",
+      "es": "Estaciones de Bomberos",
+      "fr": "Casernes de Pompiers"
+    },
+    "parents": [
+      "40"
+    ],
+    "abstract": false
+  },
+  "43": {
+    "labels": {
+      "kr": "경찰서",
+      "zh_hant": "警署",
+      "en": "Police Stations",
+      "zh": "警署",
+      "jp": "警察署",
+      "pt": "Esquadras de Polícia",
+      "de": "Polizei-stationen",
+      "it": "Caserme Di Polizia",
+      "es": "Comisarías",
+      "fr": "Stations de Police"
+    },
+    "parents": [
+      "40"
+    ],
+    "abstract": false
+  },
+  "44": {
+    "labels": {
+      "kr": "도서관",
+      "zh_hant": "圖書館",
+      "en": "Libraries",
+      "zh": "图书馆",
+      "jp": "図書館",
+      "pt": "Bibliotecas",
+      "de": "Bibliotheken",
+      "it": "Biblioteche",
+      "es": "Bibliotecas",
+      "fr": "Bibliothèques"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "45": {
+    "labels": {
+      "kr": "군사",
+      "zh_hant": "軍事",
+      "en": "Military",
+      "zh": "军事",
+      "jp": "自衛隊",
+      "pt": "Forças Armadas",
+      "de": "Militär",
+      "it": "Forze Armate",
+      "es": "Ejército",
+      "fr": "Forces Armées"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "46": {
+    "labels": {
+      "kr": "기지",
+      "zh_hant": "基地",
+      "en": "Bases",
+      "zh": "基地",
+      "jp": "基地",
+      "pt": "Bases Militares",
+      "de": "Militärstationen",
+      "it": "Basi Militari",
+      "es": "Bases",
+      "fr": "Bases Militaires"
+    },
+    "parents": [
+      "45"
+    ],
+    "abstract": false
+  },
+  "47": {
+    "labels": {
+      "kr": "기관 및 단체",
+      "zh_hant": "組織和協會",
+      "en": "Organizations and Associations",
+      "zh": "组织和协会",
+      "jp": "組織および団体",
+      "pt": "Organizações e Associações",
+      "de": "Organisationen und Verbände",
+      "it": "Organizzazioni e Associazioni",
+      "es": "Organizaciones y Asociaciones",
+      "fr": "Organismes et Associations"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "48": {
+    "labels": {
+      "kr": "비-이익 및 자선 단체",
+      "zh_hant": "慈善和非盈利性組織",
+      "en": "Charities and Non-Profits",
+      "zh": "慈善和非盈利性组织",
+      "jp": "慈善団体、非営利団体",
+      "pt": "Organizações de Beneficiência e sem Fim Lucrativo",
+      "de": "Wohltätigkeit und Gemeinnützigkeit",
+      "it": "Enti Di Beneficenza e Non-profit",
+      "es": "Organizaciones Benéficas y Organizaciones sin Ánimo de Lucro",
+      "fr": "Organismes de Bienfaisance et À But Non Lucratif"
+    },
+    "parents": [
+      "47"
+    ],
+    "abstract": false
+  },
+  "49": {
+    "labels": {
+      "kr": "환경",
+      "zh_hant": "環保組織",
+      "en": "Environmental",
+      "zh": "环保组织",
+      "jp": "環境",
+      "pt": "Ambiente",
+      "de": "Umwelt",
+      "it": "Tutela Dell'ambiente",
+      "es": "Ambiental",
+      "fr": "Environnement"
+    },
+    "parents": [
+      "47"
+    ],
+    "abstract": false
+  },
+  "50": {
+    "labels": {
+      "kr": "청소년 단체",
+      "zh_hant": "青年組織",
+      "en": "Youth Organizations",
+      "zh": "青年组织",
+      "jp": "青少年団体",
+      "pt": "Organizações Juvenis",
+      "de": "Jugendorganisationen",
+      "it": "Organizzazioni Giovanili",
+      "es": "Organizaciones Juveniles",
+      "fr": "Organisations de Jeunesse"
+    },
+    "parents": [
+      "47"
+    ],
+    "abstract": false
+  },
+  "51": {
+    "labels": {
+      "kr": "우체국",
+      "zh_hant": "郵政局",
+      "en": "Post Offices",
+      "zh": "邮政局",
+      "jp": "郵便局",
+      "pt": "Postos de Correio",
+      "de": "Postämter",
+      "it": "Uffici Postali",
+      "es": "Oficinas de Correos",
+      "fr": "Bureaux de Poste"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "52": {
+    "labels": {
+      "kr": "공공 및 사회 서비스",
+      "zh_hant": "公共及社會服務",
+      "en": "Public and Social Services",
+      "zh": "公共及社会服务",
+      "jp": "公共サービス",
+      "pt": "Serviços Públicos e Sociais",
+      "de": "Öffentlichen und Sozialen Dienstleistungen",
+      "it": "Servizi Pubblici e Sociali",
+      "es": "Servicios Públicos y Sociales",
+      "fr": "Services Publics et Sociaux"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "53": {
+    "labels": {
+      "kr": "종교",
+      "zh_hant": "宗教",
+      "en": "Religious",
+      "zh": "宗教",
+      "jp": "宗教",
+      "pt": "Religião",
+      "de": "Religion",
+      "it": "Centri Di Culto e Servizi Religiosi",
+      "es": "Religioso",
+      "fr": "Religieux"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "54": {
+    "labels": {
+      "kr": "불교 사원",
+      "zh_hant": "佛教寺廟",
+      "en": "Buddhist Temples",
+      "zh": "佛教寺庙",
+      "jp": "仏教寺院",
+      "pt": "Templos Budistas",
+      "de": "Buddhistische Tempel",
+      "it": "Templi Buddisti",
+      "es": "Templos Budistas",
+      "fr": "Temples Bouddhistes"
+    },
+    "parents": [
+      "53"
+    ],
+    "abstract": false
+  },
+  "55": {
+    "labels": {
+      "kr": "교회",
+      "zh_hant": "教堂",
+      "en": "Churches",
+      "zh": "教堂",
+      "jp": "教会",
+      "pt": "Igrejas",
+      "de": "Kirchen",
+      "it": "Chiese",
+      "es": "Iglesias",
+      "fr": "Églises"
+    },
+    "parents": [
+      "53"
+    ],
+    "abstract": false
+  },
+  "56": {
+    "labels": {
+      "kr": "힌두교 사원",
+      "zh_hant": "印度教寺廟",
+      "en": "Hindu Temples",
+      "zh": "印度教寺庙",
+      "jp": "ヒンズー教教会",
+      "pt": "Templos Hindus",
+      "de": "Hindu-tempel",
+      "it": "Templi Hindu",
+      "es": "Templos Hindúes",
+      "fr": "Temples Hindous"
+    },
+    "parents": [
+      "53"
+    ],
+    "abstract": false
+  },
+  "57": {
+    "labels": {
+      "kr": "사원",
+      "zh_hant": "清真寺",
+      "en": "Mosques",
+      "zh": "清真寺",
+      "jp": "モスク",
+      "pt": "Mesquitas",
+      "de": "Moscheen",
+      "it": "Moschee",
+      "es": "Mezquitas",
+      "fr": "Mosquées"
+    },
+    "parents": [
+      "53"
+    ],
+    "abstract": false
+  },
+  "58": {
+    "labels": {
+      "kr": "회당",
+      "zh_hant": "猶太教堂",
+      "en": "Synagogues",
+      "zh": "犹太教堂",
+      "jp": "ユダヤ教教会",
+      "pt": "Sinagogas",
+      "de": "Synagogen",
+      "it": "Sinagoghe",
+      "es": "Sinagogas",
+      "fr": "Synagogues"
+    },
+    "parents": [
+      "53"
+    ],
+    "abstract": false
+  },
+  "59": {
+    "labels": {
+      "kr": "노인 서비스",
+      "zh_hant": "老年人服務",
+      "en": "Senior Citizen Services",
+      "zh": "老年人服务",
+      "jp": "老人福祉サービス",
+      "pt": "Serviços de Apoio a Pessoas da Terceira Idade",
+      "de": "Dienstleistungen Für Senioren",
+      "it": "Servizi Per Anziani",
+      "es": "Servicios para Ciudadanos de la Tercera Edad",
+      "fr": "Services Aux Personnes Âgées"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "60": {
+    "labels": {
+      "kr": "은퇴",
+      "zh_hant": "退休服務",
+      "en": "Retirement",
+      "zh": "退休服务",
+      "jp": "定年",
+      "pt": "Reforma",
+      "de": "Ruhestand",
+      "it": "Pensioni",
+      "es": "Jubilación",
+      "fr": "Retraite"
+    },
+    "parents": [
+      "59"
+    ],
+    "abstract": false
+  },
+  "61": {
+    "labels": {
+      "kr": "공과금 회사",
+      "zh_hant": "公用事業公司",
+      "en": "Utility Companies",
+      "zh": "公用事业公司",
+      "jp": "電気／ガス会社",
+      "pt": "Empresas de Serviços Públicos",
+      "de": "Energieversorger",
+      "it": "Gas, Luce, Acqua",
+      "es": "Empresas de Servicios Públicos",
+      "fr": "Sociétés de Services Publics"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
+  },
+  "62": {
+    "labels": {
+      "kr": "건강 관리",
+      "zh_hant": "醫療保健",
+      "en": "Healthcare",
+      "zh": "医疗保健",
+      "jp": "医療",
+      "pt": "Assistência Médica e Sanitária",
+      "de": "Gesundheitswesen",
+      "it": "Assistenza Sanitaria",
+      "es": "Asistencia Sanitaria",
+      "fr": "Soins de Santé"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "63": {
+    "labels": {
+      "kr": "에이즈 자원",
+      "zh_hant": "艾滋病資源",
+      "en": "AIDS Resources",
+      "zh": "艾滋病资源",
+      "jp": "エイズ",
+      "pt": "Recursos relacionados com SIDA",
+      "de": "AIDS Hilfsmittel",
+      "it": "Risorse Per Malati Di Aids",
+      "es": "Recursos para el SIDA",
+      "fr": "Ressources SIDA"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "64": {
+    "labels": {
+      "kr": "생활 서비스 지원",
+      "zh_hant": "生活輔助服務",
+      "en": "Assisted Living Services",
+      "zh": "生活辅助服务",
+      "jp": "介護サービス",
+      "pt": "Serviços de Assistência Pessoal",
+      "de": "Betreutes Wohnen Dienstleistungen",
+      "it": "Assistito Servizi Viventi",
+      "es": "Servicios de Vida Asistida",
+      "fr": "Services Pour Personnes Dépendantes"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "65": {
+    "labels": {
+      "kr": "간병인",
+      "zh_hant": "護工",
+      "en": "Caretakers",
+      "zh": "护工",
+      "jp": "介護士",
+      "pt": "Assostência à Pessoa",
+      "de": "Pflegedienste",
+      "it": "Badanti (assistenti Alla Persona)",
+      "es": "Conserjes",
+      "fr": "Aides-soignants"
+    },
+    "parents": [
+      "64"
+    ],
+    "abstract": false
+  },
+  "66": {
+    "labels": {
+      "kr": "양로원",
+      "zh_hant": "護理院和護理機構",
+      "en": "Facilities and Nursing Homes",
+      "zh": "护理院和护理机构",
+      "jp": "施設および特別養護老人ホーム",
+      "pt": "Lares e Casas de Repouso",
+      "de": "Einrichtungen und Pflegeheime",
+      "it": "Residenze Per Anziani",
+      "es": "Instalaciones y Hogares de Ancianos",
+      "fr": "Résidences Médicalisées"
+    },
+    "parents": [
+      "64"
+    ],
+    "abstract": false
+  },
+  "67": {
+    "labels": {
+      "kr": "혈액 은행 및 센터",
+      "zh_hant": "血庫和血液中心",
+      "en": "Blood Banks and Centers",
+      "zh": "血库和血液中心",
+      "jp": "血液バンク ・ センター",
+      "pt": "Centros de Recolha e Bancos de Sangue",
+      "de": "Blutbanken und Zentren",
+      "it": "Centri e Banche Del Sangue",
+      "es": "Bancos de Sangre y Centros",
+      "fr": "Banques de Sang"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "68": {
+    "labels": {
+      "kr": "정형",
+      "zh_hant": "脊醫",
+      "en": "Chiropractors",
+      "zh": "脊医",
+      "jp": "カイロプラクティック",
+      "pt": "Quiropráticos",
+      "de": "Chiropraktiker",
+      "it": "Chiropratici",
+      "es": "Quiroprácticos",
+      "fr": "Chiropraticiens"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "69": {
+    "labels": {
+      "kr": "치과",
+      "zh_hant": "牙醫",
+      "en": "Dentists",
+      "zh": "牙医",
+      "jp": "歯科医",
+      "pt": "Dentistas",
+      "de": "Zahnärzte",
+      "it": "Dentisti",
+      "es": "Dentistas",
+      "fr": "Dentistes"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "70": {
+    "labels": {
+      "kr": "응급 서비스",
+      "zh_hant": "緊急救助",
+      "en": "Emergency Services",
+      "zh": "紧急救助",
+      "jp": "救急サービス",
+      "pt": "Serviços de Emergência",
+      "de": "Notdienste",
+      "it": "Servizi Di Emergenza",
+      "es": "Servicios de Emergencia",
+      "fr": "Services D'urgence"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "71": {
+    "labels": {
+      "kr": "구급차",
+      "zh_hant": "救護車",
+      "en": "Ambulance",
+      "zh": "救护车",
+      "jp": "救急車",
+      "pt": "Ambulância",
+      "de": "Krankenwagen",
+      "it": "Ambulanze",
+      "es": "Ambulancia",
+      "fr": "Ambulance"
+    },
+    "parents": [
+      "70"
+    ],
+    "abstract": false
+  },
+  "72": {
+    "labels": {
+      "kr": "전체론적 의학, 자연요법",
+      "zh_hant": "整體療法、替代療法和自然療法",
+      "en": "Holistic, Alternative and Naturopathic Medicine",
+      "zh": "整体疗法、替代疗法和自然疗法",
+      "jp": "東洋および自然療法医学",
+      "pt": "Medicinas Alternativas e Naturais",
+      "de": "Ganzheitliche, Komplementärmedizinischen und Naturheilkundlichen",
+      "it": "Medicina Olistica, Alternativa e Naturopatica",
+      "es": "Medicina Holística, Alternativa y Naturista",
+      "fr": "Holistique, Médecine Douce et de Naturopathie"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "73": {
+    "labels": {
+      "kr": "침술",
+      "zh_hant": "針灸",
+      "en": "Acupuncture",
+      "zh": "针灸",
+      "jp": "鍼治療",
+      "pt": "Acupunctura",
+      "de": "Akupunktur",
+      "it": "Agopuntura",
+      "es": "Acupuntura",
+      "fr": "Acupuncture"
+    },
+    "parents": [
+      "72"
+    ],
+    "abstract": false
+  },
+  "74": {
+    "labels": {
+      "kr": "병원 및 의료 센터",
+      "zh_hant": "醫院、診所和醫療中心",
+      "en": "Hospitals, Clinics and Medical Centers",
+      "zh": "医院、诊所和医疗中心",
+      "jp": "病院、診療所、医療センター",
+      "pt": "Hospitais, Clínicas e Centros Médicos",
+      "de": "Krankenhäuser, Kliniken und Medizinische Zentren",
+      "it": "Ospedali, Cliniche e Centri Medici",
+      "es": "Hospitales, Clínicas y Centros Médicos",
+      "fr": "Hôpitaux, Cliniques et Centres Médicaux"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "75": {
+    "labels": {
+      "kr": "의료 용품 및 실험실",
+      "zh_hant": "醫療用品和實驗室",
+      "en": "Medical Supplies and Labs",
+      "zh": "医疗用品和实验室",
+      "jp": "医療用品・ ラボ",
+      "pt": "Material Médico e Laboratórios",
+      "de": "Medizintechnik und Laboratorien",
+      "it": "Forniture Mediche e Laboratori",
+      "es": "Suministros Médicos y Laboratorios",
+      "fr": "Matériel Médical et Laboratoires"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "76": {
+    "labels": {
+      "kr": "정신 건강",
+      "zh_hant": "心理健康",
+      "en": "Mental Health",
+      "zh": "心理健康",
+      "jp": "精神科",
+      "pt": "Saúde Mental",
+      "de": "Psychische Gesundheit",
+      "it": "Salute Mentale",
+      "es": "Salud Mental",
+      "fr": "Santé Mentale"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "77": {
+    "labels": {
+      "kr": "상담 및 치료",
+      "zh_hant": "心理咨詢和治療",
+      "en": "Counseling and Therapy",
+      "zh": "心理咨询和治疗",
+      "jp": "カウンセリング ・ セラピー",
+      "pt": "Aconselhamento e Terapia",
+      "de": "Beratung und Therapie",
+      "it": "Consulenza e Terapia",
+      "es": "Asesoramiento y Terapia",
+      "fr": "Aide Psychosocial et Thérapie"
+    },
+    "parents": [
+      "76"
+    ],
+    "abstract": false
+  },
+  "78": {
+    "labels": {
+      "kr": "심리학자",
+      "zh_hant": "心理學家",
+      "en": "Psychologists",
+      "zh": "心理学家",
+      "jp": "心理学者",
+      "pt": "Psicólogos",
+      "de": "Psychologen",
+      "it": "Psicologi",
+      "es": "Psicólogos",
+      "fr": "Psychologues"
+    },
+    "parents": [
+      "76"
+    ],
+    "abstract": false
+  },
+  "79": {
+    "labels": {
+      "kr": "간호사",
+      "zh_hant": "護士",
+      "en": "Nurses",
+      "zh": "护士",
+      "jp": "看護師",
+      "pt": "Enfermeiros",
+      "de": "Krankenschwestern",
+      "it": "Infermieri",
+      "es": "Enfermeras",
+      "fr": "Infirmières"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "80": {
+    "labels": {
+      "kr": "약국",
+      "zh_hant": "藥房",
+      "en": "Pharmacies",
+      "zh": "药房",
+      "jp": "薬局",
+      "pt": "Farmácias",
+      "de": "Apotheken",
+      "it": "Farmacie",
+      "es": "Farmacias",
+      "fr": "Pharmacies"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "81": {
+    "labels": {
+      "kr": "물리 치료 및 재활",
+      "zh_hant": "物理治療和康復治療",
+      "en": "Physical Therapy and Rehabilitation",
+      "zh": "物理治疗和康复治疗",
+      "jp": "理学療法、リハビリ",
+      "pt": "Terapia Física e Reabilitação",
+      "de": "Physikalische Therapie und Rehabilitation",
+      "it": "Terapia Fisica e Riabilitazione",
+      "es": "Terapia Física y Rehabilitación",
+      "fr": "Physiothérapie et Réadaptation Physique"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "82": {
+    "labels": {
+      "kr": "스포츠 의학",
+      "zh_hant": "運動醫學",
+      "en": "Sports Medicine",
+      "zh": "运动医学",
+      "jp": "スポーツ医学",
+      "pt": "Medicina Desportiva",
+      "de": "Sportmedizin",
+      "it": "Medicina Dello Sport",
+      "es": "Medicina Deportiva",
+      "fr": "Médecine Sportive"
+    },
+    "parents": [
+      "81"
+    ],
+    "abstract": false
+  },
+  "83": {
+    "labels": {
+      "kr": "의사",
+      "zh_hant": "醫生",
+      "en": "Physicians",
+      "zh": "医生",
+      "jp": "医師",
+      "pt": "Médicos",
+      "de": "Ärzte",
+      "it": "Medici",
+      "es": "Médicos",
+      "fr": "Médecins"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "84": {
+    "labels": {
+      "kr": "마취의사",
+      "zh_hant": "麻醉師",
+      "en": "Anesthesiologists",
+      "zh": "麻醉师",
+      "jp": "麻酔科",
+      "pt": "Anestesistas",
+      "de": "Anästhesisten",
+      "it": "Anestesisti",
+      "es": "Anestesiólogos",
+      "fr": "Anesthésistes"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "85": {
+    "labels": {
+      "kr": "심장",
+      "zh_hant": "心臟科",
+      "en": "Cardiologists",
+      "zh": "心脏科",
+      "jp": "心臓外科医",
+      "pt": "Cardiologistas",
+      "de": "Kardiologen",
+      "it": "Cardiologi",
+      "es": "Cardiólogos",
+      "fr": "Cardiologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "86": {
+    "labels": {
+      "kr": "피부과",
+      "zh_hant": "皮膚科",
+      "en": "Dermatologists",
+      "zh": "皮肤科",
+      "jp": "皮膚科医",
+      "pt": "Dermatologistas",
+      "de": "Hautärzte",
+      "it": "Dermatologi",
+      "es": "Dermatólogos",
+      "fr": "Dermatologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "87": {
+    "labels": {
+      "kr": "귀, 코와 목",
+      "zh_hant": "耳鼻喉科",
+      "en": "Ear, Nose and Throat",
+      "zh": "耳鼻喉科",
+      "jp": "耳鼻咽喉科",
+      "pt": "Otorrinolaringologistas",
+      "de": "Hals-, Nasen-und Ohrenheilkunde",
+      "it": "Otorinolaringoiatri",
+      "es": "Oído, Nariz y Garganta",
+      "fr": "Orl (oto-rhino-laryngologist)"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "88": {
+    "labels": {
+      "kr": "가정 의학",
+      "zh_hant": "家庭醫生",
+      "en": "Family Medicine",
+      "zh": "家庭医生",
+      "jp": "内科一般",
+      "pt": "Médicos de Família",
+      "de": "Familienmedizin",
+      "it": "Medici Di Base",
+      "es": "Medicina Familiar",
+      "fr": "Médecins de Famille"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "89": {
+    "labels": {
+      "kr": "위장병학",
+      "zh_hant": "消化科",
+      "en": "Gastroenterologists",
+      "zh": "消化科",
+      "jp": "消化器科",
+      "pt": "Gastrenterologistas",
+      "de": "Gastroenterologen",
+      "it": "Gastroenterologi",
+      "es": "Gastroenterólogos",
+      "fr": "Gastro-entérologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "90": {
+    "labels": {
+      "kr": "일반 외과",
+      "zh_hant": "普外科",
+      "en": "General Surgery",
+      "zh": "普外科",
+      "jp": "外科",
+      "pt": "Cirurgia Geral",
+      "de": "Allgemeine Chirurgie",
+      "it": "Chirurghi Generali",
+      "es": "Cirugía General",
+      "fr": "Chirurgie Générale"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "91": {
+    "labels": {
+      "kr": "내과",
+      "zh_hant": "內科",
+      "en": "Internal Medicine",
+      "zh": "内科",
+      "jp": "内科",
+      "pt": "Medicina Interna",
+      "de": "Innere Medizin",
+      "it": "Medicina Interna",
+      "es": "Medicina Interna",
+      "fr": "Médecine Interne"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "92": {
+    "labels": {
+      "kr": "신경과",
+      "zh_hant": "神經科",
+      "en": "Neurologists",
+      "zh": "神经科",
+      "jp": "神経科医",
+      "pt": "Neurologistas",
+      "de": "Neurologen",
+      "it": "Neurologi",
+      "es": "Neurólogos",
+      "fr": "Neurologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "93": {
+    "labels": {
+      "kr": "산부인과 부인과",
+      "zh_hant": "婦產科",
+      "en": "Obstetricians and Gynecologists",
+      "zh": "妇产科",
+      "jp": "産婦人科",
+      "pt": "Obstetras e Ginecologistas",
+      "de": "Geburtshelfer und Gynäkologen",
+      "it": "Ostetrici e Ginecologi",
+      "es": "Obstetras y Ginecólogos",
+      "fr": "Obstétriciens et Gynécologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "94": {
+    "labels": {
+      "kr": "종양학",
+      "zh_hant": "腫瘤科",
+      "en": "Oncologists",
+      "zh": "肿瘤科",
+      "jp": "腫瘍",
+      "pt": "Oncologistas",
+      "de": "Onkologen",
+      "it": "Oncologi",
+      "es": "Oncólogos",
+      "fr": "Oncologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "95": {
+    "labels": {
+      "kr": "안과",
+      "zh_hant": "眼科",
+      "en": "Ophthalmologists",
+      "zh": "眼科",
+      "jp": "眼科医",
+      "pt": "Oftalmologistas",
+      "de": "Augenärzte",
+      "it": "Oculisti",
+      "es": "Oftalmólogos",
+      "fr": "Ophtalmologistes"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "96": {
+    "labels": {
+      "kr": "정형 외과",
+      "zh_hant": "骨科",
+      "en": "Orthopedic Surgeons",
+      "zh": "骨科",
+      "jp": "整形外科",
+      "pt": "Cirurgiões Ortopédicos",
+      "de": "Orthopäden",
+      "it": "Chirurghi Ortopedici",
+      "es": "Cirujanos Ortopédicos",
+      "fr": "Chirurgiens Orthopédistes"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "97": {
+    "labels": {
+      "kr": "병리학",
+      "zh_hant": "病理科",
+      "en": "Pathologists",
+      "zh": "病理科",
+      "jp": "病理",
+      "pt": "Patologistas",
+      "de": "Pathologen",
+      "it": "Patologi",
+      "es": "Patólogos",
+      "fr": "Pathologistes"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "98": {
+    "labels": {
+      "kr": "소아과",
+      "zh_hant": "兒科",
+      "en": "Pediatricians",
+      "zh": "儿科",
+      "jp": "小児科医",
+      "pt": "Pediatras",
+      "de": "Kinderarzt",
+      "it": "Pediatri",
+      "es": "Pediatras",
+      "fr": "Pédiatres"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "99": {
+    "labels": {
+      "kr": "성형 외과",
+      "zh_hant": "整形外科",
+      "en": "Plastic Surgeons",
+      "zh": "整形外科",
+      "jp": "整形外科",
+      "pt": "Cirurgiões Plásticos",
+      "de": "Plastische Chirurgie",
+      "it": "Chirurghi Plastici",
+      "es": "Cirujanos Plásticos",
+      "fr": "Chirurgiens Esthétique"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "100": {
+    "labels": {
+      "kr": "정신과",
+      "zh_hant": "精神科",
+      "en": "Psychiatrists",
+      "zh": "精神科",
+      "jp": "精神科医",
+      "pt": "Psiquiatras",
+      "de": "Psychiater",
+      "it": "Psichiatri",
+      "es": "Psiquiatras",
+      "fr": "Psychiatres"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "101": {
+    "labels": {
+      "kr": "방사선",
+      "zh_hant": "放射科",
+      "en": "Radiologists",
+      "zh": "放射科",
+      "jp": "レントゲン技師",
+      "pt": "Radiologistas",
+      "de": "Radiologie",
+      "it": "Radiologi",
+      "es": "Radiólogos",
+      "fr": "Radiologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "102": {
+    "labels": {
+      "kr": "호흡기",
+      "zh_hant": "呼吸科",
+      "en": "Respiratory",
+      "zh": "呼吸科",
+      "jp": "呼吸器科",
+      "pt": "Pneumologia",
+      "de": "Atemschutz",
+      "it": "Pneumologi",
+      "es": "Respiratorio",
+      "fr": "Médecine Respiratoire"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "103": {
+    "labels": {
+      "kr": "비뇨기과",
+      "zh_hant": "泌尿科",
+      "en": "Urologists",
+      "zh": "泌尿科",
+      "jp": "泌尿器科",
+      "pt": "Urologistas",
+      "de": "Urologen",
+      "it": "Urologi",
+      "es": "Urólogos",
+      "fr": "Urologues"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "104": {
+    "labels": {
+      "kr": "발병 전문가",
+      "zh_hant": "足病診療師",
+      "en": "Podiatrists",
+      "zh": "足病诊疗师",
+      "jp": "足治療医",
+      "pt": "Podólogos",
+      "de": "Podologen",
+      "it": "Podologi",
+      "es": "Podólogos",
+      "fr": "Podiatres"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "105": {
+    "labels": {
+      "kr": "임신과 성적인 건강",
+      "zh_hant": "懷孕和性健康",
+      "en": "Pregnancy and Sexual Health",
+      "zh": "怀孕和性健康",
+      "jp": "妊娠および",
+      "pt": "Gravidez e Saúde Sexual",
+      "de": "Schwangerschaft und Sexuelle Gesundheit",
+      "it": "Gravidanza e Salute Sessuale",
+      "es": "Embarazo y Salud Sexual",
+      "fr": "Grossesse et Santé Sexuelle"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "106": {
+    "labels": {
+      "kr": "체중 감량 및 영양사",
+      "zh_hant": "減肥和營養學家",
+      "en": "Weight Loss and Nutritionists",
+      "zh": "减肥和营养学家",
+      "jp": "減量と栄養士",
+      "pt": "Perda de Peso e Nutricionistas",
+      "de": "Gewichtsabnahme und Ernährungsberater",
+      "it": "Dimagrimento e Nutrizionisti",
+      "es": "Pérdida de Peso y Nutricionistas",
+      "fr": "Perte de Poids et Nutritionnistes"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "107": {
+    "labels": {
+      "kr": "명소",
+      "zh_hant": "地標",
+      "en": "Landmarks",
+      "zh": "地标",
+      "jp": "名所",
+      "pt": "Marcos",
+      "de": "Sehenswürdigkeiten",
+      "it": "Luoghi Di Interesse",
+      "es": "Lugares Señeros",
+      "fr": "Repères"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "108": {
+    "labels": {
+      "kr": "건물 및 구조",
+      "zh_hant": "建築和工程",
+      "en": "Buildings and Structures",
+      "zh": "建筑和工程",
+      "jp": "建物及び構築物",
+      "pt": "Edifícios e Estruturas",
+      "de": "Bauwerke und Strukturen",
+      "it": "Edifici",
+      "es": "Edificios y Estructuras",
+      "fr": "Bâtiments et Structures"
+    },
+    "parents": [
+      "107"
+    ],
+    "abstract": false
+  },
+  "109": {
+    "labels": {
+      "kr": "정원",
+      "zh_hant": "園林",
+      "en": "Gardens",
+      "zh": "园林",
+      "jp": "庭園",
+      "pt": "Jardins",
+      "de": "Gärten",
+      "it": "Giardini Pubblici e Parchi",
+      "es": "Jardines",
+      "fr": "Jardins"
+    },
+    "parents": [
+      "107"
+    ],
+    "abstract": false
+  },
+  "110": {
+    "labels": {
+      "kr": "역사 및 보호 된 장소",
+      "zh_hant": "古跡和保護性景點",
+      "en": "Historic and Protected Sites",
+      "zh": "古迹和保护性景点",
+      "jp": "指定文化財",
+      "pt": "Lugares Históricos e Protegidos",
+      "de": "Historische und Geschützte Standort",
+      "it": "Siti Storici e Protetti",
+      "es": "Sitios Históricos y Protegidos",
+      "fr": "Lieux Historiques et Protégées"
+    },
+    "parents": [
+      "107"
+    ],
+    "abstract": false
+  },
+  "111": {
+    "labels": {
+      "kr": "기념물 및 기념관",
+      "zh_hant": "紀念碑和紀念館",
+      "en": "Monuments and Memorials",
+      "zh": "纪念碑和纪念馆",
+      "jp": "記念碑",
+      "pt": "Monumentos Históricos e Comemorativos",
+      "de": "Denkmäler und Gedenkstätten",
+      "it": "Monumenti e Memoriali",
+      "es": "Monumentos y Memoriales",
+      "fr": "Monuments Historiques et Commémoratifs"
+    },
+    "parents": [
+      "107"
+    ],
+    "abstract": false
+  },
+  "112": {
+    "labels": {
+      "kr": "자연",
+      "zh_hant": "自然景觀",
+      "en": "Natural",
+      "zh": "自然景观",
+      "jp": "自然",
+      "pt": "Natureza",
+      "de": "Natur",
+      "it": "Naturali",
+      "es": "Natural",
+      "fr": "Naturelles"
+    },
+    "parents": [
+      "107"
+    ],
+    "abstract": false
+  },
+  "113": {
+    "labels": {
+      "kr": "해수욕장",
+      "zh_hant": "海灘",
+      "en": "Beaches",
+      "zh": "海滩",
+      "jp": "海岸",
+      "pt": "Praias",
+      "de": "Strände",
+      "it": "Spiagge",
+      "es": "Playas",
+      "fr": "Plages"
+    },
+    "parents": [
+      "112"
+    ],
+    "abstract": false
+  },
+  "114": {
+    "labels": {
+      "kr": "산",
+      "zh_hant": "山",
+      "en": "Mountains",
+      "zh": "山",
+      "jp": "山",
+      "pt": "Montanhas",
+      "de": "Berge",
+      "it": "Montagne",
+      "es": "Montañas",
+      "fr": "Montagnes"
+    },
+    "parents": [
+      "112"
+    ],
+    "abstract": false
+  },
+  "115": {
+    "labels": {
+      "kr": "숲",
+      "zh_hant": "森林",
+      "en": "Forests",
+      "zh": "森林",
+      "jp": "森",
+      "pt": "Florestas",
+      "de": "Wälder",
+      "it": "Foreste",
+      "es": "Bosques",
+      "fr": "Forêts"
+    },
+    "parents": [
+      "112"
+    ],
+    "abstract": false
+  },
+  "116": {
+    "labels": {
+      "kr": "호수",
+      "zh_hant": "湖",
+      "en": "Lakes",
+      "zh": "湖",
+      "jp": "湖",
+      "pt": "Lagos",
+      "de": "Seen",
+      "it": "Laghi",
+      "es": "Lagos",
+      "fr": "Lacs"
+    },
+    "parents": [
+      "112"
+    ],
+    "abstract": false
+  },
+  "117": {
+    "labels": {
+      "kr": "강",
+      "zh_hant": "河流",
+      "en": "Rivers",
+      "zh": "河流",
+      "jp": "川",
+      "pt": "Rios",
+      "de": "Flüsse",
+      "it": "Fiumi",
+      "es": "Ríos",
+      "fr": "Rivières"
+    },
+    "parents": [
+      "112"
+    ],
+    "abstract": false
+  },
+  "118": {
+    "labels": {
+      "kr": "공원",
+      "zh_hant": "公園",
+      "en": "Parks",
+      "zh": "公园",
+      "jp": "公園",
+      "pt": "Parques",
+      "de": "Parks",
+      "it": "Parchi",
+      "es": "Parques",
+      "fr": "Parcs"
+    },
+    "parents": [
+      "107"
+    ],
+    "abstract": false
+  },
+  "119": {
+    "labels": {
+      "kr": "자연 공원",
+      "zh_hant": "自然公園",
+      "en": "Natural Parks",
+      "zh": "自然公园",
+      "jp": "自然公園",
+      "pt": "Parques Naturais",
+      "de": "Naturparks",
+      "it": "Parchi Naturali",
+      "es": "Parques Naturales",
+      "fr": "Parcs Naturels"
+    },
+    "parents": [
+      "118"
+    ],
+    "abstract": false
+  },
+  "120": {
+    "labels": {
+      "kr": "소풍 장소",
+      "zh_hant": "野餐區",
+      "en": "Picnic Areas",
+      "zh": "野餐区",
+      "jp": "ピクニック",
+      "pt": "Parques de Merendas",
+      "de": "Picknick-plätze",
+      "it": "Aree Pic-nic",
+      "es": "Áreas de Comer Afuera",
+      "fr": "Aires de Pique-nique"
+    },
+    "parents": [
+      "118"
+    ],
+    "abstract": false
+  },
+  "121": {
+    "labels": {
+      "kr": "놀이터",
+      "zh_hant": "遊樂園",
+      "en": "Playgrounds",
+      "zh": "游乐园",
+      "jp": "遊び場",
+      "pt": "Parques Infantis",
+      "de": "Spielplätze",
+      "it": "Parchi Giochi",
+      "es": "Patios de Recreo",
+      "fr": "Aires de Jeux"
+    },
+    "parents": [
+      "118"
+    ],
+    "abstract": false
+  },
+  "122": {
+    "labels": {
+      "kr": "도시 공원",
+      "zh_hant": "城市公園",
+      "en": "Urban Parks",
+      "zh": "城市公园",
+      "jp": "公園",
+      "pt": "Parques Urbanos",
+      "de": "Stadtparks",
+      "it": "Parchi Urbani",
+      "es": "Parques Urbanos",
+      "fr": "Parcs Urbains"
+    },
+    "parents": [
+      "118"
+    ],
+    "abstract": false
+  },
+  "123": {
+    "labels": {
+      "kr": "소매",
+      "zh_hant": "零售",
+      "en": "Retail",
+      "zh": "零售",
+      "jp": "小売",
+      "pt": "Venda a Retalho",
+      "de": "Einzelhandel",
+      "it": "Vendita Al Dettaglio",
+      "es": "Venta al por Menor",
+      "fr": "Vente Au Détail"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "124": {
+    "labels": {
+      "kr": "성인",
+      "zh_hant": "成人用品",
+      "en": "Adult",
+      "zh": "成人用品",
+      "jp": "紳士、婦人",
+      "pt": "Adulto",
+      "de": "Erwachsener",
+      "it": "Sexy Shop",
+      "es": "Adulto",
+      "fr": "Adulte"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "125": {
+    "labels": {
+      "kr": "골동품",
+      "zh_hant": "古董",
+      "en": "Antiques",
+      "zh": "古董",
+      "jp": "骨董品",
+      "pt": "Antiguidades",
+      "de": "Antiquitäten",
+      "it": "Antiquariato",
+      "es": "Antigüedades",
+      "fr": "Antiquités"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "126": {
+    "labels": {
+      "kr": "예술 및 공예",
+      "zh_hant": "工藝品",
+      "en": "Arts and Crafts",
+      "zh": "工艺品",
+      "jp": "美術・工芸",
+      "pt": "Artesanato",
+      "de": "Kunst und Kunsthandwerk",
+      "it": "Hobby e Progettistica",
+      "es": "Artes y Artesanía",
+      "fr": "Artisanat"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "127": {
+    "labels": {
+      "kr": "경매",
+      "zh_hant": "拍賣會",
+      "en": "Auctions",
+      "zh": "拍卖会",
+      "jp": "オークション",
+      "pt": "Leilões",
+      "de": "Versteigerung",
+      "it": "Aste",
+      "es": "Subastas",
+      "fr": "Ventes Aux Enchères"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "128": {
+    "labels": {
+      "kr": "미용 제품",
+      "zh_hant": "美容產品",
+      "en": "Beauty Products",
+      "zh": "美容产品",
+      "jp": "美容製品",
+      "pt": "Produtos de Beleza",
+      "de": "Schönheitspflege",
+      "it": "Prodotti Di Bellezza",
+      "es": "Productos de Belleza",
+      "fr": "Produits de Beauté"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "129": {
+    "labels": {
+      "kr": "자전거",
+      "zh_hant": "自行車",
+      "en": "Bicycles",
+      "zh": "自行车",
+      "jp": "自転車",
+      "pt": "Bicicletas",
+      "de": "Fahrräder",
+      "it": "Biciclette",
+      "es": "Bicicletas",
+      "fr": "Vélos"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "130": {
+    "labels": {
+      "kr": "서점",
+      "zh_hant": "書店",
+      "en": "Bookstores",
+      "zh": "书店",
+      "jp": "書店",
+      "pt": "Livrarias",
+      "de": "Buchhandlungen",
+      "it": "Librerie",
+      "es": "Librerías",
+      "fr": "Librairies"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "131": {
+    "labels": {
+      "kr": "카드와 편지지",
+      "zh_hant": "賀卡和文具",
+      "en": "Cards and Stationery",
+      "zh": "贺卡和文具",
+      "jp": "カードや文房具",
+      "pt": "Artigos de Papelaria",
+      "de": "Karten und Briefpapier",
+      "it": "Articoli Di Cancelleria",
+      "es": "Tarjetas y Papelería",
+      "fr": "Cartes et Papeterie"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "132": {
+    "labels": {
+      "kr": "어린이",
+      "zh_hant": "兒童用品",
+      "en": "Children",
+      "zh": "儿童用品",
+      "jp": "子供",
+      "pt": "Crianças",
+      "de": "Kinder",
+      "it": "Bambini",
+      "es": "Niños",
+      "fr": "Enfants"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "133": {
+    "labels": {
+      "kr": "컴퓨터 및 전자 제품",
+      "zh_hant": "電腦和電子產品",
+      "en": "Computers and Electronics",
+      "zh": "电脑和电子产品",
+      "jp": "コンピューターや電子機器",
+      "pt": "Informática e Electrónica",
+      "de": "Computer und Elektronik",
+      "it": "Computer Ed Elettronica",
+      "es": "Computadoras y Electrónica",
+      "fr": "Informatique et Électronique"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "134": {
+    "labels": {
+      "kr": "카메라",
+      "zh_hant": "照相機",
+      "en": "Cameras",
+      "zh": "照相机",
+      "jp": "カメラ",
+      "pt": "Câmeras",
+      "de": "Kameras",
+      "it": "Fotocamere",
+      "es": "Cámaras",
+      "fr": "Caméras"
+    },
+    "parents": [
+      "133"
+    ],
+    "abstract": false
+  },
+  "135": {
+    "labels": {
+      "kr": "휴대 전화",
+      "zh_hant": "移動電話",
+      "en": "Mobile Phones",
+      "zh": "移动电话",
+      "jp": "携帯電話",
+      "pt": "Telemóveis",
+      "de": "Handys",
+      "it": "Telefoni Cellulari",
+      "es": "Teléfonos Móviles",
+      "fr": "Téléphones Portables"
+    },
+    "parents": [
+      "133"
+    ],
+    "abstract": false
+  },
+  "136": {
+    "labels": {
+      "kr": "비디오 게임",
+      "zh_hant": "電子遊戲",
+      "en": "Video Games",
+      "zh": "电子游戏",
+      "jp": "ビデオ ゲーム",
+      "pt": "Jogos de Vídeo",
+      "de": "Video-spiele",
+      "it": "Video Giochi",
+      "es": "Videojuegos",
+      "fr": "Jeux Vidéo"
+    },
+    "parents": [
+      "133"
+    ],
+    "abstract": false
+  },
+  "137": {
+    "labels": {
+      "kr": "건설 재료",
+      "zh_hant": "建築材料",
+      "en": "Construction Supplies",
+      "zh": "建筑材料",
+      "jp": "建築資材",
+      "pt": "Material de Construção",
+      "de": "Baustoffe",
+      "it": "Forniture Per L'edilizia",
+      "es": "Suministros para la Construcción",
+      "fr": "Matériel de Construction"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "138": {
+    "labels": {
+      "kr": "편의점",
+      "zh_hant": "便利店",
+      "en": "Convenience Stores",
+      "zh": "便利店",
+      "jp": "コンビニ",
+      "pt": "Drogarias",
+      "de": "Verbrauchermärkte",
+      "it": "Tabaccaio",
+      "es": "Tiendas de Conveniencia",
+      "fr": "Dépanneurs"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "139": {
+    "labels": {
+      "kr": "의상",
+      "zh_hant": "特殊服裝",
+      "en": "Costumes",
+      "zh": "特殊服装",
+      "jp": "衣装",
+      "pt": "Máscaras e Disfarces",
+      "de": "Kostüme",
+      "it": "Costumi e Maschere",
+      "es": "Disfraces",
+      "fr": "Costumes"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "140": {
+    "labels": {
+      "kr": "댄스와 음악",
+      "zh_hant": "舞蹈和音樂",
+      "en": "Dance and Music",
+      "zh": "舞蹈和音乐",
+      "jp": "ダンスと音楽",
+      "pt": "Música e Dança",
+      "de": "Tanz und Musik",
+      "it": "Musica e Danza",
+      "es": "Baile y Música",
+      "fr": "Danse et Musique"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "141": {
+    "labels": {
+      "kr": "백화점",
+      "zh_hant": "百貨商店和折扣店",
+      "en": "Department Stores",
+      "zh": "百货商店和折扣店",
+      "jp": "百貨店",
+      "pt": "Lojas de Departamento",
+      "de": "Kaufhäuser",
+      "it": "Grandi Magazzini",
+      "es": "Tiendas Departamentales",
+      "fr": "Magasin À Grande Surface"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "142": {
+    "labels": {
+      "kr": "패션",
+      "zh_hant": "時尚",
+      "en": "Fashion",
+      "zh": "时尚",
+      "jp": "ファッション",
+      "pt": "Moda",
+      "de": "Mode",
+      "it": "Moda",
+      "es": "Moda",
+      "fr": "Mode"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "143": {
+    "labels": {
+      "kr": "의류 및 액세서리",
+      "zh_hant": "服裝和配飾",
+      "en": "Clothing and Accessories",
+      "zh": "服装和配饰",
+      "jp": "服やアクセサリー",
+      "pt": "Roupa e Acessórios",
+      "de": "Mode und Accessoires",
+      "it": "Abbigliamento e Accessori",
+      "es": "Ropa y Accesorios",
+      "fr": "Vêtements et Accessoires"
+    },
+    "parents": [
+      "142"
+    ],
+    "abstract": false
+  },
+  "144": {
+    "labels": {
+      "kr": "보석, 시계",
+      "zh_hant": "珠寶首飾和鐘表",
+      "en": "Jewelry and Watches",
+      "zh": "珠宝首饰和钟表",
+      "jp": "宝飾品と時計",
+      "pt": "Jóias e Relógios",
+      "de": "Schmuck und Uhren",
+      "it": "Gioielli e Orologi",
+      "es": "Joyería y Relojes",
+      "fr": "Bijoux et Montres"
+    },
+    "parents": [
+      "142"
+    ],
+    "abstract": false
+  },
+  "145": {
+    "labels": {
+      "kr": "신발",
+      "zh_hant": "鞋",
+      "en": "Shoes",
+      "zh": "鞋",
+      "jp": "靴",
+      "pt": "Sapatos",
+      "de": "Schuhe",
+      "it": "Calzature",
+      "es": "Zapatos",
+      "fr": "Chaussures"
+    },
+    "parents": [
+      "142"
+    ],
+    "abstract": false
+  },
+  "146": {
+    "labels": {
+      "kr": "수영복",
+      "zh_hant": "泳裝",
+      "en": "Swimwear",
+      "zh": "泳装",
+      "jp": "水着",
+      "pt": "Fatos de Banho",
+      "de": "Bademode",
+      "it": "Costumi Da Bagno",
+      "es": "Trajes de Baño",
+      "fr": "Maillots de Bain"
+    },
+    "parents": [
+      "142"
+    ],
+    "abstract": false
+  },
+  "147": {
+    "labels": {
+      "kr": "벼룩 시장",
+      "zh_hant": "跳蚤市場",
+      "en": "Flea Markets",
+      "zh": "跳蚤市场",
+      "jp": "フリー マーケット",
+      "pt": "Mercados",
+      "de": "Flohmärkte",
+      "it": "Mercati Delle Pulci",
+      "es": "Mercadillo",
+      "fr": "Marchés Aux Puces"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "148": {
+    "labels": {
+      "kr": "꽃화원",
+      "zh_hant": "花店",
+      "en": "Florists",
+      "zh": "花店",
+      "jp": "花屋",
+      "pt": "Floristas",
+      "de": "Floristen",
+      "it": "Fioristi",
+      "es": "Floristas",
+      "fr": "Fleuristes"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "149": {
+    "labels": {
+      "kr": "식품 및 음료",
+      "zh_hant": "食品和飲料",
+      "en": "Food and Beverage",
+      "zh": "食品和饮料",
+      "jp": "食品と飲料",
+      "pt": "Comida e Bebida",
+      "de": "Lebensmittel und Getränke",
+      "it": "Cibo e Bevande",
+      "es": "Comida y Bebida",
+      "fr": "Aliments et Boissons"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "150": {
+    "labels": {
+      "kr": "맥주, 와인과 술",
+      "zh_hant": "啤酒、葡萄酒和烈酒",
+      "en": "Beer, Wine and Spirits",
+      "zh": "啤酒、葡萄酒和烈酒",
+      "jp": "ビール、ワイン、酒類",
+      "pt": "Cerveja, Vinho e Licores",
+      "de": "Bier, Wein und Spirituosen",
+      "it": "Birra, Vino e Liquori",
+      "es": "Cerveza, Vino y Licores",
+      "fr": "Bière, Vins et Spiritueux"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "151": {
+    "labels": {
+      "kr": "사탕 상점",
+      "zh_hant": "糖果店",
+      "en": "Candy Stores",
+      "zh": "糖果店",
+      "jp": "お菓子店",
+      "pt": "Confeitarias",
+      "de": "Süßwarengeschäfte",
+      "it": "Negozi Di Caramelle",
+      "es": "Tiendas de Dulces",
+      "fr": "Magasins À Bonbons, Confiserie"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "152": {
+    "labels": {
+      "kr": "치즈",
+      "zh_hant": "奶酪",
+      "en": "Cheese",
+      "zh": "奶酪",
+      "jp": "チーズ",
+      "pt": "Queijo",
+      "de": "Käse",
+      "it": "Formaggio",
+      "es": "Queso",
+      "fr": "Fromage"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "153": {
+    "labels": {
+      "kr": "초콜릿",
+      "zh_hant": "巧克力",
+      "en": "Chocolate",
+      "zh": "巧克力",
+      "jp": "チョコレート",
+      "pt": "Chocolate",
+      "de": "Schokolade",
+      "it": "Al Cioccolato",
+      "es": "Chocolate",
+      "fr": "Chocolat"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "154": {
+    "labels": {
+      "kr": "농산물 시장",
+      "zh_hant": "農貿市場",
+      "en": "Farmers' Markets",
+      "zh": "农贸市场",
+      "jp": "青空市場",
+      "pt": "Mercados ao Ar Livre",
+      "de": "Bauernmärkte",
+      "it": "Mercati Ortofrutticoli",
+      "es": "Mercado al Aire Libre",
+      "fr": "Marchés Fermier"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "155": {
+    "labels": {
+      "kr": "건강 및 다이어트 식품",
+      "zh_hant": "保健和減肥食品",
+      "en": "Health and Diet Food",
+      "zh": "保健和减肥食品",
+      "jp": "健康とダイエット食品",
+      "pt": "Comida Saudável e Dietética",
+      "de": "Gesundheit und Ernährung Lebensmittel",
+      "it": "Cibi Salutisi e Dietetici",
+      "es": "Salud y Dieta Alimentaria",
+      "fr": "Santé et de L'alimentation Diète"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "156": {
+    "labels": {
+      "kr": "코셔",
+      "zh_hant": "猶太食品",
+      "en": "Kosher",
+      "zh": "犹太食品",
+      "jp": "コーシャ",
+      "pt": "Kosher",
+      "de": "Kosher",
+      "it": "Kosher",
+      "es": "Comida o Bebida Autorizado por la Ley Judía",
+      "fr": "Casher, Halal"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "157": {
+    "labels": {
+      "kr": "가구 및 장식",
+      "zh_hant": "家具和裝飾",
+      "en": "Furniture and Decor",
+      "zh": "家具和装饰",
+      "jp": "家具とインテリア",
+      "pt": "Mobiliário e Decoração",
+      "de": "Möbel und dekoraton",
+      "it": "Mobili e Arredamento",
+      "es": "Muebles y Decoración",
+      "fr": "Meubles et Décor"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "158": {
+    "labels": {
+      "kr": "선물 및 장난감",
+      "zh_hant": "禮品",
+      "en": "Gift and Novelty",
+      "zh": "礼品",
+      "jp": "ギフト、ノベルティ",
+      "pt": "Presentes e Lembranças",
+      "de": "Geschenke und Kuriositäten",
+      "it": "Articuli Regalo",
+      "es": "Regalo y Novedad",
+      "fr": "Cadeaux et Babioles"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "159": {
+    "labels": {
+      "kr": "안경 및 안경사",
+      "zh_hant": "眼鏡和驗光",
+      "en": "Glasses and Optometrist",
+      "zh": "眼镜和验光",
+      "jp": "眼鏡と検眼医",
+      "pt": "Óptica e Optometria",
+      "de": "Brillen und Optiker",
+      "it": "Occhiali e Optometrista",
+      "es": "Gafas y Optometrista",
+      "fr": "Lunettes et Optométristes"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "160": {
+    "labels": {
+      "kr": "취미 및 수집품",
+      "zh_hant": "愛好和收藏品",
+      "en": "Hobby and Collectibles",
+      "zh": "爱好和收藏品",
+      "jp": "趣味、収集品",
+      "pt": "Coleccionismo e Passatempos",
+      "de": "Hobby und Sammelartikel",
+      "it": "Hobby e Collezionismo",
+      "es": "Pasatiempo Favorito y Coleccionables",
+      "fr": "Hobby et Objets de Collection"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "161": {
+    "labels": {
+      "kr": "여행가방",
+      "zh_hant": "行李箱",
+      "en": "Luggage",
+      "zh": "行李箱",
+      "jp": "旅行鞄",
+      "pt": "Bagagem e Malas",
+      "de": "Gepäck",
+      "it": "Valige",
+      "es": "Equipaje",
+      "fr": "Valises"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "162": {
+    "labels": {
+      "kr": "음악, 비디오 및 DVD",
+      "zh_hant": "音樂、視頻和DVD",
+      "en": "Music, Video and DVD",
+      "zh": "音乐、视频和DVD",
+      "jp": "音楽、ビデオ、DVD",
+      "pt": "Música, Vídeo e DVD",
+      "de": "Musik, Video und Dvd",
+      "it": "Musica, Video e DVD",
+      "es": "Música, Vídeo y DVD",
+      "fr": "Musique, Vidéo et Dvd"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "163": {
+    "labels": {
+      "kr": "가판대",
+      "zh_hant": "報攤",
+      "en": "Newsstands",
+      "zh": "报摊",
+      "jp": "キオスク",
+      "pt": "Quiosques",
+      "de": "Kioske",
+      "it": "Edicole",
+      "es": "Puestos de Periódicos",
+      "fr": "En Kiosque"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "164": {
+    "labels": {
+      "kr": "화원",
+      "zh_hant": "苗圃和園藝中心",
+      "en": "Nurseries and Garden Centers",
+      "zh": "苗圃和园艺中心",
+      "jp": "園芸用品とガーデン センター",
+      "pt": "Viveiros e Centros de Jardinagem",
+      "de": "Baumschulen und Garten-center",
+      "it": "Vivai e Centri Giardinaggio",
+      "es": "Guarderías y Centros de Jardinería",
+      "fr": "Pépinières et Centres de Jardinage"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "165": {
+    "labels": {
+      "kr": "아울렛",
+      "zh_hant": "直銷店",
+      "en": "Outlet",
+      "zh": "直销店",
+      "jp": "アウトレット",
+      "pt": "Outlet",
+      "de": "Outlet",
+      "it": "Outlet",
+      "es": "Tienda de Venta al por Menor",
+      "fr": "Outlet"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "166": {
+    "labels": {
+      "kr": "전당포",
+      "zh_hant": "當鋪",
+      "en": "Pawn Shops",
+      "zh": "当铺",
+      "jp": "質屋",
+      "pt": "Lojas de Penhores",
+      "de": "Pfandleiher",
+      "it": "Monte Dei Pegni",
+      "es": "Casas de Empeños",
+      "fr": "Prêteurs Sur Gages"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "167": {
+    "labels": {
+      "kr": "애완 동물",
+      "zh_hant": "寵物用品",
+      "en": "Pets",
+      "zh": "宠物用品",
+      "jp": "ペット",
+      "pt": "Animais Domésticos",
+      "de": "Haustiere",
+      "it": "Animali Domestici",
+      "es": "Mascotas",
+      "fr": "Animaux de Compagnie"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "168": {
+    "labels": {
+      "kr": "사진 및 액자",
+      "zh_hant": "照片和相框",
+      "en": "Photos and Frames",
+      "zh": "照片和相框",
+      "jp": "写真と額",
+      "pt": "Fotografias e Molduras",
+      "de": "Bilder und Bilderrahmen",
+      "it": "Foto e Cornici",
+      "es": "Fotos y Cuadros",
+      "fr": "Photos et Cadres"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "169": {
+    "labels": {
+      "kr": "쇼핑 센터 및 쇼핑몰",
+      "zh_hant": "購物中心和商場",
+      "en": "Shopping Centers and Malls",
+      "zh": "购物中心和商场",
+      "jp": "ショッピング センターやショッピング モール",
+      "pt": "Centros Comerciais",
+      "de": "Einkaufszentren und Shopping Malls",
+      "it": "Centri Commerciali",
+      "es": "Centros Comerciales y Centros Comerciales",
+      "fr": "Centres Commerciaux"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "170": {
+    "labels": {
+      "kr": "스포츠 용품",
+      "zh_hant": "體育用品",
+      "en": "Sporting Goods",
+      "zh": "体育用品",
+      "jp": "スポーツ用品",
+      "pt": "Artigos Desportivos",
+      "de": "Sportartikel",
+      "it": "Articoli Sportivi",
+      "es": "Mercancías Deportivos",
+      "fr": "Articles de Sport"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "171": {
+    "labels": {
+      "kr": "슈퍼마켓, 식료품",
+      "zh_hant": "超級市場和雜貨店",
+      "en": "Supermarkets and Groceries",
+      "zh": "超级市场和杂货店",
+      "jp": "スーパー マーケットや食料品",
+      "pt": "Supermercados e Mercearias",
+      "de": "Supermärkte und Lebensmittel",
+      "it": "Supermercati e Negozi Di Alimentari",
+      "es": "Supermercados y Comestibles",
+      "fr": "Supermarchés et Épiceries"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "172": {
+    "labels": {
+      "kr": "담배",
+      "zh_hant": "煙草",
+      "en": "Tobacco",
+      "zh": "烟草",
+      "jp": "タバコ",
+      "pt": "Tabaco",
+      "de": "Tabak",
+      "it": "Tabaccai",
+      "es": "Tabaco",
+      "fr": "Tabagistes"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "173": {
+    "labels": {
+      "kr": "완구",
+      "zh_hant": "玩具",
+      "en": "Toys",
+      "zh": "玩具",
+      "jp": "おもちゃ",
+      "pt": "Brinquedos",
+      "de": "Spielzeug",
+      "it": "Giocattoli",
+      "es": "Juguetes",
+      "fr": "Jouets"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "174": {
+    "labels": {
+      "kr": "골동품 및 중고품",
+      "zh_hant": "復古和舊貨商店",
+      "en": "Vintage and Thrift",
+      "zh": "复古和旧货商店",
+      "jp": "ヴィンテージと古着",
+      "pt": "Clássicos e em Segunda Mão",
+      "de": "Vintage und Second-hand",
+      "it": "Vintage e Seconda Mano",
+      "es": "De época y Ahorro",
+      "fr": "Vinage et Friperies"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "175": {
+    "labels": {
+      "kr": "창고와 도매 매장",
+      "zh_hant": "批發量販商店",
+      "en": "Warehouses and Wholesale Stores",
+      "zh": "批发量贩商店",
+      "jp": "倉庫と卸売店",
+      "pt": "Armazéns e Feiras Grossistas",
+      "de": "Lagerhäuser und Großmärkte",
+      "it": "Magazzini e Negozi Di Commercio All'ingrosso",
+      "es": "Almacenes y Tiendas de Venta al Por Mayor",
+      "fr": "Entrepôts et Vente En Gros"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "176": {
+    "labels": {
+      "kr": "결혼식과 신부",
+      "zh_hant": "婚紗和新娘商店",
+      "en": "Wedding and Bridal",
+      "zh": "婚纱和新娘商店",
+      "jp": "結婚式やブライダル",
+      "pt": "Casamentos e Acessórios para a Noiva",
+      "de": "Hochzeit und Braut",
+      "it": "Nozze e Abiti Da Sposa",
+      "es": "Boda y Nupcial",
+      "fr": "Noces et Accessoires Pour La Mariée"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "177": {
+    "labels": {
+      "kr": "서비스 및 용품",
+      "zh_hant": "服務和供給",
+      "en": "Services and Supplies",
+      "zh": "服务和供给",
+      "jp": "サービスおよび供給",
+      "pt": "Serviços e Fornecimentos",
+      "de": "Dienstleistungen und Zubehör",
+      "it": "Servizi e Forniture",
+      "es": "Servicios y Suministros",
+      "fr": "Services et Fournitures"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "178": {
+    "labels": {
+      "kr": "사업 및 전략 컨설팅",
+      "zh_hant": "商業和戰略咨詢",
+      "en": "Business and Strategy Consulting",
+      "zh": "商业和战略咨询",
+      "jp": "ビジネスと戦略コンサルティング",
+      "pt": "Consultoria em Negócios e Estratégia",
+      "de": "Geschäft und Strategie Beratung",
+      "it": "Consulenza",
+      "es": "Consulta de Negocios y Estrategia",
+      "fr": "Consultation Affaires et Stratégie"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "179": {
+    "labels": {
+      "kr": "산업 기계 및 차량",
+      "zh_hant": "工業機械和車輛",
+      "en": "Industrial Machinery and Vehicles",
+      "zh": "工业机械和车辆",
+      "jp": "産業機械と車",
+      "pt": "Máquinas e Veículos Industriais",
+      "de": "Industrielle Maschinen und Fahrzeuge",
+      "it": "Veicoli e Macchinari Industriali",
+      "es": "Vehículos y Maquinaria Industrial",
+      "fr": "Machines et Véhicules Industriels"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "180": {
+    "labels": {
+      "kr": "목재 및 제재소",
+      "zh_hant": "伐木和鋸木廠",
+      "en": "Logging and Sawmills",
+      "zh": "伐木和锯木厂",
+      "jp": "木材と製材工場",
+      "pt": "Madeireiros e Serrações",
+      "de": "Holzfällen und Sägewerke",
+      "it": "Disboscamento e Segherie",
+      "es": "Explotación Forestal y Aserraderos",
+      "fr": "Abattage D'arbres et Scieries"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "181": {
+    "labels": {
+      "kr": "금속",
+      "zh_hant": "金屬",
+      "en": "Metals",
+      "zh": "金属",
+      "jp": "金属",
+      "pt": "Metalurgia",
+      "de": "Metals",
+      "it": "Metalli",
+      "es": "Metales",
+      "fr": "Métaux"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "182": {
+    "labels": {
+      "kr": "포장",
+      "zh_hant": "包裝",
+      "en": "Packaging",
+      "zh": "包装",
+      "jp": "梱包",
+      "pt": "Embalamento e Empacotamento",
+      "de": "Packaging",
+      "it": "Packaging",
+      "es": "Embalaje",
+      "fr": "Emballage"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "183": {
+    "labels": {
+      "kr": "석유",
+      "zh_hant": "石油",
+      "en": "Petroleum",
+      "zh": "石油",
+      "jp": "石油",
+      "pt": "Petróleo",
+      "de": "Petroleum",
+      "it": "Petrolio",
+      "es": "Petróleo",
+      "fr": "Pétrole"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "184": {
+    "labels": {
+      "kr": "플라스틱",
+      "zh_hant": "塑料",
+      "en": "Plastics",
+      "zh": "塑料",
+      "jp": "プラスチック",
+      "pt": "Plásticos",
+      "de": "Kunststoffe",
+      "it": "Materie Plastiche",
+      "es": "Plásticos",
+      "fr": "Plastiques"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "185": {
+    "labels": {
+      "kr": "냉장과 얼음",
+      "zh_hant": "制冷",
+      "en": "Refrigeration and Ice",
+      "zh": "制冷",
+      "jp": "冷蔵と氷",
+      "pt": "Gelo e Refrigeração",
+      "de": "Kühl- und Gefriergeräte",
+      "it": "Ghiaccio e Refrigerazione",
+      "es": "Refrigeración y Hielo",
+      "fr": "Réfrigération et Glace"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "186": {
+    "labels": {
+      "kr": "고무",
+      "zh_hant": "橡膠",
+      "en": "Rubber",
+      "zh": "橡胶",
+      "jp": "ゴム",
+      "pt": "Borracha",
+      "de": "Gummi",
+      "it": "Gomma",
+      "es": "Goma",
+      "fr": "Caoutchouc"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "187": {
+    "labels": {
+      "kr": "과학",
+      "zh_hant": "科研",
+      "en": "Scientific",
+      "zh": "科研",
+      "jp": "科学",
+      "pt": "Científico",
+      "de": "Forschung",
+      "it": "Scienza",
+      "es": "Científico",
+      "fr": "Scientifique"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "188": {
+    "labels": {
+      "kr": "보안 및 안전",
+      "zh_hant": "安全和安保",
+      "en": "Security and Safety",
+      "zh": "安全和安保",
+      "jp": "警備保障",
+      "pt": "Segurança",
+      "de": "Sicherheitsdienst und Sicherheit",
+      "it": "Sicurezza",
+      "es": "Seguridad y Seguridad",
+      "fr": "Sécurité et Sûreté"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "189": {
+    "labels": {
+      "kr": "통신 서비스",
+      "zh_hant": "電信服務",
+      "en": "Telecommunication Services",
+      "zh": "电信服务",
+      "jp": "テレコムサービス",
+      "pt": "Serviços de Telecomunicações",
+      "de": "Telekommunikationsdienste",
+      "it": "Servizi Di Telecomunicazioni",
+      "es": "Servicios de Telecomunicaciones",
+      "fr": "Télécommunication"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "190": {
+    "labels": {
+      "kr": "섬유",
+      "zh_hant": "紡織",
+      "en": "Textiles",
+      "zh": "纺织",
+      "jp": "繊維",
+      "pt": "Têxteis",
+      "de": "Textilien",
+      "it": "Tessile",
+      "es": "Textiles",
+      "fr": "Textiles"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "191": {
+    "labels": {
+      "kr": "물과 폐기물 관리",
+      "zh_hant": "水和垃圾管理",
+      "en": "Water and Waste Management",
+      "zh": "水和垃圾管理",
+      "jp": "水、廃棄物管理",
+      "pt": "Gestão de Água e de Resíduos",
+      "de": "Wasser-und Abfallwirtschaft",
+      "it": "Gestione Delle Acque e Dei Rifiuti",
+      "es": "Agua y Gestión de Residuos",
+      "fr": "Gestion Des Eaux et Des Déchets"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "192": {
+    "labels": {
+      "kr": "용접",
+      "zh_hant": "焊接",
+      "en": "Welding",
+      "zh": "焊接",
+      "jp": "溶接",
+      "pt": "Soldagem",
+      "de": "Schweißen",
+      "it": "Saldatura",
+      "es": "Soldadura",
+      "fr": "Soudage"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "193": {
+    "labels": {
+      "kr": "광고 및 마케팅",
+      "zh_hant": "廣告與營銷",
+      "en": "Advertising and Marketing",
+      "zh": "广告与营销",
+      "jp": "広告とマーケティング",
+      "pt": "Publicidade e Marketing",
+      "de": "Werbung und Marketing",
+      "it": "Pubblicità e Marketing",
+      "es": "Publicidad y Mercadotecnia",
+      "fr": "Publicité et Marketing"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "194": {
+    "labels": {
+      "kr": "광고 대행사 및 미디어 구매자",
+      "zh_hant": "廣告公司和媒體購買公司",
+      "en": "Advertising Agencies and Media Buyers",
+      "zh": "广告公司和媒体购买公司",
+      "jp": "広告代理店とメディアのバイヤー",
+      "pt": "Agências de Publicidade e Compradores de Meios de Comunicação",
+      "de": "Werbeagenturen und Medien Käufer",
+      "it": "Agenzie Di Pubblicità  e Compritori Media",
+      "es": "Agencias de Publicidad y Compradores de Medios de Comunicación",
+      "fr": "Agences de Publicité et Acheteurs Médias"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "195": {
+    "labels": {
+      "kr": "창작 서비스",
+      "zh_hant": "創意服務",
+      "en": "Creative Services",
+      "zh": "创意服务",
+      "jp": "制作会社",
+      "pt": "Serviços Criativos",
+      "de": "Kreative Dienste",
+      "it": "Servizi Creativi",
+      "es": "Servicios Creativos",
+      "fr": "Services Créatifs"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "196": {
+    "labels": {
+      "kr": "직접 메일 및 이메일 마케팅 서비스",
+      "zh_hant": "信件和電子郵件直銷",
+      "en": "Direct Mail and Email Marketing Services",
+      "zh": "信件和电子邮件直销",
+      "jp": "ダイレクト メール、Eマーケティング サービス",
+      "pt": "Correio e Serviços de Marketing Postal",
+      "de": "Direct Mail und E-mail-marketing Services",
+      "it": "Servizi Marketing Posta Ordinaria Ed Elettronica",
+      "es": "Correo Directo y Servicios de Mercadotecnia por Correo Electrónico",
+      "fr": "Courrier Direct et Services de Marketing Par Courriel"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "197": {
+    "labels": {
+      "kr": "시장 조사 및 컨설팅",
+      "zh_hant": "市場調研和咨詢",
+      "en": "Market Research and Consulting",
+      "zh": "市场调研和咨询",
+      "jp": "市場調査・ コンサルティング",
+      "pt": "Estudo e Consultoria de Mercado",
+      "de": "Marktforschung und Beratung",
+      "it": "Ricerche Di Mercato e Consulenza",
+      "es": "Investigación del Mercado y Consulta",
+      "fr": "Étude de Marché et Expertise-conseil"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "198": {
+    "labels": {
+      "kr": "온라인 광고",
+      "zh_hant": "在線廣告",
+      "en": "Online Advertising",
+      "zh": "在线广告",
+      "jp": "オンライン広告",
+      "pt": "Publicidade Online",
+      "de": "Online-werbung",
+      "it": "Pubblicità  Online",
+      "es": "Publicidad en Línea",
+      "fr": "Publicité En Ligne"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "199": {
+    "labels": {
+      "kr": "인쇄, TV, 라디오 및 옥외 광고",
+      "zh_hant": "平面、電視、廣播和戶外廣告",
+      "en": "Print, TV, Radio and Outdoor Advertising",
+      "zh": "平面、电视、广播和户外广告",
+      "jp": "印刷、テレビ、ラジオ、屋外広告",
+      "pt": "Publicidade Impressa, para Televisão, Rádio e Outdoors",
+      "de": "Print, Tv, Radio und Außenwerbung",
+      "it": "Pubblicità In Stampa, Tv, Radio, e Cartelloni Pubblicitari",
+      "es": "Publicidad en Prensa, Televisión, Radio y Exterior",
+      "fr": "En Presse, Télé, Radio et Affiches"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "200": {
+    "labels": {
+      "kr": "홍보 상품",
+      "zh_hant": "產品促銷",
+      "en": "Promotional Items",
+      "zh": "产品促销",
+      "jp": "販促試供品",
+      "pt": "Artigos Promocionais",
+      "de": "Werbeartikel",
+      "it": "Articoli Promozionali",
+      "es": "Artículos Promocionales",
+      "fr": "Articles Promotionnels"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "201": {
+    "labels": {
+      "kr": "홍보",
+      "zh_hant": "公共關系",
+      "en": "Public Relations",
+      "zh": "公共关系",
+      "jp": "広報",
+      "pt": "Relações Públicas",
+      "de": "Public Relations",
+      "it": "Pubbliche Relazioni",
+      "es": "Relaciones Públicas",
+      "fr": "Relations Publiques"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "202": {
+    "labels": {
+      "kr": "검색 엔진 마케팅 및 최적화",
+      "zh_hant": "搜索引擎營銷和優化",
+      "en": "Search Engine Marketing and Optimization",
+      "zh": "搜索引擎营销和优化",
+      "jp": "検索エンジン マーケティングと最適化",
+      "pt": "Optimização e Marketing para Motores de Pesquisa",
+      "de": "Suchmaschinen-marketing Und-optimierung",
+      "it": "Motori Di Ricerca: Marketing e Ottimizzazione",
+      "es": "Mercadotecnia por Motor de Búsqueda y Optimización",
+      "fr": "Marketing et Optimisation Pour Les Moteurs de Recherche"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "203": {
+    "labels": {
+      "kr": "쓰기, 카피 라이팅 및 기술관련 글 쓰기",
+      "zh_hant": "廣告文案和技術文檔撰稿",
+      "en": "Writing, Copywriting and Technical Writing",
+      "zh": "广告文案和技术文档撰稿",
+      "jp": "執筆、コピー、技術系文書",
+      "pt": "Escrita, Redacção e Redacção Técnica",
+      "de": "Schreiben, Copywriting und Technische Redaktion",
+      "it": "Scrittura, Scrittura Pubblicitaria e Scrittura Tecnica",
+      "es": "Escritura, Registrar como Propiedad Literaria y Escritura Técnica",
+      "fr": "Écriture, Rédaction et Rédaction Technique"
+    },
+    "parents": [
+      "193"
+    ],
+    "abstract": false
+  },
+  "204": {
+    "labels": {
+      "kr": "농업 및 임업",
+      "zh_hant": "農業和林業",
+      "en": "Agriculture and Forestry",
+      "zh": "农业和林业",
+      "jp": "農林",
+      "pt": "Agricultura e Silvicultura",
+      "de": "Land-und Forstwirtschaft",
+      "it": "Agricoltura e Selvicoltura",
+      "es": "Agricultura y Silvicultura",
+      "fr": "Agriculture et Foresterie, Sylvieculture"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "205": {
+    "labels": {
+      "kr": "미술 복원",
+      "zh_hant": "藝術品修復",
+      "en": "Art Restoration",
+      "zh": "艺术品修复",
+      "jp": "美術品復元",
+      "pt": "Restauro de Arte",
+      "de": "Kunstrestaurierung",
+      "it": "Restauro Arte",
+      "es": "Restauración de Arte",
+      "fr": "Restauration D'oeuvres D'art"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "206": {
+    "labels": {
+      "kr": "영상물",
+      "zh_hant": "視聽",
+      "en": "Audiovisual",
+      "zh": "视听",
+      "jp": "視聴覚",
+      "pt": "Audiovisual",
+      "de": "Audiovisuelle",
+      "it": "Audiovisivi",
+      "es": "Audiovisual",
+      "fr": "Audiovisuel"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "207": {
+    "labels": {
+      "kr": "자동화 및 제어 시스템",
+      "zh_hant": "自動化控制系統",
+      "en": "Automation and Control Systems",
+      "zh": "自动化控制系统",
+      "jp": "自動化および制御システム",
+      "pt": "Automação e Controlo de Sistemas",
+      "de": "Automatisierungs-und Leitsysteme",
+      "it": "Sistemi Di Controllo e Automazione",
+      "es": "Automatización y Sistemas de Control",
+      "fr": "Systèmes D'automatisation et de Contrôle"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "208": {
+    "labels": {
+      "kr": "화학 물질 및 가스",
+      "zh_hant": "化學品和氣體",
+      "en": "Chemicals and Gasses",
+      "zh": "化学品和气体",
+      "jp": "化学物質・ ガス",
+      "pt": "Químicos e Gases",
+      "de": "Chemikalien und Gase",
+      "it": "Sostanze Chimiche e Gas",
+      "es": "Productos Químicos y Gases",
+      "fr": "Produits Chimiques et Gaz"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "209": {
+    "labels": {
+      "kr": "컴퓨터",
+      "zh_hant": "電腦",
+      "en": "Computers",
+      "zh": "电脑",
+      "jp": "コンピュータ",
+      "pt": "Informática",
+      "de": "Computer",
+      "it": "Computer",
+      "es": "Computadoras",
+      "fr": "Informatique"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "210": {
+    "labels": {
+      "kr": "기업 본부",
+      "zh_hant": "公司總部",
+      "en": "Corporate HQ",
+      "zh": "公司总部",
+      "jp": "企業本社",
+      "pt": "Sede de Empresa",
+      "de": "Unternehmenszentralen",
+      "it": "Quartieri Generali Di Corporazioni",
+      "es": "Sede Corporativa Central",
+      "fr": "Siège Social"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "211": {
+    "labels": {
+      "kr": "전기 장비",
+      "zh_hant": "電氣化設備",
+      "en": "Electrical Equipment",
+      "zh": "电气化设备",
+      "jp": "電気機器",
+      "pt": "Equipamento Eléctrico",
+      "de": "Elektrotechnische Anlagen",
+      "it": "Apparecchiature Elettriche",
+      "es": "Equipos Eléctricos",
+      "fr": "Équipement Électrique"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "212": {
+    "labels": {
+      "kr": "고용 기관",
+      "zh_hant": "職業介紹所",
+      "en": "Employment Agencies",
+      "zh": "职业介绍所",
+      "jp": "求人および派遣会社",
+      "pt": "Centros de Emprego",
+      "de": "Agenturen Für Arbeitsagenturen",
+      "it": "Uffici Di Collocamento",
+      "es": "Agencias de Empleo",
+      "fr": "Agences de Placement D'emploi"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "213": {
+    "labels": {
+      "kr": "공학",
+      "zh_hant": "工程",
+      "en": "Engineering",
+      "zh": "工程",
+      "jp": "エンジニア リング",
+      "pt": "Engenharia",
+      "de": "Ingenieurwissenschaf",
+      "it": "Ingegneria",
+      "es": "Ingeniería",
+      "fr": "Ingénierie"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "214": {
+    "labels": {
+      "kr": "엔터테인먼트",
+      "zh_hant": "娛樂",
+      "en": "Entertainment",
+      "zh": "娱乐",
+      "jp": "エンターテイメント",
+      "pt": "Entretenimento",
+      "de": "Unterhaltung",
+      "it": "Spettacolo",
+      "es": "Entretenimiento",
+      "fr": "Divertissement"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "215": {
+    "labels": {
+      "kr": "미디어",
+      "zh_hant": "媒體",
+      "en": "Media",
+      "zh": "媒体",
+      "jp": "メディア",
+      "pt": "Meios de Comunicação",
+      "de": "Medien",
+      "it": "Media",
+      "es": "Los Medios de Comunicación",
+      "fr": "Médias"
+    },
+    "parents": [
+      "214"
+    ],
+    "abstract": false
+  },
+  "216": {
+    "labels": {
+      "kr": "장비 렌탈",
+      "zh_hant": "設備租賃",
+      "en": "Equipment Rental",
+      "zh": "设备租赁",
+      "jp": "機器レンタル",
+      "pt": "Aluguer de Equipamento",
+      "de": "Ausrüstungsverleih",
+      "it": "Noleggio Attrezzature",
+      "es": "Alquiler de Equipos",
+      "fr": "Location D'équipement"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "217": {
+    "labels": {
+      "kr": "이벤트 및 이벤트 기획",
+      "zh_hant": "活動及活動策劃",
+      "en": "Events and Event Planning",
+      "zh": "活动及活动策划",
+      "jp": "イベント、イベント企画",
+      "pt": "Eventos e Planeamento de Eventos",
+      "de": "Events und Event-planung",
+      "it": "Eventi e Pianificazione Di Eventi",
+      "es": "Eventos y Planificación de Eventos",
+      "fr": "Evénements et Planification D'événements"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "218": {
+    "labels": {
+      "kr": "자동출금기",
+      "zh_hant": "自動取款機",
+      "en": "ATMs",
+      "zh": "自动取款机",
+      "jp": "ATM",
+      "pt": "Caixas Automáticas Multibanco",
+      "de": "Geldautomaten",
+      "it": "Bancomat",
+      "es": "Cajeros Automáticos",
+      "fr": "Distributeurs Automatiques de Billets"
+    },
+    "parents": [
+      "221"
+    ],
+    "abstract": false
+  },
+  "219": {
+    "labels": {
+      "kr": "금융",
+      "zh_hant": "金融",
+      "en": "Financial",
+      "zh": "金融",
+      "jp": "金融",
+      "pt": "Finanças",
+      "de": "Finanzen",
+      "it": "Finanza",
+      "es": "Financiero",
+      "fr": "Financier"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "220": {
+    "labels": {
+      "kr": "회계 및 부기",
+      "zh_hant": "會計和簿記",
+      "en": "Accounting and Bookkeeping",
+      "zh": "会计和簿记",
+      "jp": "会計・簿記",
+      "pt": "Contabilidade",
+      "de": "Rechnungswesen und Buchhaltung",
+      "it": "Contabilità e Bilanci",
+      "es": "Contabilidad y Teneduría de Libros",
+      "fr": "Comptabilité"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "221": {
+    "labels": {
+      "kr": "은행 및 금융",
+      "zh_hant": "銀行",
+      "en": "Banking and Finance",
+      "zh": "银行",
+      "jp": "金融",
+      "pt": "Bancos e Finanças",
+      "de": "Banken und Finanzen",
+      "it": "Banche e Finanza",
+      "es": "Bancaria y Finanzas",
+      "fr": "Banques et Finances"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "222": {
+    "labels": {
+      "kr": "비즈니스 중개인 및 프랜차이즈",
+      "zh_hant": "商業經紀人和特許經營",
+      "en": "Business Brokers and Franchises",
+      "zh": "商业经纪人和特许经营",
+      "jp": "ビジネス ブローカーとのフランチャイズ",
+      "pt": "Corretores de Negócios e Franquia",
+      "de": "Unternehmensmakler und Franchiseverträge",
+      "it": "Intermediari e Concessionari",
+      "es": "Agentes Corredores de Negocios y Franquicias",
+      "fr": "Courtiers Commerce et Franchises"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "223": {
+    "labels": {
+      "kr": "현금 확인",
+      "zh_hant": "支票兌現",
+      "en": "Check Cashing",
+      "zh": "支票兑现",
+      "jp": "小切手換金",
+      "pt": "Depósito de Cheques",
+      "de": "Scheckeinlösung",
+      "it": "Deposito Assegni",
+      "es": "Cambio de Cheques",
+      "fr": "Encaissements de Chèques"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "224": {
+    "labels": {
+      "kr": "차압",
+      "zh_hant": "托收",
+      "en": "Collections",
+      "zh": "托收",
+      "jp": "回収",
+      "pt": "Colecções",
+      "de": "Inkasso",
+      "it": "Recupero Debiti",
+      "es": "Colecciones",
+      "fr": "Collections"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "225": {
+    "labels": {
+      "kr": "재무 계획 및 투자",
+      "zh_hant": "財務策劃和投資",
+      "en": "Financial Planning and Investments",
+      "zh": "财务策划和投资",
+      "jp": "財務計画と投資",
+      "pt": "Planeamento Financeiro e Investimentos",
+      "de": "Finanzplanung und Investition",
+      "it": "Pianificazione Finanziaria e Investimenti",
+      "es": "Planificación Financiera e Inversiones",
+      "fr": "Planification et Placements Financiers"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "226": {
+    "labels": {
+      "kr": "기금 모금",
+      "zh_hant": "籌資",
+      "en": "Fund Raising",
+      "zh": "筹资",
+      "jp": "資金調達",
+      "pt": "Angariação de Fundos",
+      "de": "Geldbeschafung",
+      "it": "Raccolta Fondi",
+      "es": "Recaudación de Fondos",
+      "fr": "Collecte de Fonds"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "227": {
+    "labels": {
+      "kr": "대출 및 담보",
+      "zh_hant": "貸款和抵押",
+      "en": "Loans and Mortgages",
+      "zh": "贷款和抵押",
+      "jp": "貸付け金および抵当",
+      "pt": "Empréstimos e Hipotecas",
+      "de": "Kredite und Hypotheken",
+      "it": "Prestiti e Mutui",
+      "es": "Préstamos e Hipotecas",
+      "fr": "Prêts et Hypothèques"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "228": {
+    "labels": {
+      "kr": "주식 중개인",
+      "zh_hant": "證券經紀人",
+      "en": "Stock Brokers",
+      "zh": "证券经纪人",
+      "jp": "株式ブローカー",
+      "pt": "Corretores de Bolsa",
+      "de": "Börsenmakler",
+      "it": "Intermediari Finanziari",
+      "es": "Corredores de Bolsa",
+      "fr": "Courtiers En Valeurs Mobilières"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "229": {
+    "labels": {
+      "kr": "학자금 및 보조금",
+      "zh_hant": "學生援助和助學金",
+      "en": "Student Aid and Grants",
+      "zh": "学生援助和助学金",
+      "jp": "奨学金、助成金",
+      "pt": "Auxílio e Bolsas para Estudantes",
+      "de": "Ausbildungsförderung und Stipendien",
+      "it": "Aiuti e Sussidi Per Studenti",
+      "es": "Ayuda Estudiantil y Subvenciones",
+      "fr": "Aide Financière Aux Étudiants, Bourses et Subventions"
+    },
+    "parents": [
+      "219"
+    ],
+    "abstract": false
+  },
+  "230": {
+    "labels": {
+      "kr": "식품 및 음료",
+      "zh_hant": "食品和飲料",
+      "en": "Food and Beverage",
+      "zh": "食品和饮料",
+      "jp": "食品と飲料",
+      "pt": "Comida e Bebida",
+      "de": "Lebensmittel und Getränke",
+      "it": "Cibo e Bevande",
+      "es": "Comida y Bebida",
+      "fr": "Aliments et Boissons"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "231": {
+    "labels": {
+      "kr": "음식 공급",
+      "zh_hant": "承辦酒席",
+      "en": "Catering",
+      "zh": "承办酒席",
+      "jp": "ケータリング",
+      "pt": "Catering",
+      "de": "Catering",
+      "it": "Catering",
+      "es": "Hostelería",
+      "fr": "Restauration"
+    },
+    "parents": [
+      "230"
+    ],
+    "abstract": false
+  },
+  "232": {
+    "labels": {
+      "kr": "유통",
+      "zh_hant": "配送",
+      "en": "Distribution",
+      "zh": "配送",
+      "jp": "配達",
+      "pt": "Distribuição",
+      "de": "Vertrieb",
+      "it": "Trasporto e Distribuzione",
+      "es": "Distribución",
+      "fr": "Distribution"
+    },
+    "parents": [
+      "230"
+    ],
+    "abstract": false
+  },
+  "233": {
+    "labels": {
+      "kr": "장례 서비스",
+      "zh_hant": "殯葬服務",
+      "en": "Funeral Services",
+      "zh": "殡葬服务",
+      "jp": "葬儀サービス",
+      "pt": "Agências Funerárias",
+      "de": "Bestatter",
+      "it": "Servizi Funebri",
+      "es": "Servicios Funerarios",
+      "fr": "de Services Funéraires"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "234": {
+    "labels": {
+      "kr": "지질",
+      "zh_hant": "地質",
+      "en": "Geological",
+      "zh": "地质",
+      "jp": "地質",
+      "pt": "Geologia",
+      "de": "Geologisch",
+      "it": "Geologia",
+      "es": "Geológica",
+      "fr": "Géologique"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "235": {
+    "labels": {
+      "kr": "집 개선",
+      "zh_hant": "家庭裝潢",
+      "en": "Home Improvement",
+      "zh": "家庭装潢",
+      "jp": "改築",
+      "pt": "Renovação Habitacional",
+      "de": "Heimwerken",
+      "it": "Ristrutturazione e Bricolage",
+      "es": "Mejoramiento de Casa",
+      "fr": "Rénovations"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "236": {
+    "labels": {
+      "kr": "건축가",
+      "zh_hant": "建築師",
+      "en": "Architects",
+      "zh": "建筑师",
+      "jp": "建築家",
+      "pt": "Arquitectos",
+      "de": "Architekten",
+      "it": "Architetti",
+      "es": "Arquitectos",
+      "fr": "Architectes"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "237": {
+    "labels": {
+      "kr": "목수",
+      "zh_hant": "木匠",
+      "en": "Carpenters",
+      "zh": "木匠",
+      "jp": "大工",
+      "pt": "Carpinteiros",
+      "de": "Tischler",
+      "it": "Falegnami",
+      "es": "Carpinteros",
+      "fr": "Charpentiers et Menuisiers"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "238": {
+    "labels": {
+      "kr": "카펫 및 바닥 재",
+      "zh_hant": "地毯和地板",
+      "en": "Carpet and Flooring",
+      "zh": "地毯和地板",
+      "jp": "カーペットやフローリング",
+      "pt": "Tapetes e Pavimentos",
+      "de": "Teppich-und Bodenbelag",
+      "it": "Moquette e Pavimenti",
+      "es": "Alfombras y Suelos",
+      "fr": "Tapis et Revêtements de Sol"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "239": {
+    "labels": {
+      "kr": "계약자",
+      "zh_hant": "承包商",
+      "en": "Contractors",
+      "zh": "承包商",
+      "jp": "請負業者",
+      "pt": "Empreiteiros",
+      "de": "Bauunternehmen",
+      "it": "Appaltatori",
+      "es": "Contratistas",
+      "fr": "Entrepreneurs"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "240": {
+    "labels": {
+      "kr": "욕실",
+      "zh_hant": "浴室",
+      "en": "Bathrooms",
+      "zh": "浴室",
+      "jp": "浴室",
+      "pt": "Quartos de Banho",
+      "de": "Badezimmer",
+      "it": "Bagni",
+      "es": "Baños",
+      "fr": "Salles de Bains"
+    },
+    "parents": [
+      "239"
+    ],
+    "abstract": false
+  },
+  "241": {
+    "labels": {
+      "kr": "나무를 깔은 테라스",
+      "zh_hant": "陽臺",
+      "en": "Deck and Patio",
+      "zh": "阳台",
+      "jp": "デッキやパティオ",
+      "pt": "Deck e Pátio",
+      "de": "Veranda und Terrasse",
+      "it": "Verande e Cortili",
+      "es": "Cubierta y Patio",
+      "fr": "Terrasse et Balcon"
+    },
+    "parents": [
+      "239"
+    ],
+    "abstract": false
+  },
+  "242": {
+    "labels": {
+      "kr": "하수구",
+      "zh_hant": "下水道",
+      "en": "Sewer",
+      "zh": "下水道",
+      "jp": "下水道",
+      "pt": "Esgoto",
+      "de": "Kanalreinigung",
+      "it": "Fognatura",
+      "es": "Alcantarilla",
+      "fr": "Égouts"
+    },
+    "parents": [
+      "239"
+    ],
+    "abstract": false
+  },
+  "243": {
+    "labels": {
+      "kr": "문 및 창",
+      "zh_hant": "門和窗",
+      "en": "Doors and Windows",
+      "zh": "门和窗",
+      "jp": "のドアと窓",
+      "pt": "Portas e Janelas",
+      "de": "Türen und Fenster",
+      "it": "Porte e Finestre",
+      "es": "Puertas y Ventanas",
+      "fr": "Portes et Fenêtres"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "244": {
+    "labels": {
+      "kr": "전기 기술자",
+      "zh_hant": "電工",
+      "en": "Electricians",
+      "zh": "电工",
+      "jp": "電気技師",
+      "pt": "Electricistas",
+      "de": "Elektriker",
+      "it": "Elettricisti",
+      "es": "Electricistas",
+      "fr": "Electriciens"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "245": {
+    "labels": {
+      "kr": "울타리, 벽난로 및 차고 문",
+      "zh_hant": "圍欄、壁爐和車庫門",
+      "en": "Fences, Fireplaces and Garage Doors",
+      "zh": "围栏、壁炉和车库门",
+      "jp": "フェンス、暖炉、ガレージのドア",
+      "pt": "Vedações, Lareiras e Portões de Garagem",
+      "de": "Zäune, Kamine und Garagentore",
+      "it": "Recinzioni, Camini e Saracinesche",
+      "es": "Cercas, Chimeneas y Puertas de Garaje",
+      "fr": "Clôtures, Foyers et Portes de Garage"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "246": {
+    "labels": {
+      "kr": "기자재, 장비및 서비스",
+      "zh_hant": "五金和服務",
+      "en": "Hardware and Services",
+      "zh": "五金和服务",
+      "jp": "ハードウェアとサービス",
+      "pt": "Ferramentas e Serviços",
+      "de": "Hardware und Services",
+      "it": "Ferramenta e Servizi",
+      "es": "Ferretería y Servicios",
+      "fr": "Quincaillerie, Matériel et Services"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "247": {
+    "labels": {
+      "kr": "난방, 환기 및 공기 조절",
+      "zh_hant": "供暖、通風和空調",
+      "en": "Heating, Ventilating and Air Conditioning",
+      "zh": "供暖、通风和空调",
+      "jp": "暖房、換気および空調",
+      "pt": "Aquecimento, Ventilação e Ar Condicionado",
+      "de": "Heizungs-, Lüftungs-und Klimatechnik",
+      "it": "Riscaldamento, Ventilazione e Aria Condizionata (climatizazione)",
+      "es": "Calefacción, Ventilación y Aire Acondicionado",
+      "fr": "Chauffage, Ventilation et Air Conditionné"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "248": {
+    "labels": {
+      "kr": "가전 재품",
+      "zh_hant": "家電",
+      "en": "Home Appliances",
+      "zh": "家电",
+      "jp": "家電",
+      "pt": "Electrodomésticos",
+      "de": "Haushaltsgeräte",
+      "it": "Elettrodomestici",
+      "es": "Electrodomésticos",
+      "fr": "Électroménager"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "249": {
+    "labels": {
+      "kr": "집 검사 서비스",
+      "zh_hant": "上門檢查服務",
+      "en": "Home Inspection Services",
+      "zh": "上门检查服务",
+      "jp": "家屋検査サービス",
+      "pt": "Serviços de Inspecção de Edifícios",
+      "de": "Hausgutachter",
+      "it": "Servizi Di Certificazione Edilizia",
+      "es": "Inspección de la Casa y Servicios",
+      "fr": "Services D'inspection Du Domicile"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "250": {
+    "labels": {
+      "kr": "가정 용품",
+      "zh_hant": "家居用品",
+      "en": "Housewares",
+      "zh": "家居用品",
+      "jp": "家庭用品",
+      "pt": "Equipamento para Cozinha",
+      "de": "Haushalt",
+      "it": "Articoli Per La Casa",
+      "es": "Artículos para el Hogar",
+      "fr": "Équipement de Cuisine"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "251": {
+    "labels": {
+      "kr": "인테리어 디자인",
+      "zh_hant": "室內設計",
+      "en": "Interior Design",
+      "zh": "室内设计",
+      "jp": "インテリア デザイン",
+      "pt": "Design de Interiores",
+      "de": "Innenarchitektur",
+      "it": "Design D'interni",
+      "es": "Decoración Interior",
+      "fr": "Design Intérieur"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "252": {
+    "labels": {
+      "kr": "주방",
+      "zh_hant": "廚房",
+      "en": "Kitchens",
+      "zh": "厨房",
+      "jp": "キッチン",
+      "pt": "Cozinhas",
+      "de": "Küchen",
+      "it": "Cucine",
+      "es": "Cocinas",
+      "fr": "Cuisines"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "253": {
+    "labels": {
+      "kr": "조경 및 정원사",
+      "zh_hant": "環境美化和園藝",
+      "en": "Landscaping and Gardeners",
+      "zh": "环境美化和园艺",
+      "jp": "造園と庭師",
+      "pt": "Jardinagem",
+      "de": "Landschaftsbau und Gärtner",
+      "it": "Giardinieri",
+      "es": "Paisajismo y Jardineros",
+      "fr": "Jardiniers Paysagistes"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "254": {
+    "labels": {
+      "kr": "조명 기구",
+      "zh_hant": "燈飾",
+      "en": "Lighting Fixtures",
+      "zh": "灯饰",
+      "jp": "照明器具",
+      "pt": "Iluminação",
+      "de": "Beleuchtungskörper",
+      "it": "Illuminazione",
+      "es": "Instalaciones Fijas para Iluminación",
+      "fr": "Éclairage"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "255": {
+    "labels": {
+      "kr": "이동 주택",
+      "zh_hant": "移動房屋",
+      "en": "Mobile Homes",
+      "zh": "移动房屋",
+      "jp": "モービルホーム",
+      "pt": "Casas Móveis",
+      "de": "Mobilheime",
+      "it": "Case Mobili",
+      "es": "Casas Móviles",
+      "fr": "Maisons Mobiles"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "256": {
+    "labels": {
+      "kr": "이삿짐",
+      "zh_hant": "搬家公司",
+      "en": "Movers",
+      "zh": "搬家公司",
+      "jp": "引越し",
+      "pt": "Mudanças",
+      "de": "Umzugsunternehmen",
+      "it": "Traslochi",
+      "es": "Encargados de Mudanzas",
+      "fr": "Déménageurs"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "257": {
+    "labels": {
+      "kr": "회화",
+      "zh_hant": "粉刷",
+      "en": "Painting",
+      "zh": "粉刷",
+      "jp": "絵画",
+      "pt": "Pintura",
+      "de": "Anstrich",
+      "it": "Imbianchini",
+      "es": "Pintura",
+      "fr": "Peinture"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "258": {
+    "labels": {
+      "kr": "해충 퇴치",
+      "zh_hant": "病蟲害防治",
+      "en": "Pest Control",
+      "zh": "病虫害防治",
+      "jp": "害虫駆除",
+      "pt": "Controlo de Pragas",
+      "de": "Schädlingsbekämpfung",
+      "it": "Disinfestazione",
+      "es": "Control de plagas",
+      "fr": "Extermination de Pestes"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "259": {
+    "labels": {
+      "kr": "배관",
+      "zh_hant": "水管",
+      "en": "Plumbing",
+      "zh": "水管",
+      "jp": "配管",
+      "pt": "Canalização",
+      "de": "Rohre",
+      "it": "Impianti Idraulici",
+      "es": "Fontanería",
+      "fr": "Plomberie"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "260": {
+    "labels": {
+      "kr": "수영장 및 스파",
+      "zh_hant": "水池和水療",
+      "en": "Pools and Spas",
+      "zh": "水池和水疗",
+      "jp": "プールおよびスパ",
+      "pt": "Piscinas e Spas",
+      "de": "Schwimmbäder und Wellness-centren",
+      "it": "Piscine e Idromassagi",
+      "es": "Piscinas y Balnearios",
+      "fr": "Piscines et Spas"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "261": {
+    "labels": {
+      "kr": "지붕 기술자",
+      "zh_hant": "屋頂",
+      "en": "Roofers",
+      "zh": "屋顶",
+      "jp": "屋根職人",
+      "pt": "Conserto de Telhados",
+      "de": "Dachdecker",
+      "it": "Carpintieri",
+      "es": "Techadores",
+      "fr": "Couvreurs"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "262": {
+    "labels": {
+      "kr": "창고",
+      "zh_hant": "存儲",
+      "en": "Storage",
+      "zh": "存储",
+      "jp": "倉庫",
+      "pt": "Armazenamento",
+      "de": "Lagerhaltung",
+      "it": "Deposito Personale",
+      "es": "Almacenamiento",
+      "fr": "Stockage"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "263": {
+    "labels": {
+      "kr": "수영장 유지 보수 및 서비스",
+      "zh_hant": "遊泳池維護和服務",
+      "en": "Swimming Pool Maintenance and Services",
+      "zh": "游泳池维护和服务",
+      "jp": "スイミング プール維持とサービス",
+      "pt": "Serviços e Manutenção de Piscinas",
+      "de": "Schwimmbad Wartung und Pflege",
+      "it": "Manutenzione e Riparazione Piscine",
+      "es": "Mantenimiento de Piscina y Servicios",
+      "fr": "Entretien de La Piscine"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "264": {
+    "labels": {
+      "kr": "나무서비스",
+      "zh_hant": "樹木維護",
+      "en": "Tree Service",
+      "zh": "树木维护",
+      "jp": "剪定",
+      "pt": "Serviço de Arborização",
+      "de": "Baumpflege",
+      "it": "Giardiniere Che Taglia L'albero",
+      "es": "Servicio de árbol",
+      "fr": "Entretien Des Arbres"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "265": {
+    "labels": {
+      "kr": "장식",
+      "zh_hant": "室內裝飾",
+      "en": "Upholstery",
+      "zh": "室内装饰",
+      "jp": "壁紙、カーテンなど",
+      "pt": "Estofamento",
+      "de": "Polsterei",
+      "it": "Tappezzeria",
+      "es": "Tapicería",
+      "fr": "Revêtement et Rembourrage de Meubles"
+    },
+    "parents": [
+      "235"
+    ],
+    "abstract": false
+  },
+  "266": {
+    "labels": {
+      "kr": "인사과",
+      "zh_hant": "人力資源",
+      "en": "Human Resources",
+      "zh": "人力资源",
+      "jp": "人材",
+      "pt": "Recursos Humanos",
+      "de": "Personalabteilung",
+      "it": "Risorse Umane",
+      "es": "Recursos Humanos",
+      "fr": "Ressources Humaines"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "267": {
+    "labels": {
+      "kr": "수입 밎 수출",
+      "zh_hant": "進出口",
+      "en": "Import and Export",
+      "zh": "进出口",
+      "jp": "輸出入",
+      "pt": "Importação e Exportação",
+      "de": "Import und Export",
+      "it": "Importazione Ed Esportazione",
+      "es": "Importación y Exportación",
+      "fr": "Import-export"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "268": {
+    "labels": {
+      "kr": "가죽",
+      "zh_hant": "皮革",
+      "en": "Leather",
+      "zh": "皮革",
+      "jp": "革",
+      "pt": "Couro",
+      "de": "Leder",
+      "it": "Pelle",
+      "es": "Cuero",
+      "fr": "Cuir"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "269": {
+    "labels": {
+      "kr": "법률",
+      "zh_hant": "法律",
+      "en": "Legal",
+      "zh": "法律",
+      "jp": "法律",
+      "pt": "Jurídico",
+      "de": "Recht",
+      "it": "Legale",
+      "es": "Legal",
+      "fr": "Mentions Légales"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "270": {
+    "labels": {
+      "kr": "신용 상담 및 파산 서비스",
+      "zh_hant": "信用咨詢和破產服務",
+      "en": "Credit Counseling and Bankruptcy Services",
+      "zh": "信用咨询和破产服务",
+      "jp": "クレジット カウンセリングや倒産サービス",
+      "pt": "Aconselhamento de Crédito e Serviços de Falência",
+      "de": "Kreditbearatung und Konkursdienstleister",
+      "it": "Credit Counseling e Servizi Fallimento",
+      "es": "Consejería de Crédito y Servicios de Bancarrota",
+      "fr": "Counseil Juridique Sur Le Crédit et Aides Pour Faillite"
+    },
+    "parents": [
+      "269"
+    ],
+    "abstract": false
+  },
+  "271": {
+    "labels": {
+      "kr": "이민",
+      "zh_hant": "移民",
+      "en": "Immigration",
+      "zh": "移民",
+      "jp": "移民",
+      "pt": "Imigração",
+      "de": "Einwanderung",
+      "it": "Immigrazione",
+      "es": "Inmigración",
+      "fr": "Immigration"
+    },
+    "parents": [
+      "269"
+    ],
+    "abstract": false
+  },
+  "272": {
+    "labels": {
+      "kr": "보험",
+      "zh_hant": "保險",
+      "en": "Insurance",
+      "zh": "保险",
+      "jp": "保険",
+      "pt": "Seguros",
+      "de": "Versicherung",
+      "it": "Assicurazione",
+      "es": "Seguros",
+      "fr": "Assurance Juridique"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "273": {
+    "labels": {
+      "kr": "공장",
+      "zh_hant": "機械工廠",
+      "en": "Machine Shops",
+      "zh": "机械工厂",
+      "jp": "機械販売",
+      "pt": "Oficinas Mecânicas",
+      "de": "Maschinenfabriken",
+      "it": "Macchinari",
+      "es": "Talleres Mecánicos",
+      "fr": "Ateliers D'usinage"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "274": {
+    "labels": {
+      "kr": "관리",
+      "zh_hant": "管理",
+      "en": "Management",
+      "zh": "管理",
+      "jp": "管理",
+      "pt": "Administração",
+      "de": "Management",
+      "it": "Gestione D'impresa",
+      "es": "Administración",
+      "fr": "Gestion"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "275": {
+    "labels": {
+      "kr": "제조",
+      "zh_hant": "制造",
+      "en": "Manufacturing",
+      "zh": "制造",
+      "jp": "製造",
+      "pt": "Manufactura",
+      "de": "Fertigung",
+      "it": "Produzione",
+      "es": "Fabricación",
+      "fr": "Fabrication"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "276": {
+    "labels": {
+      "kr": "용지",
+      "zh_hant": "紙張",
+      "en": "Paper",
+      "zh": "纸张",
+      "jp": "紙",
+      "pt": "Papel",
+      "de": "Papier",
+      "it": "Carta",
+      "es": "Papel",
+      "fr": "Papier"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "277": {
+    "labels": {
+      "kr": "개인 관리",
+      "zh_hant": "個人護理",
+      "en": "Personal Care",
+      "zh": "个人护理",
+      "jp": "身だしなみ",
+      "pt": "Cuidados Pessoais",
+      "de": "Körperpflege",
+      "it": "Cura Personale",
+      "es": "Cuidado Personal",
+      "fr": "Soins Personnels"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "278": {
+    "labels": {
+      "kr": "드라이 클리닝, 다림질, 세탁",
+      "zh_hant": "幹洗、熨燙和洗衣店",
+      "en": "Dry Cleaning, Ironing and Laundry",
+      "zh": "干洗、熨烫和洗衣店",
+      "jp": "ドライ クリーニング、アイロンおよびランドリー サービス",
+      "pt": "Limpeza a seco, Engomadoria e Lavandaria",
+      "de": "Chemische Reinigung, Bügelservice und Wäscherei",
+      "it": "Lavasecco, Lavanderia e Stireria",
+      "es": "Limpieza en Seco, Planchado y Lavandería",
+      "fr": "Nettoyage À Sec, Repassage et Blanchisserie"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "279": {
+    "labels": {
+      "kr": "제모",
+      "zh_hant": "脫毛",
+      "en": "Hair Removal",
+      "zh": "脱毛",
+      "jp": "脱毛",
+      "pt": "Depilação",
+      "de": "Haarentfernung",
+      "it": "Depilazione",
+      "es": "Depilación",
+      "fr": "Épilation"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "280": {
+    "labels": {
+      "kr": "미용실 및 이발소",
+      "zh_hant": "美髮沙龍和理髮店",
+      "en": "Beauty Salons and Barbers",
+      "zh": "美发沙龙和理发店",
+      "jp": "美容院、理容室",
+      "pt": "Salões de Beleza e Barbeiros",
+      "de": "Schönheitssalon und Friseure",
+      "it": "Saloni di Bellezza e Barbieri",
+      "es": "Salones de Belleza y Peluqueros",
+      "fr": "Salons de Beauté et Barbiers"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "281": {
+    "labels": {
+      "kr": "메니큐어 밎 페디큐어",
+      "zh_hant": "指甲修護",
+      "en": "Manicures and Pedicures",
+      "zh": "指甲修护",
+      "jp": "ネイル",
+      "pt": "Manicure e Pedicure",
+      "de": "Maniküre und Pediküre",
+      "it": "Manicure e Pedicure",
+      "es": "Manicura y Pedicura",
+      "fr": "Manucure et Pédicure"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "282": {
+    "labels": {
+      "kr": "얼굴 마사지소 및 치료 마사지",
+      "zh_hant": "按摩診所和治療師",
+      "en": "Massage Clinics and Therapists",
+      "zh": "按摩诊所和治疗师",
+      "jp": "マッサージ療法、診療所",
+      "pt": "Clínicas de Massagem e Terapeutas",
+      "de": "Massage Kliniken und Therapeuten",
+      "it": "Massaggi",
+      "es": "Clínicas de Masaje y Terapeutas",
+      "fr": "Cliniques de Massage et Massothérapeutes"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "283": {
+    "labels": {
+      "kr": "뚫음",
+      "zh_hant": "穿孔",
+      "en": "Piercing",
+      "zh": "穿孔",
+      "jp": "ピアス",
+      "pt": "Piercing",
+      "de": "Piercing",
+      "it": "Piercing",
+      "es": "Penetrantes",
+      "fr": "Piercing"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "284": {
+    "labels": {
+      "kr": "피부 관리",
+      "zh_hant": "護膚",
+      "en": "Skin Care",
+      "zh": "护肤",
+      "jp": "スキンケア",
+      "pt": "Cuidados com a Pele",
+      "de": "Hautpflege",
+      "it": "Cura Della Pelle",
+      "es": "Cuidado de la Piel",
+      "fr": "Soins de La Peau"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "285": {
+    "labels": {
+      "kr": "스파",
+      "zh_hant": "水療",
+      "en": "Spas",
+      "zh": "水疗",
+      "jp": "スパ",
+      "pt": "Spas e Termas",
+      "de": "Kurbäder",
+      "it": "Terme",
+      "es": "Balnearios",
+      "fr": "Spas"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "286": {
+    "labels": {
+      "kr": "선탠 살롱",
+      "zh_hant": "日光浴沙龍",
+      "en": "Tanning Salons",
+      "zh": "日光浴沙龙",
+      "jp": "日焼けサロン",
+      "pt": "Solários",
+      "de": "Sonnenstudios",
+      "it": "Centri Abbronzatura",
+      "es": "Salones de Bronceado",
+      "fr": "Bronzage"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "287": {
+    "labels": {
+      "kr": "문신",
+      "zh_hant": "紋身",
+      "en": "Tattooing",
+      "zh": "纹身",
+      "jp": "入れ墨",
+      "pt": "Tatuagens",
+      "de": "Tätowierung",
+      "it": "Tatuaggi",
+      "es": "Tatuando",
+      "fr": "Tatouage"
+    },
+    "parents": [
+      "277"
+    ],
+    "abstract": false
+  },
+  "288": {
+    "labels": {
+      "kr": "인쇄, 복사 및 간판",
+      "zh_hant": "打印、復印和標牌制作",
+      "en": "Printing, Copying and Signage",
+      "zh": "打印、复印和标牌制作",
+      "jp": "印刷、コピー、看板",
+      "pt": "Impressão, Cópia e Sinalização",
+      "de": "Drucken, Kopieren und Beschilderung",
+      "it": "Stampe, Fotocopie e Segnaletica",
+      "es": "Impresión, Copia y Señalización",
+      "fr": "Impression, Copie et Signalisation"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "289": {
+    "labels": {
+      "kr": "전문 청소",
+      "zh_hant": "專業清潔",
+      "en": "Professional Cleaning",
+      "zh": "专业清洁",
+      "jp": "清掃サービス",
+      "pt": "Limpeza e Higiene Profissional",
+      "de": "Professionelle Reinigung",
+      "it": "Pulizia Professionale",
+      "es": "Limpieza Profesional",
+      "fr": "Nettoyage Professionnel"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "290": {
+    "labels": {
+      "kr": "출판",
+      "zh_hant": "出版",
+      "en": "Publishing",
+      "zh": "出版",
+      "jp": "出版",
+      "pt": "Editoras",
+      "de": "Verlagswesen",
+      "it": "Editoria",
+      "es": "Editorial",
+      "fr": "Éditeurs"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "291": {
+    "labels": {
+      "kr": "부동산",
+      "zh_hant": "房地產",
+      "en": "Real Estate",
+      "zh": "房地产",
+      "jp": "不動産",
+      "pt": "Ramo Imobiliário",
+      "de": "Immobilien",
+      "it": "Immobiliare",
+      "es": "Inmobiliaria",
+      "fr": "Immobilier"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "292": {
+    "labels": {
+      "kr": "부동산 관리",
+      "zh_hant": "物業管理",
+      "en": "Property Management",
+      "zh": "物业管理",
+      "jp": "不動産管理",
+      "pt": "Gestão de Propriedades",
+      "de": "Immobilienverwaltung",
+      "it": "Gestione Delle Proprietà ",
+      "es": "Gestión de la Propiedad",
+      "fr": "Gestion Des Biens Immobiliers"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "293": {
+    "labels": {
+      "kr": "부동산",
+      "zh_hant": "房地產代理",
+      "en": "Real Estate Agents",
+      "zh": "房地产代理",
+      "jp": "不動産業者",
+      "pt": "Agentes Imobiliários",
+      "de": "Immobilienmakler",
+      "it": "Agenti Immobiliari",
+      "es": "Agentes Inmobiliarios",
+      "fr": "Agents Immobiliers"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "294": {
+    "labels": {
+      "kr": "부동산 감정",
+      "zh_hant": "房地產估價師",
+      "en": "Real Estate Appraiser",
+      "zh": "房地产估价师",
+      "jp": "不動産鑑定士",
+      "pt": "Avaliador Imobiliário",
+      "de": "Immobiliengutachter",
+      "it": "Periti Immobiliari",
+      "es": "Tasador Inmobiliario",
+      "fr": "Expert Foncier, Expert Immobilier"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "295": {
+    "labels": {
+      "kr": "부동산 개발 및 소유권 기업",
+      "zh_hant": "房地產開發商和產權公司",
+      "en": "Real Estate Development and Title Companies",
+      "zh": "房地产开发商和产权公司",
+      "jp": "不動産開発、名義",
+      "pt": "Empresas Imobiliárias e de Títulos",
+      "de": "Immobilien Entwicklung und Titel Firmen",
+      "it": "Sviluppo Immobiliare",
+      "es": "Desarrollo Inmobiliario y Compañías de Título",
+      "fr": "Entreprises de Développement Immobilier et de Titres"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "296": {
+    "labels": {
+      "kr": "아파트, 콘도 및 주택",
+      "zh_hant": "公寓、高級公寓和別墅",
+      "en": "Apartments, Condos, and Houses",
+      "zh": "公寓、高级公寓和别墅",
+      "jp": "アパート、マンションや家",
+      "pt": "Apartamentos, Condomínios e Casas",
+      "de": "Wohnungen, Eigentumswohnungen, Häuser Und",
+      "it": "Appartamenti, Condomini, e Ville",
+      "es": "Apartamentos, Condominios y Casas",
+      "fr": "Appartements, Condos et Maisons"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "297": {
+    "labels": {
+      "kr": "하숙집",
+      "zh_hant": "旅舍",
+      "en": "Boarding Houses",
+      "zh": "旅舍",
+      "jp": "下宿",
+      "pt": "Pensões",
+      "de": "Privatpension",
+      "it": "Pensioni",
+      "es": "Hostales",
+      "fr": "Pensions"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "298": {
+    "labels": {
+      "kr": "건물 및 토지 측량",
+      "zh_hant": "建築和土地測量師",
+      "en": "Building and Land Surveyors",
+      "zh": "建筑和土地测量师",
+      "jp": "建物、土地測量",
+      "pt": "Construção e Topógrafos",
+      "de": "Bau-und Landvermesser",
+      "it": "Geometri",
+      "es": "Tasadores de Edificios y Tierra",
+      "fr": "Bâtiment et Arpenteurs"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "299": {
+    "labels": {
+      "kr": "상업용 부동산",
+      "zh_hant": "商業地產",
+      "en": "Commercial Real Estate",
+      "zh": "商业地产",
+      "jp": "商業用不動産",
+      "pt": "Comércio Imobiliário",
+      "de": "Gewerblische Immobilien",
+      "it": "Immobiliare Commerciale",
+      "es": "Inmobiliaria Comercial",
+      "fr": "Immobilier Commercial"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "300": {
+    "labels": {
+      "kr": "기업 주택",
+      "zh_hant": "辦公樓",
+      "en": "Corporate Housing",
+      "zh": "办公楼",
+      "jp": "社宅",
+      "pt": "Condomínio Empresarial",
+      "de": "Institutioneller Wohnungsbau",
+      "it": "Corporate Housing",
+      "es": "Vivienda Corporativa",
+      "fr": "Location Meublé À Court Terme"
+    },
+    "parents": [
+      "291"
+    ],
+    "abstract": false
+  },
+  "301": {
+    "labels": {
+      "kr": "재생 에너지",
+      "zh_hant": "可再生能源",
+      "en": "Renewable Energy",
+      "zh": "可再生能源",
+      "jp": "再生可能エネルギー",
+      "pt": "Energia Renovável",
+      "de": "Erneuerbare Energien",
+      "it": "Energie Rinnovabili",
+      "es": "Energía Renovable",
+      "fr": "Énergie Renouvelable"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "302": {
+    "labels": {
+      "kr": "수리 서비스",
+      "zh_hant": "維修服務",
+      "en": "Repair Services",
+      "zh": "维修服务",
+      "jp": "修復サービス",
+      "pt": "Serviços de Reparação",
+      "de": "Reparatur-dienstleistungen",
+      "it": "Servizi Di Riparazione",
+      "es": "Servicios de Reparación",
+      "fr": "Services de Réparation"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "303": {
+    "labels": {
+      "kr": "운송, 화물, 및 물자 수송",
+      "zh_hant": "航運、貨運和材料運輸",
+      "en": "Shipping, Freight, and Material Transportation",
+      "zh": "航运、货运和材料运输",
+      "jp": "出荷、貨物と輸送",
+      "pt": "Expedição e Transporte de Materiais",
+      "de": "Versand, Fracht-und Materialtransport",
+      "it": "Spedizione e Trasporto Merci",
+      "es": "Envío, Carga y Transporte de Material",
+      "fr": "Expédition, Cargaison et Transport de Matières"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "304": {
+    "labels": {
+      "kr": "재단사",
+      "zh_hant": "裁縫",
+      "en": "Tailors",
+      "zh": "裁缝",
+      "jp": "仕立て屋",
+      "pt": "Alfaiates",
+      "de": "Schneidereien",
+      "it": "Sarti",
+      "es": "Sastres",
+      "fr": "Tailleurs"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "305": {
+    "labels": {
+      "kr": "수의사",
+      "zh_hant": "獸醫",
+      "en": "Veterinarians",
+      "zh": "兽医",
+      "jp": "獣医",
+      "pt": "Veterinários",
+      "de": "Tierärzte",
+      "it": "Veterinari",
+      "es": "Veterinarios",
+      "fr": "Vétérinaires"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "306": {
+    "labels": {
+      "kr": "웹 디자인 및 개발",
+      "zh_hant": "網站設計和開發",
+      "en": "Web Design and Development",
+      "zh": "网站设计和开发",
+      "jp": "Web デザインと開発",
+      "pt": "Design e Desenvolvimento para a Web",
+      "de": "Webdesign Und-entwicklung",
+      "it": "Web Design e Web Development",
+      "es": "Diseño y Desarrollo del Web",
+      "fr": "Conception et Développement Web"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "307": {
+    "labels": {
+      "kr": "도매",
+      "zh_hant": "批發",
+      "en": "Wholesale",
+      "zh": "批发",
+      "jp": "卸売",
+      "pt": "Comércio por Grosso",
+      "de": "Großhandel",
+      "it": "Vendita All'ingrosso",
+      "es": "Compraventa al por Mayor",
+      "fr": "Vente En Gros"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "308": {
+    "labels": {
+      "kr": "사회",
+      "zh_hant": "社交",
+      "en": "Social",
+      "zh": "社交",
+      "jp": "社会",
+      "pt": "Social",
+      "de": "Soziales",
+      "it": "Sociale",
+      "es": "Social",
+      "fr": "Social"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "309": {
+    "labels": {
+      "kr": "예술",
+      "zh_hant": "藝術",
+      "en": "Arts",
+      "zh": "艺术",
+      "jp": "芸術",
+      "pt": "Artes",
+      "de": "Kunst",
+      "it": "Arti",
+      "es": "Artes",
+      "fr": "Arts"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "310": {
+    "labels": {
+      "kr": "미술상와 갤러리",
+      "zh_hant": "藝術經銷商和畫廊",
+      "en": "Art Dealers and Galleries",
+      "zh": "艺术经销商和画廊",
+      "jp": "画商とギャラリー",
+      "pt": "Negociantes e Galerias de Arte",
+      "de": "Kunsthändler und Galerien",
+      "it": "Venditori e Gallerie D'arte",
+      "es": "Marchantes de Arte y Galerías",
+      "fr": "Galeristes et Galeries D'art"
+    },
+    "parents": [
+      "309"
+    ],
+    "abstract": false
+  },
+  "311": {
+    "labels": {
+      "kr": "박물관",
+      "zh_hant": "博物館",
+      "en": "Museums",
+      "zh": "博物馆",
+      "jp": "博物館",
+      "pt": "Museus",
+      "de": "Museen",
+      "it": "Musei",
+      "es": "Museos",
+      "fr": "Musées"
+    },
+    "parents": [
+      "309"
+    ],
+    "abstract": false
+  },
+  "312": {
+    "labels": {
+      "kr": "술집",
+      "zh_hant": "酒吧",
+      "en": "Bars",
+      "zh": "酒吧",
+      "jp": "バー",
+      "pt": "Bares",
+      "de": "Bars",
+      "it": "Bar",
+      "es": "Bares",
+      "fr": "Bars"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "313": {
+    "labels": {
+      "kr": "호텔 휴게실",
+      "zh_hant": "酒店會所",
+      "en": "Hotel Lounges",
+      "zh": "酒店会所",
+      "jp": "ホテル ラウンジ",
+      "pt": "Salões de Hotel",
+      "de": "Hotel Lounges",
+      "it": "Bar All'intero Di Alberghi",
+      "es": "Salones de Hotel",
+      "fr": "Bar D'hôtel"
+    },
+    "parents": [
+      "312"
+    ],
+    "abstract": false
+  },
+  "314": {
+    "labels": {
+      "kr": "재즈와 블루스 카페",
+      "zh_hant": "爵士樂和藍調酒吧",
+      "en": "Jazz and Blues Cafes",
+      "zh": "爵士乐和蓝调酒吧",
+      "jp": "ジャズとブルースのカフェ",
+      "pt": "Cafés de Jazz e Blues",
+      "de": "Jazz und Blues-cafes",
+      "it": "Locali Jazz e Blues",
+      "es": "Cafés de la Música Jazz y Blues",
+      "fr": "Cafés Jazz et Blues"
+    },
+    "parents": [
+      "312"
+    ],
+    "abstract": false
+  },
+  "315": {
+    "labels": {
+      "kr": "스포츠 바",
+      "zh_hant": "運動酒吧",
+      "en": "Sports Bars",
+      "zh": "运动酒吧",
+      "jp": "スポーツ バー",
+      "pt": "Bares Desportivos",
+      "de": "Sports Bars",
+      "it": "Bar Sportivi",
+      "es": "Bares Deportivos",
+      "fr": "Bars Sport"
+    },
+    "parents": [
+      "312"
+    ],
+    "abstract": false
+  },
+  "316": {
+    "labels": {
+      "kr": "와인 바",
+      "zh_hant": "紅酒吧",
+      "en": "Wine Bars",
+      "zh": "红酒吧",
+      "jp": "ワイン バー",
+      "pt": "Bares de Vinho",
+      "de": "Weinstuben",
+      "it": "Bar Enoteche",
+      "es": "Bares de Vino",
+      "fr": "Bars À Vin"
+    },
+    "parents": [
+      "312"
+    ],
+    "abstract": false
+  },
+  "317": {
+    "labels": {
+      "kr": "엔터테인먼트",
+      "zh_hant": "娛樂",
+      "en": "Entertainment",
+      "zh": "娱乐",
+      "jp": "エンターテイメント",
+      "pt": "Entretenimento",
+      "de": "Unterhaltung",
+      "it": "Intrattenimento",
+      "es": "Entretenimiento",
+      "fr": "Divertissement"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "318": {
+    "labels": {
+      "kr": "성인",
+      "zh_hant": "成人",
+      "en": "Adult",
+      "zh": "成人",
+      "jp": "成人",
+      "pt": "Adultos",
+      "de": "Erwachsene",
+      "it": "Locali Per Adulti",
+      "es": "Adultos",
+      "fr": "Adulte"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "319": {
+    "labels": {
+      "kr": "아케이드 및 놀이동산",
+      "zh_hant": "遊藝廳和遊樂場",
+      "en": "Arcades and Amusement Parks",
+      "zh": "游艺厅和游乐场",
+      "jp": "アーケード、遊園地",
+      "pt": "Vídeojogos e Parques de Diversões",
+      "de": "Spielhallen und Vergnügungsparks",
+      "it": "Sale Da Giochi e Parchi Di Divertimento",
+      "es": "Arcadas y Parques de Atracciones",
+      "fr": "Arcades et Parcs D'attractions"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "320": {
+    "labels": {
+      "kr": "당구장 및 수영장",
+      "zh_hant": "桌球",
+      "en": "Billiard and Pool",
+      "zh": "桌球",
+      "jp": "ビリヤード、プール",
+      "pt": "Salas de Bilhar",
+      "de": "Billard-und Pool",
+      "it": "Sale Da Biliardo",
+      "es": "Billar y Billar Americano",
+      "fr": "Billard et Billard Américain"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "321": {
+    "labels": {
+      "kr": "빙고",
+      "zh_hant": "賓果",
+      "en": "Bingo",
+      "zh": "宾果",
+      "jp": "ビンゴ",
+      "pt": "Bingo",
+      "de": "Bingo",
+      "it": "Tombola",
+      "es": "Bingo",
+      "fr": "Bingo"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "322": {
+    "labels": {
+      "kr": "볼링장",
+      "zh_hant": "保齡球",
+      "en": "Bowling",
+      "zh": "保龄球",
+      "jp": "ボウリング",
+      "pt": "Bowling",
+      "de": "Bowling",
+      "it": "Bowling",
+      "es": "Bolina",
+      "fr": "Bowling"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "323": {
+    "labels": {
+      "kr": "축제",
+      "zh_hant": "嘉年華",
+      "en": "Carnivals",
+      "zh": "嘉年华",
+      "jp": "カーニバル",
+      "pt": "Carnavais",
+      "de": "Karneval",
+      "it": "Fiere",
+      "es": "Carnavales",
+      "fr": "Carnavals"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "324": {
+    "labels": {
+      "kr": "카지노 및 도박",
+      "zh_hant": "賭場及賭博",
+      "en": "Casinos and Gaming",
+      "zh": "赌场及赌博",
+      "jp": "カジノ ・ ゲーム",
+      "pt": "Casinos e Jogo",
+      "de": "Casinos und Gaming",
+      "it": "Casinò e Gioco D'azzardo",
+      "es": "Casinos y Juegos",
+      "fr": "Casinos et Jeux"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "325": {
+    "labels": {
+      "kr": "서커스",
+      "zh_hant": "馬戲團",
+      "en": "Circuses",
+      "zh": "马戏团",
+      "jp": "サーカス",
+      "pt": "Circos",
+      "de": "Zirkusse",
+      "it": "Circhi",
+      "es": "Circos",
+      "fr": "Cirques"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "326": {
+    "labels": {
+      "kr": "무도장 및 라운지",
+      "zh_hant": "舞廳和交誼廳",
+      "en": "Dance Halls and Saloons",
+      "zh": "舞厅和交谊厅",
+      "jp": "ダンスホールや酒場",
+      "pt": "Salões de Dança",
+      "de": "Tanz-hallen und Saloons",
+      "it": "Sale Da Ballo e Balere",
+      "es": "Salas de Baile y Salones",
+      "fr": "Salles de Danse et Berlines"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "327": {
+    "labels": {
+      "kr": "박람회 및 로데오",
+      "zh_hant": "露天廣場和牛仔表演",
+      "en": "Fairgrounds and Rodeos",
+      "zh": "露天广场和牛仔表演",
+      "jp": "見本市会場、ロデオ",
+      "pt": "Feiras e Rodeios",
+      "de": "Messegelände und Rodeos",
+      "it": "Sedi Fieristiche e Rodei",
+      "es": "Recinto Ferial y Rodeos",
+      "fr": "Foires et Rodéos"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "328": {
+    "labels": {
+      "kr": "이동 카트",
+      "zh_hant": "卡丁車",
+      "en": "Go Carts",
+      "zh": "卡丁车",
+      "jp": "ゴーカート",
+      "pt": "Karting",
+      "de": "Go Carts",
+      "it": "Go Kart",
+      "es": "Carretillas",
+      "fr": "Karting"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "329": {
+    "labels": {
+      "kr": "후카 라운지",
+      "zh_hant": "水煙會所",
+      "en": "Hookah Lounges",
+      "zh": "水烟会所",
+      "jp": "水パイプ ラウンジ",
+      "pt": "Salões de Narguilé",
+      "de": "Shisha Lounges",
+      "it": "Bar Per Fumare Narghilé",
+      "es": "Salones de Narguile",
+      "fr": "Salons de Narguilé"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "330": {
+    "labels": {
+      "kr": "노래방",
+      "zh_hant": "卡拉OK",
+      "en": "Karaoke",
+      "zh": "卡拉OK",
+      "jp": "カラオケ",
+      "pt": "Karaoke",
+      "de": "Karaoke",
+      "it": "Karaoke",
+      "es": "Karaoke",
+      "fr": "Karaoké"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "331": {
+    "labels": {
+      "kr": "미니 골프",
+      "zh_hant": "迷你高爾夫",
+      "en": "Miniature Golf",
+      "zh": "迷你高尔夫",
+      "jp": "ミニチュア ゴルフ",
+      "pt": "Mini-golfe",
+      "de": "Minigolf",
+      "it": "Minigolf",
+      "es": "Golfito",
+      "fr": "Golf Miniature"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "332": {
+    "labels": {
+      "kr": "영화관",
+      "zh_hant": "電影院",
+      "en": "Movie Theatres",
+      "zh": "电影院",
+      "jp": "映画館",
+      "pt": "Cinemas",
+      "de": "Kinos",
+      "it": "Cinema",
+      "es": "Cines",
+      "fr": "Cinémas"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "333": {
+    "labels": {
+      "kr": "음악 및 공연 장소",
+      "zh_hant": "音樂和表演場地",
+      "en": "Music and Show Venues",
+      "zh": "音乐和表演场地",
+      "jp": "音楽とショー会場",
+      "pt": "Salas de Música e Espectáculos",
+      "de": "Musik und Veranstaltungsorte",
+      "it": "Locali Per Concerti e Spettacoli",
+      "es": "Salas de Música y Espectáculo",
+      "fr": "Musique et Spectacles"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "334": {
+    "labels": {
+      "kr": "나이트 클럽",
+      "zh_hant": "夜總會",
+      "en": "Night Clubs",
+      "zh": "夜总会",
+      "jp": "ナイトクラブ",
+      "pt": "Clubes Nocturnos e Discotecas",
+      "de": "Nachtclubs",
+      "it": "Locali Notturni",
+      "es": "Clubes Nocturnos",
+      "fr": "Boîtes de Nuit"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "335": {
+    "labels": {
+      "kr": "파티 센터",
+      "zh_hant": "派對中心",
+      "en": "Party Centers",
+      "zh": "派对中心",
+      "jp": "パーティー会場",
+      "pt": "Centros de Festa",
+      "de": "Party Centers",
+      "it": "Negozi Di Articoli Per Feste",
+      "es": "Centros de Partido",
+      "fr": "Centres de Fêtes"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "336": {
+    "labels": {
+      "kr": "점술과 점성술",
+      "zh_hant": "通靈師和占星師",
+      "en": "Psychics and Astrologers",
+      "zh": "通灵师和占星师",
+      "jp": "占いと占星術師",
+      "pt": "Videntes e Astrólogos",
+      "de": "Hellseher und Astrologen",
+      "it": "Sensitivi e Astrologi",
+      "es": "Adivinos y Astrólogos",
+      "fr": "Voyants et Astrologues"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "337": {
+    "labels": {
+      "kr": "티켓 판매",
+      "zh_hant": "彩票銷售",
+      "en": "Ticket Sales",
+      "zh": "彩票销售",
+      "jp": "チケット販売",
+      "pt": "Bilheteiras",
+      "de": "Ticketverkauf",
+      "it": "Vendita Biglietti",
+      "es": "Ventas de Entradas",
+      "fr": "Vente de Tickets, Billeterie"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "338": {
+    "labels": {
+      "kr": "음식 및 식사",
+      "zh_hant": "食品和餐飲",
+      "en": "Food and Dining",
+      "zh": "食品和餐饮",
+      "jp": "食品と外食",
+      "pt": "Restauração",
+      "de": "Essen und Trinken",
+      "it": "Cibo e Ristorazione",
+      "es": "Alimento y Cenar",
+      "fr": "Alimentation et Restauration"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "339": {
+    "labels": {
+      "kr": "베이글와 도넛",
+      "zh_hant": "貝果面包和甜甜圈",
+      "en": "Bagels and Donuts",
+      "zh": "贝果面包和甜甜圈",
+      "jp": "ベーグルやドーナツ",
+      "pt": "Bagels e Donuts",
+      "de": "Bagels und Donuts",
+      "it": "Bagels e Ciambelle",
+      "es": "Roscas y Rosquillas Cubiertas",
+      "fr": "Bagels et Donuts"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "340": {
+    "labels": {
+      "kr": "빵류",
+      "zh_hant": "面包店",
+      "en": "Bakeries",
+      "zh": "面包店",
+      "jp": "パン屋",
+      "pt": "Padarias e Pastelarias",
+      "de": "Bäckereien",
+      "it": "Panifici",
+      "es": "Panaderías",
+      "fr": "Boulangeries"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "341": {
+    "labels": {
+      "kr": "주류",
+      "zh_hant": "釀酒廠",
+      "en": "Breweries",
+      "zh": "酿酒厂",
+      "jp": "醸造所",
+      "pt": "Cervejarias",
+      "de": "Brauereien",
+      "it": "Birrifici",
+      "es": "Cervecerías",
+      "fr": "Brasseries"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "342": {
+    "labels": {
+      "kr": "카페, 커피, 찻집",
+      "zh_hant": "咖啡館和茶館",
+      "en": "Cafes, Coffee and Tea Houses",
+      "zh": "咖啡馆和茶馆",
+      "jp": "カフェ、コーヒー、喫茶店",
+      "pt": "Cafés e Salas de Chá",
+      "de": "Cafés, Kaffee- And Teehäuser",
+      "it": "Caffè e Sale Da Tè",
+      "es": "Cafés, Café y Casas de Té",
+      "fr": "Cafés et Salons de Thé"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "343": {
+    "labels": {
+      "kr": "디저트",
+      "zh_hant": "甜品",
+      "en": "Dessert",
+      "zh": "甜品",
+      "jp": "デザート",
+      "pt": "Sobremesas",
+      "de": "Nachspeise",
+      "it": "Dessert",
+      "es": "Postre",
+      "fr": "Desserts"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "344": {
+    "labels": {
+      "kr": "아이스크림 가게",
+      "zh_hant": "冰淇淋店",
+      "en": "Ice Cream Parlors",
+      "zh": "冰淇淋店",
+      "jp": "アイス クリーム パーラー",
+      "pt": "Gelatarias",
+      "de": "Eisdielen",
+      "it": "Gelaterie",
+      "es": "Locutorios de Helado",
+      "fr": "Café-glaciers, Glaciers"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "345": {
+    "labels": {
+      "kr": "인터넷 카페",
+      "zh_hant": "網吧",
+      "en": "Internet Cafes",
+      "zh": "网吧",
+      "jp": "インターネット カフェ",
+      "pt": "Cibercafés",
+      "de": "Internetcafes",
+      "it": "Internet Café",
+      "es": "Cibercafés",
+      "fr": "Cafés Internet"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "346": {
+    "labels": {
+      "kr": "주스와 스무디",
+      "zh_hant": "果汁吧",
+      "en": "Juice Bars and Smoothies",
+      "zh": "果汁吧",
+      "jp": "ジュース ・ バーとスムージー",
+      "pt": "Bares de Sumos e Batidos",
+      "de": "Saft- und Fruchtshakebars",
+      "it": "Spremuterie e Frullaterie",
+      "es": "Bares de Jugos y Licuados",
+      "fr": "Bar À Jus et Smoothies"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "347": {
+    "labels": {
+      "kr": "음식점",
+      "zh_hant": "餐廳",
+      "en": "Restaurants",
+      "zh": "餐厅",
+      "jp": "レストラン",
+      "pt": "Restaurantes",
+      "de": "Restaurants",
+      "it": "Ristoranti",
+      "es": "Restaurantes",
+      "fr": "Restaurants"
+    },
+    "parents": [
+      "338"
+    ],
+    "abstract": false
+  },
+  "348": {
+    "labels": {
+      "kr": "아메리칸",
+      "zh_hant": "美式餐廳",
+      "en": "American",
+      "zh": "美式餐厅",
+      "jp": "アメリカ料理",
+      "pt": "Americano",
+      "de": "Americanische Restaurants",
+      "it": "Americani",
+      "es": "Americana",
+      "fr": "American"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "349": {
+    "labels": {
+      "kr": "바베큐",
+      "zh_hant": "燒烤",
+      "en": "Barbecue",
+      "zh": "烧烤",
+      "jp": "バーベキュー",
+      "pt": "Barbecue",
+      "de": "Grillrestaurants",
+      "it": "Barbecue",
+      "es": "Barbacoa",
+      "fr": "Barbecue"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "350": {
+    "labels": {
+      "kr": "뷔페",
+      "zh_hant": "自助餐",
+      "en": "Buffets",
+      "zh": "自助餐",
+      "jp": "ビュッフェ",
+      "pt": "Buffet",
+      "de": "Selbstbedienungsrestaurants",
+      "it": "Buffet",
+      "es": "Bufés",
+      "fr": "Buffets"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "351": {
+    "labels": {
+      "kr": "햄버거",
+      "zh_hant": "漢堡",
+      "en": "Burgers",
+      "zh": "汉堡",
+      "jp": "ハンバーガー",
+      "pt": "Hambúrgueres",
+      "de": "Burgers",
+      "it": "Hamburger",
+      "es": "Hamburguesas",
+      "fr": "Burgers"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "352": {
+    "labels": {
+      "kr": "중식",
+      "zh_hant": "中式餐廳",
+      "en": "Chinese",
+      "zh": "中式餐厅",
+      "jp": "中国",
+      "pt": "Chinês",
+      "de": "Chinesische Restaurants",
+      "it": "Cinesi",
+      "es": "Chino",
+      "fr": "Chinois"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "353": {
+    "labels": {
+      "kr": "델리",
+      "zh_hant": "熟食店",
+      "en": "Delis",
+      "zh": "熟食店",
+      "jp": "デリ",
+      "pt": "Casas de Produtos Gourmet",
+      "de": "Feinkost",
+      "it": "Delicatessen",
+      "es": "Tiendas de Productos Gourmet",
+      "fr": "Déli"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "354": {
+    "labels": {
+      "kr": "간이식당",
+      "zh_hant": "餐車",
+      "en": "Diners",
+      "zh": "餐车",
+      "jp": "ダイナー",
+      "pt": "Cantinas",
+      "de": "Imbiss",
+      "it": "Diner",
+      "es": "Cafeterías",
+      "fr": "Diners"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "355": {
+    "labels": {
+      "kr": "패스트푸드",
+      "zh_hant": "快餐",
+      "en": "Fast Food",
+      "zh": "快餐",
+      "jp": "ファーストフード",
+      "pt": "Fast Food",
+      "de": "Fast Food",
+      "it": "Fast Food",
+      "es": "Comida Rápida",
+      "fr": "Fast Food"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "356": {
+    "labels": {
+      "kr": "프랑스요리",
+      "zh_hant": "法式餐廳",
+      "en": "French",
+      "zh": "法式餐厅",
+      "jp": "フレンチ",
+      "pt": "Francês",
+      "de": "Französisch",
+      "it": "Francesi",
+      "es": "Francés",
+      "fr": "Français"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "357": {
+    "labels": {
+      "kr": "인도요리",
+      "zh_hant": "印度餐廳",
+      "en": "Indian",
+      "zh": "印度餐厅",
+      "jp": "インド料理",
+      "pt": "Indiano",
+      "de": "Indisch",
+      "it": "Indiani",
+      "es": "Indio",
+      "fr": "Indien"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "358": {
+    "labels": {
+      "kr": "이탈리아요리",
+      "zh_hant": "意式餐廳",
+      "en": "Italian",
+      "zh": "意式餐厅",
+      "jp": "イタリアン",
+      "pt": "Italiano",
+      "de": "Italienisch",
+      "it": "Italiani",
+      "es": "Italiano",
+      "fr": "Italien"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "359": {
+    "labels": {
+      "kr": "일식",
+      "zh_hant": "日式餐廳",
+      "en": "Japanese",
+      "zh": "日式餐厅",
+      "jp": "和食",
+      "pt": "Japonês",
+      "de": "Japanisch",
+      "it": "Giapponesi",
+      "es": "Japonés",
+      "fr": "Japonais"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "360": {
+    "labels": {
+      "kr": "한식",
+      "zh_hant": "韓式餐廳",
+      "en": "Korean",
+      "zh": "韩式餐厅",
+      "jp": "韓国料理",
+      "pt": "Coreano",
+      "de": "Koreanisch",
+      "it": "Coreani",
+      "es": "Coreano",
+      "fr": "Coréen"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "361": {
+    "labels": {
+      "kr": "멕시칸",
+      "zh_hant": "墨西哥餐廳",
+      "en": "Mexican",
+      "zh": "墨西哥餐厅",
+      "jp": "メキシカン",
+      "pt": "Mexicano",
+      "de": "Mexikanisch",
+      "it": "Messicani",
+      "es": "Mexicana",
+      "fr": "Mexicain"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "362": {
+    "labels": {
+      "kr": "중동요리",
+      "zh_hant": "中東餐廳",
+      "en": "Middle Eastern",
+      "zh": "中东餐厅",
+      "jp": "中近東",
+      "pt": "Do Médio Oriente",
+      "de": "Mittlerer Osten",
+      "it": "Medio Orientali",
+      "es": "Oriente",
+      "fr": "Moyen-orient"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "363": {
+    "labels": {
+      "kr": "피자",
+      "zh_hant": "比薩",
+      "en": "Pizza",
+      "zh": "比萨",
+      "jp": "ピザ",
+      "pt": "Pizzarias",
+      "de": "Pizzerien",
+      "it": "Pizzerie",
+      "es": "Pizza",
+      "fr": "Pizza"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "364": {
+    "labels": {
+      "kr": "해산물",
+      "zh_hant": "海鮮",
+      "en": "Seafood",
+      "zh": "海鲜",
+      "jp": "シーフード",
+      "pt": "Marisqueiras",
+      "de": "Fischrestaurants",
+      "it": "Pesce",
+      "es": "Mariscos",
+      "fr": "Fruits de Mer"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "365": {
+    "labels": {
+      "kr": "스테이크 하우스",
+      "zh_hant": "牛排",
+      "en": "Steakhouses",
+      "zh": "牛排",
+      "jp": "ステーキハウス",
+      "pt": "Churrascarias",
+      "de": "Steakhäuser",
+      "it": "Steakhouse",
+      "es": "Asadores",
+      "fr": "Restaurants Grill"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "366": {
+    "labels": {
+      "kr": "초밥",
+      "zh_hant": "壽司",
+      "en": "Sushi",
+      "zh": "寿司",
+      "jp": "寿司",
+      "pt": "De Sushi",
+      "de": "Sushi",
+      "it": "Sushi",
+      "es": "Sushi",
+      "fr": "Sushi"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "367": {
+    "labels": {
+      "kr": "태국요리",
+      "zh_hant": "泰式餐廳",
+      "en": "Thai",
+      "zh": "泰式餐厅",
+      "jp": "タイ",
+      "pt": "Tailandês",
+      "de": "Thai",
+      "it": "Tailandesi",
+      "es": "Tailandés",
+      "fr": "Thai"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "368": {
+    "labels": {
+      "kr": "채식",
+      "zh_hant": "素食餐廳",
+      "en": "Vegan and Vegetarian",
+      "zh": "素食餐厅",
+      "jp": "ビーガン、ベジタリアン",
+      "pt": "Vegan e Vegetarianos",
+      "de": "Veganische und Vegetarier",
+      "it": "Vegani e Vegetariani",
+      "es": "Vegana y Vegetariana",
+      "fr": "Végétalien et Végétarien"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "369": {
+    "labels": {
+      "kr": "사교 클럽",
+      "zh_hant": "社交俱樂部",
+      "en": "Social Clubs",
+      "zh": "社交俱乐部",
+      "jp": "社交クラブ",
+      "pt": "Clubes Sociais",
+      "de": "Vereine",
+      "it": "Club Per Soci",
+      "es": "Clubes Sociales",
+      "fr": "Clubs"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "370": {
+    "labels": {
+      "kr": "와이너리와 포도원",
+      "zh_hant": "葡萄酒廠和葡萄園",
+      "en": "Wineries and Vineyards",
+      "zh": "葡萄酒厂和葡萄园",
+      "jp": "ワイナリーやブドウ園",
+      "pt": "Adegas e Vinhas",
+      "de": "Kellereien und Weinberge",
+      "it": "Cantine e Vigneti",
+      "es": "Bodegas y Viñedos",
+      "fr": "Caves À Vin et Vignobles"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "371": {
+    "labels": {
+      "kr": "동물원, 수족관 및 야생 동물 보호구역",
+      "zh_hant": "動物園、水族館和野生動物保護區",
+      "en": "Zoos, Aquariums and Wildlife Sanctuaries",
+      "zh": "动物园、水族馆和野生动物保护区",
+      "jp": "動物園、水族館、野生生物保護区",
+      "pt": "Jardins Zoológicos, Aquários e Parques Biológicos",
+      "de": "Zoos, Aquarien und Wildreservate",
+      "it": "Zoo, Acquari e Riserve Per Fauna Selvatica",
+      "es": "Zoológicos, Acuarios y Santuarios de vida Silvestre",
+      "fr": "Zoos, Aquariums et Réserves Fauniques"
+    },
+    "parents": [
+      "308"
+    ],
+    "abstract": false
+  },
+  "372": {
+    "labels": {
+      "kr": "스포츠 및 레크리에이션",
+      "zh_hant": "運動和休閑",
+      "en": "Sports and Recreation",
+      "zh": "运动和休闲",
+      "jp": "スポーツとレクリエーション",
+      "pt": "Desportos e Lazer",
+      "de": "Sport und Freizeit",
+      "it": "Sport e Ricreazione",
+      "es": "Deportes y Recreación",
+      "fr": "Sports et Loisirs"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "373": {
+    "labels": {
+      "kr": "육상",
+      "zh_hant": "田徑場",
+      "en": "Athletic Fields",
+      "zh": "田径场",
+      "jp": "競技場",
+      "pt": "Campos de Atletismo",
+      "de": "Sportplätze",
+      "it": "Campi Sportivi",
+      "es": "Campos Atléticos",
+      "fr": "Terrains de Sport"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "374": {
+    "labels": {
+      "kr": "야구",
+      "zh_hant": "棒球",
+      "en": "Baseball",
+      "zh": "棒球",
+      "jp": "野球",
+      "pt": "Basebol",
+      "de": "Baseball",
+      "it": "Baseball",
+      "es": "Béisbol",
+      "fr": "Baseball"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "375": {
+    "labels": {
+      "kr": "배팅장",
+      "zh_hant": "擊球籠",
+      "en": "Batting Ranges",
+      "zh": "击球笼",
+      "jp": "バッティングセンター",
+      "pt": "Centros de Treino de Basebol",
+      "de": "Baseballplätze",
+      "it": "Strutture Per Battere A Baseball",
+      "es": "Rangos de bateo",
+      "fr": "Centres D'entraînement de Frappe Baseball"
+    },
+    "parents": [
+      "374"
+    ],
+    "abstract": false
+  },
+  "376": {
+    "labels": {
+      "kr": "농구",
+      "zh_hant": "籃球",
+      "en": "Basketball",
+      "zh": "篮球",
+      "jp": "バスケット ボール",
+      "pt": "Basquetebol",
+      "de": "Basketball",
+      "it": "Basket",
+      "es": "Baloncesto",
+      "fr": "Basket-ball"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "377": {
+    "labels": {
+      "kr": "격투기",
+      "zh_hant": "搏擊運動",
+      "en": "Combat Sports",
+      "zh": "搏击运动",
+      "jp": "格闘技",
+      "pt": "Desportos de Combate",
+      "de": "Kampfsport",
+      "it": "Sport Di Combattimento",
+      "es": "Deportes de Combate",
+      "fr": "Sports de Combat"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "378": {
+    "labels": {
+      "kr": "자전거",
+      "zh_hant": "自行車",
+      "en": "Cycling",
+      "zh": "自行车",
+      "jp": "サイクリング",
+      "pt": "Ciclismo",
+      "de": "Radsport",
+      "it": "Ciclismo",
+      "es": "Ciclismo",
+      "fr": "Cyclisme"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "379": {
+    "labels": {
+      "kr": "춤",
+      "zh_hant": "舞蹈",
+      "en": "Dance",
+      "zh": "舞蹈",
+      "jp": "ダンス",
+      "pt": "Dança",
+      "de": "Tanz",
+      "it": "Danza",
+      "es": "Baile",
+      "fr": "Danse"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "380": {
+    "labels": {
+      "kr": "승마",
+      "zh_hant": "馬術",
+      "en": "Equestrian",
+      "zh": "马术",
+      "jp": "乗馬",
+      "pt": "Equitação",
+      "de": "Reiten",
+      "it": "Equitazione",
+      "es": "Ecuestre",
+      "fr": "Équitation"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "381": {
+    "labels": {
+      "kr": "미식축구",
+      "zh_hant": "橄欖球",
+      "en": "Football",
+      "zh": "橄榄球",
+      "jp": "サッカー",
+      "pt": "Futebol Americano",
+      "de": "Fußball",
+      "it": "Calcio",
+      "es": "Fútbol Americano",
+      "fr": "Football"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "382": {
+    "labels": {
+      "kr": "골프",
+      "zh_hant": "高爾夫",
+      "en": "Golf",
+      "zh": "高尔夫",
+      "jp": "ゴルフ",
+      "pt": "Golfe",
+      "de": "Golf",
+      "it": "Golf",
+      "es": "Golf",
+      "fr": "Golf"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "383": {
+    "labels": {
+      "kr": "사격장",
+      "zh_hant": "射擊場",
+      "en": "Gun Ranges",
+      "zh": "射击场",
+      "jp": "射撃場",
+      "pt": "Campos de Tiro",
+      "de": "Schießstande",
+      "it": "Poligoni",
+      "es": "Rangos de Pistola",
+      "fr": "Centres de Tir"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "384": {
+    "labels": {
+      "kr": "체조",
+      "zh_hant": "體操",
+      "en": "Gymnastics",
+      "zh": "体操",
+      "jp": "体操",
+      "pt": "Ginástica",
+      "de": "Gymnastik",
+      "it": "Ginnastica",
+      "es": "Gimnasia",
+      "fr": "Gymnastique"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "385": {
+    "labels": {
+      "kr": "체육관 및 헬스장",
+      "zh_hant": "健身房和健身中心",
+      "en": "Gyms and Fitness Centers",
+      "zh": "健身房和健身中心",
+      "jp": "ジムやフィットネス センター",
+      "pt": "Ginásios e Centros de Fitness",
+      "de": "Turnhallen und Fitnesszentren",
+      "it": "Palestre",
+      "es": "Gimnasios y Centros de Buena Forma",
+      "fr": "Gymnases et Les Centres de Remise En Forme"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "386": {
+    "labels": {
+      "kr": "하키",
+      "zh_hant": "曲棍球",
+      "en": "Hockey",
+      "zh": "曲棍球",
+      "jp": "ホッケー",
+      "pt": "Hóquei",
+      "de": "Hockey",
+      "it": "Hockey",
+      "es": "Hockey",
+      "fr": "Hockey"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "387": {
+    "labels": {
+      "kr": "야외",
+      "zh_hant": "戶外活動",
+      "en": "Outdoors",
+      "zh": "户外活动",
+      "jp": "アウトドア",
+      "pt": "Ar Livre",
+      "de": "Außenbereich",
+      "it": "All'aperto",
+      "es": "Afuera",
+      "fr": "Plein Air"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "388": {
+    "labels": {
+      "kr": "캠프장 및 RV 파크",
+      "zh_hant": "戶外露營地和房車營地",
+      "en": "Campgrounds and RV Parks",
+      "zh": "户外露营地和房车营地",
+      "jp": "キャンプ場とRVパーク",
+      "pt": "Parques de Campismo e de Caravanas",
+      "de": "Campingplätze und Wohnmobil-parks",
+      "it": "Campeggi",
+      "es": "Lugares de Campamento y Parques de Vehículos de Recreación",
+      "fr": "Aires de Camping"
+    },
+    "parents": [
+      "387"
+    ],
+    "abstract": false
+  },
+  "389": {
+    "labels": {
+      "kr": "등산",
+      "zh_hant": "徒步旅行",
+      "en": "Hiking",
+      "zh": "徒步旅行",
+      "jp": "ハイキング",
+      "pt": "Caminhadas",
+      "de": "Wandern",
+      "it": "Escursioni",
+      "es": "Senderismo",
+      "fr": "Randonnée"
+    },
+    "parents": [
+      "387"
+    ],
+    "abstract": false
+  },
+  "390": {
+    "labels": {
+      "kr": "열기구",
+      "zh_hant": "熱氣球",
+      "en": "Hot Air Balloons",
+      "zh": "热气球",
+      "jp": "熱気球",
+      "pt": "Balões de Ar Quente",
+      "de": "Heißluftballons",
+      "it": "Mongolfiere",
+      "es": "Globos de Aire Caliente",
+      "fr": "Montgolfières"
+    },
+    "parents": [
+      "387"
+    ],
+    "abstract": false
+  },
+  "391": {
+    "labels": {
+      "kr": "사냥과 낚시",
+      "zh_hant": "狩獵和釣魚",
+      "en": "Hunting and Fishing",
+      "zh": "狩猎和钓鱼",
+      "jp": "狩猟や釣り",
+      "pt": "Caça e Pesca",
+      "de": "Jagd-und Angelsport",
+      "it": "Caccia e Pesca",
+      "es": "Caza y Pesca",
+      "fr": "Chasse et Pêche"
+    },
+    "parents": [
+      "387"
+    ],
+    "abstract": false
+  },
+  "392": {
+    "labels": {
+      "kr": "암벽 등반",
+      "zh_hant": "攀巖",
+      "en": "Rock Climbing",
+      "zh": "攀岩",
+      "jp": "ロック クライミング",
+      "pt": "Escalada",
+      "de": "Klettern",
+      "it": "Arrampicata Da Roccia",
+      "es": "Escalada en Roca",
+      "fr": "Escalade"
+    },
+    "parents": [
+      "387"
+    ],
+    "abstract": false
+  },
+  "393": {
+    "labels": {
+      "kr": "스카이 다이빙",
+      "zh_hant": "跳傘",
+      "en": "Skydiving",
+      "zh": "跳伞",
+      "jp": "スカイ ダイビング",
+      "pt": "Pára-quedismo",
+      "de": "Fallschirmspringen",
+      "it": "Paracadutismo",
+      "es": "Paracaidismo",
+      "fr": "Parachutisme"
+    },
+    "parents": [
+      "387"
+    ],
+    "abstract": false
+  },
+  "394": {
+    "labels": {
+      "kr": "서바이벌",
+      "zh_hant": "迷彩漆彈",
+      "en": "Paintball",
+      "zh": "迷彩漆彈",
+      "jp": "ペイント ボール",
+      "pt": "Paintball",
+      "de": "Paintball",
+      "it": "Paintball",
+      "es": "Juego de Guerra con Pintura",
+      "fr": "Paintball"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "395": {
+    "labels": {
+      "kr": "개인 트레이너",
+      "zh_hant": "私人教練",
+      "en": "Personal Trainers",
+      "zh": "私人教练",
+      "jp": "パーソナル トレーナー",
+      "pt": "Treinadores Pessoais",
+      "de": "Personal Trainer",
+      "it": "Personal Trainer",
+      "es": "Entrenadores Personales",
+      "fr": "Entraîneur Personnel et Coach"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "396": {
+    "labels": {
+      "kr": "육상 경주",
+      "zh_hant": "賽道",
+      "en": "Race Tracks",
+      "zh": "赛道",
+      "jp": "レース トラック",
+      "pt": "Pistas de Corrida",
+      "de": "Rennstrecken",
+      "it": "Piste Da Corsa",
+      "es": "Hipódromos",
+      "fr": "Pistes de Course"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "397": {
+    "labels": {
+      "kr": "라켓 스포츠",
+      "zh_hant": "球拍運動",
+      "en": "Racquet Sports",
+      "zh": "球拍运动",
+      "jp": "ラケット スポーツ",
+      "pt": "Desportos de Raquete",
+      "de": "Schlägersportarten",
+      "it": "Sport Con Racchette",
+      "es": "Deportes de Raqueta",
+      "fr": "Sports de Raquette"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "398": {
+    "labels": {
+      "kr": "라켓볼",
+      "zh_hant": "壁球",
+      "en": "Racquetball",
+      "zh": "壁球",
+      "jp": "ラケットボール",
+      "pt": "Raquetebol",
+      "de": "Squash",
+      "it": "Racquetball",
+      "es": "Raquetbol",
+      "fr": "Racquetball"
+    },
+    "parents": [
+      "397"
+    ],
+    "abstract": false
+  },
+  "399": {
+    "labels": {
+      "kr": "테니스",
+      "zh_hant": "網球",
+      "en": "Tennis",
+      "zh": "网球",
+      "jp": "テニス",
+      "pt": "Ténis",
+      "de": "Tennis",
+      "it": "Tennis",
+      "es": "Tenis",
+      "fr": "Tennis"
+    },
+    "parents": [
+      "397"
+    ],
+    "abstract": false
+  },
+  "400": {
+    "labels": {
+      "kr": "레크리에이션 센터",
+      "zh_hant": "活動中心",
+      "en": "Recreation Centers",
+      "zh": "活动中心",
+      "jp": "レクリエーション センター",
+      "pt": "Centros Recreativos",
+      "de": "Erholungszentren",
+      "it": "Centri Di Ricreazione",
+      "es": "Centros Recreativos",
+      "fr": "Centres de Loisirs"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "401": {
+    "labels": {
+      "kr": "달리기",
+      "zh_hant": "跑步",
+      "en": "Running",
+      "zh": "跑步",
+      "jp": "マラソン、ジョギング",
+      "pt": "Corrida",
+      "de": "Laufen",
+      "it": "Corsa",
+      "es": "Corriendo",
+      "fr": "Course À Pied"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "402": {
+    "labels": {
+      "kr": "스케이트",
+      "zh_hant": "滑冰",
+      "en": "Skating",
+      "zh": "滑冰",
+      "jp": "スケート",
+      "pt": "Patinagem",
+      "de": "Skaten",
+      "it": "Pattinaggio",
+      "es": "Patinaje",
+      "fr": "Patinage"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "403": {
+    "labels": {
+      "kr": "겨울 스포츠",
+      "zh_hant": "冰雪運動",
+      "en": "Snow Sports",
+      "zh": "冰雪运动",
+      "jp": "スノースポーツ",
+      "pt": "Desportos de Inverno",
+      "de": "Wintersport",
+      "it": "Sport Invernali",
+      "es": "Deportes de Nieve",
+      "fr": "Sports D'hivers"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "404": {
+    "labels": {
+      "kr": "축구",
+      "zh_hant": "足球",
+      "en": "Soccer",
+      "zh": "足球",
+      "jp": "サッカー",
+      "pt": "Futebol",
+      "de": "Fußball",
+      "it": "Calcio",
+      "es": "Fútbol",
+      "fr": "Football"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "405": {
+    "labels": {
+      "kr": "스포츠 클럽",
+      "zh_hant": "體育俱樂部",
+      "en": "Sports Clubs",
+      "zh": "体育俱乐部",
+      "jp": "スポーツ クラブ",
+      "pt": "Clubes Desportivos",
+      "de": "Sportvereine",
+      "it": "Club Sportivi",
+      "es": "Clubes Deportivos",
+      "fr": "Clubs Sportifs"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "406": {
+    "labels": {
+      "kr": "경기장 및 투기장",
+      "zh_hant": "體育場和競技場",
+      "en": "Stadiums and Arenas",
+      "zh": "体育场和竞技场",
+      "jp": "スタジアムやアリーナ",
+      "pt": "Estádios e Recintos Desportivos",
+      "de": "Stadien und Arenen",
+      "it": "Stadi e Arene",
+      "es": "Estadios y Arenas",
+      "fr": "Stades et Terrains de Sport"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "407": {
+    "labels": {
+      "kr": "수영장",
+      "zh_hant": "遊泳池",
+      "en": "Swimming Pools",
+      "zh": "游泳池",
+      "jp": "プール",
+      "pt": "Piscinas",
+      "de": "Schwimmbäder",
+      "it": "Piscine",
+      "es": "Piscinas",
+      "fr": "Piscines"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "408": {
+    "labels": {
+      "kr": "수상 스포츠",
+      "zh_hant": "水上運動",
+      "en": "Water Sports",
+      "zh": "水上运动",
+      "jp": "ウォーター スポーツ",
+      "pt": "Desportos Aquáticos",
+      "de": "Wassersport",
+      "it": "Sport Acquatici",
+      "es": "Deportes Acuáticos",
+      "fr": "Sports Aquatiques"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "409": {
+    "labels": {
+      "kr": "보트",
+      "zh_hant": "劃船",
+      "en": "Boating",
+      "zh": "划船",
+      "jp": "ボート",
+      "pt": "Passeios de Barco",
+      "de": "Segeln",
+      "it": "Canottaggio",
+      "es": "Paseando en Barca",
+      "fr": "Nautisme"
+    },
+    "parents": [
+      "408"
+    ],
+    "abstract": false
+  },
+  "410": {
+    "labels": {
+      "kr": "카누 및 카약",
+      "zh_hant": "獨木舟和皮劃艇",
+      "en": "Canoes and Kayaks",
+      "zh": "独木舟和皮划艇",
+      "jp": "カヌー、カヤック",
+      "pt": "Canoas e Kayaks",
+      "de": "Kanus und Kajaks",
+      "it": "Canoe e Kayak",
+      "es": "Canoas y Kayacs",
+      "fr": "Canoës et Kayaks"
+    },
+    "parents": [
+      "408"
+    ],
+    "abstract": false
+  },
+  "411": {
+    "labels": {
+      "kr": "래프팅",
+      "zh_hant": "漂流",
+      "en": "Rafting",
+      "zh": "漂流",
+      "jp": "ラフティング",
+      "pt": "Rafting",
+      "de": "Rafting",
+      "it": "Rafting",
+      "es": "Paseando en Balsa",
+      "fr": "Rafting"
+    },
+    "parents": [
+      "408"
+    ],
+    "abstract": false
+  },
+  "412": {
+    "labels": {
+      "kr": "스쿠버 다이빙",
+      "zh_hant": "潛水",
+      "en": "Scuba Diving",
+      "zh": "潜水",
+      "jp": "スキューバ ダイビング",
+      "pt": "Mergulho",
+      "de": "Tauchen",
+      "it": "Immersioni Subacquee",
+      "es": "Buceo",
+      "fr": "Plongée Sous-marine"
+    },
+    "parents": [
+      "408"
+    ],
+    "abstract": false
+  },
+  "413": {
+    "labels": {
+      "kr": "수영",
+      "zh_hant": "遊泳",
+      "en": "Swimming",
+      "zh": "游泳",
+      "jp": "水泳",
+      "pt": "Natação",
+      "de": "Schwimmen",
+      "it": "Nuoto",
+      "es": "Natación",
+      "fr": "Natation"
+    },
+    "parents": [
+      "408"
+    ],
+    "abstract": false
+  },
+  "414": {
+    "labels": {
+      "kr": "요가 필라테스",
+      "zh_hant": "瑜伽和普拉提",
+      "en": "Yoga and Pilates",
+      "zh": "瑜伽和普拉提",
+      "jp": "ヨガ、ピラティス",
+      "pt": "Yoga e Pilates",
+      "de": "Yoga und Pilates",
+      "it": "Yoga e Pilates",
+      "es": "Yoga y Pilates",
+      "fr": "Yoga et Pilates"
+    },
+    "parents": [
+      "372"
+    ],
+    "abstract": false
+  },
+  "415": {
+    "labels": {
+      "kr": "교통",
+      "zh_hant": "交通",
+      "en": "Transportation",
+      "zh": "交通",
+      "jp": "交通",
+      "pt": "Transporte",
+      "de": "Verkehr",
+      "it": "Trasporto",
+      "es": "Transporte",
+      "fr": "Transport"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "416": {
+    "labels": {
+      "kr": "항공사 및 항공 서비스",
+      "zh_hant": "航空公司和航空服務",
+      "en": "Airlines and Aviation Services",
+      "zh": "航空公司和航空服务",
+      "jp": "航空と航空サービス",
+      "pt": "Companhias Aéreas e Serviços de Aviação",
+      "de": "Fluggesellschaften und Bedarfsflugverkehr",
+      "it": "Companie Aeree e Servizi Di Aviazione",
+      "es": "Servicios de Aerolíneas y Aviación",
+      "fr": "Compagnies Aériennes et Des Services de L'aviation"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "417": {
+    "labels": {
+      "kr": "주유소",
+      "zh_hant": "加油站",
+      "en": "Gas Stations",
+      "zh": "加油站",
+      "jp": "ガソリン スタンド",
+      "pt": "Postos de Combustível",
+      "de": "Tankstellen",
+      "it": "Benzinai",
+      "es": "Gasolineras",
+      "fr": "Stations-service"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "418": {
+    "labels": {
+      "kr": "주차장",
+      "zh_hant": "停車場",
+      "en": "Parking",
+      "zh": "停车场",
+      "jp": "駐車場",
+      "pt": "Estacionamento",
+      "de": "Parken",
+      "it": "Parcheggi",
+      "es": "Estacionamiento",
+      "fr": "Stationnement"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "419": {
+    "labels": {
+      "kr": "대중교통",
+      "zh_hant": "公共交通",
+      "en": "Public Transportation Services",
+      "zh": "公共交通",
+      "jp": "公共交通サービス",
+      "pt": "Serviços de Transporte Público",
+      "de": "Öffentliche Verkehrsbetriebe",
+      "it": "Servizi Di Trasporto Pubblico",
+      "es": "Servicios Públicos de Transporte",
+      "fr": "Services de Transport Publics"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "420": {
+    "labels": {
+      "kr": "택시와 차량 서비스",
+      "zh_hant": "出租車和租車服務",
+      "en": "Taxi and Car Services",
+      "zh": "出租车和租车服务",
+      "jp": "タクシーおよびハイヤー",
+      "pt": "Serviços de Automóveis e Táxi",
+      "de": "Taxi und Mietwagen",
+      "it": "Taxi e Servizi Di Auto",
+      "es": "Taxi y Servicios de Coche",
+      "fr": "Services de Taxi et de Voitures"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "421": {
+    "labels": {
+      "kr": "자동차 및 트럭 렌트",
+      "zh_hant": "汽車和卡車租賃",
+      "en": "Car and Truck Rentals",
+      "zh": "汽车和卡车租赁",
+      "jp": "車とトラックのレンタル",
+      "pt": "Aluguer de Carros e Camiões",
+      "de": "Auto-und Lkw-vermietungen",
+      "it": "Noleggio Auto e Furgoni",
+      "es": "coches y Alquiler de Camiones",
+      "fr": "Location de Voitures et de Camions"
+    },
+    "parents": [
+      "420"
+    ],
+    "abstract": false
+  },
+  "422": {
+    "labels": {
+      "kr": "전세 버스",
+      "zh_hant": "旅遊巴士",
+      "en": "Charter Buses",
+      "zh": "旅游巴士",
+      "jp": "貸切バス",
+      "pt": "Autocarros de Serviço Ocasional",
+      "de": "Charter Busse",
+      "it": "Bus Charter",
+      "es": "Autobuses Chárter",
+      "fr": "Autocar Charter"
+    },
+    "parents": [
+      "420"
+    ],
+    "abstract": false
+  },
+  "423": {
+    "labels": {
+      "kr": "리무진과 운전기사",
+      "zh_hant": "豪華轎車和司機",
+      "en": "Limos and Chauffeurs",
+      "zh": "豪华轿车和司机",
+      "jp": "リムジンと運転手",
+      "pt": "Limusinas e Motoristas",
+      "de": "Limousinen und Chauffeure",
+      "it": "Limousine e Autisti",
+      "es": "Limusinas y Choferes",
+      "fr": "Limousines et Chauffeurs"
+    },
+    "parents": [
+      "420"
+    ],
+    "abstract": false
+  },
+  "424": {
+    "labels": {
+      "kr": "교통 중심지",
+      "zh_hant": "交通樞紐",
+      "en": "Transport Hubs",
+      "zh": "交通枢纽",
+      "jp": "ハブ",
+      "pt": "Estações de Transporte",
+      "de": "Verkehrsknotenpunkt",
+      "it": "Centri Di Trasporto",
+      "es": "Concentradores de Transporte",
+      "fr": "Centres de Transport"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "425": {
+    "labels": {
+      "kr": "공항",
+      "zh_hant": "機場",
+      "en": "Airports",
+      "zh": "机场",
+      "jp": "空港",
+      "pt": "Aeroportos",
+      "de": "Flughäfen",
+      "it": "Aeroporti",
+      "es": "Aeropuertos",
+      "fr": "Aéroports"
+    },
+    "parents": [
+      "424"
+    ],
+    "abstract": false
+  },
+  "426": {
+    "labels": {
+      "kr": "버스 정류장",
+      "zh_hant": "公交車站",
+      "en": "Bus Stations",
+      "zh": "公交车站",
+      "jp": "バス駅",
+      "pt": "Paragens de Autocarro",
+      "de": "Bushaltstellen",
+      "it": "Stazioni Degli Autobus",
+      "es": "Estaciones de Autobuses",
+      "fr": "Stations de Bus et Garres Routières"
+    },
+    "parents": [
+      "424"
+    ],
+    "abstract": false
+  },
+  "427": {
+    "labels": {
+      "kr": "헬리콥터 발착장",
+      "zh_hant": "直升機停機坪",
+      "en": "Heliports",
+      "zh": "直升机停机坪",
+      "jp": "ヘリポート",
+      "pt": "Heliportos",
+      "de": "Hubschrauberlandeplätze",
+      "it": "Eliporti",
+      "es": "Helipuertos",
+      "fr": "Héliports"
+    },
+    "parents": [
+      "424"
+    ],
+    "abstract": false
+  },
+  "428": {
+    "labels": {
+      "kr": "항구",
+      "zh_hant": "碼頭",
+      "en": "Ports",
+      "zh": "码头",
+      "jp": "ポート",
+      "pt": "Portos",
+      "de": "Häfen",
+      "it": "Porte",
+      "es": "Puertos",
+      "fr": "Ports"
+    },
+    "parents": [
+      "424"
+    ],
+    "abstract": false
+  },
+  "429": {
+    "labels": {
+      "kr": "기차역",
+      "zh_hant": "軌道交通",
+      "en": "Rail Stations",
+      "zh": "轨道交通",
+      "jp": "鉄道駅",
+      "pt": "Estações Ferroviárias",
+      "de": "Bahnhöfe",
+      "it": "Stazioni Ferroviarie",
+      "es": "Estaciones de ferrocarril",
+      "fr": "Gares Ferroviaires"
+    },
+    "parents": [
+      "424"
+    ],
+    "abstract": false
+  },
+  "430": {
+    "labels": {
+      "kr": "여행",
+      "zh_hant": "旅遊",
+      "en": "Travel",
+      "zh": "旅游",
+      "jp": "旅行",
+      "pt": "Viagem",
+      "de": "Reisen",
+      "it": "Viaggi",
+      "es": "Viaje",
+      "fr": "Voyage"
+    },
+    "parents": [
+      "1"
+    ],
+    "abstract": false
+  },
+  "431": {
+    "labels": {
+      "kr": "여객선",
+      "zh_hant": "郵輪",
+      "en": "Cruises",
+      "zh": "邮轮",
+      "jp": "クルーズ",
+      "pt": "Cruzeiros",
+      "de": "Kreuzfahrten",
+      "it": "Crociere",
+      "es": "Cruceros",
+      "fr": "Croisières"
+    },
+    "parents": [
+      "430"
+    ],
+    "abstract": false
+  },
+  "432": {
+    "labels": {
+      "kr": "숙박",
+      "zh_hant": "住宿",
+      "en": "Lodging",
+      "zh": "住宿",
+      "jp": "宿泊",
+      "pt": "Alojamento",
+      "de": "Unterkünfte",
+      "it": "Campeggi",
+      "es": "Alojamiento",
+      "fr": "Hébergement"
+    },
+    "parents": [
+      "430"
+    ],
+    "abstract": false
+  },
+  "433": {
+    "labels": {
+      "kr": "침대 및 아침식사",
+      "zh_hant": "家庭式旅館",
+      "en": "Bed and Breakfasts",
+      "zh": "家庭式旅馆",
+      "jp": "ベッド &ブレックファースト",
+      "pt": "Bed and Breakfast",
+      "de": "Bed And Breakfast",
+      "it": "Bed And Breakfast",
+      "es": "Cama y Desayuno",
+      "fr": "Bed And Breakfasts"
+    },
+    "parents": [
+      "432"
+    ],
+    "abstract": false
+  },
+  "434": {
+    "labels": {
+      "kr": "펜션",
+      "zh_hant": "度假別墅和小木屋",
+      "en": "Cottages and Cabins",
+      "zh": "度假别墅和小木屋",
+      "jp": "コテージやキャビン",
+      "pt": "Chalés e Cabanas",
+      "de": "Landhaus & Landhotel",
+      "it": "Cottage e Cabin",
+      "es": "Casitas y Cabañas",
+      "fr": "Chalets et Cabanes"
+    },
+    "parents": [
+      "432"
+    ],
+    "abstract": false
+  },
+  "435": {
+    "labels": {
+      "kr": "호스텔",
+      "zh_hant": "招待所",
+      "en": "Hostels",
+      "zh": "招待所",
+      "jp": "ホステル",
+      "pt": "Albergues",
+      "de": "Jugendherbergen",
+      "it": "Ostelli",
+      "es": "Albergues",
+      "fr": "Auberges"
+    },
+    "parents": [
+      "432"
+    ],
+    "abstract": false
+  },
+  "436": {
+    "labels": {
+      "kr": "호텔 및 모텔",
+      "zh_hant": "酒店和汽車旅館",
+      "en": "Hotels and Motels",
+      "zh": "酒店和汽车旅馆",
+      "jp": "のホテルやモーテル",
+      "pt": "Hotéis e Motéis",
+      "de": "Hotels und Motels",
+      "it": "Alberghi e Motel",
+      "es": "Hoteles y Moteles",
+      "fr": "Hôtels et Motels"
+    },
+    "parents": [
+      "432"
+    ],
+    "abstract": false
+  },
+  "437": {
+    "labels": {
+      "kr": "별장 및 휴가지 임대",
+      "zh_hant": "短期出租屋",
+      "en": "Lodges and Vacation Rentals",
+      "zh": "短期出租屋",
+      "jp": "ロッジ、貸別荘",
+      "pt": "Albergues e Alugueres para Férias",
+      "de": "Hütten und Ferienhäuser",
+      "it": "Foresterie e Case Vacanze",
+      "es": "Albergues y Alquileres de Vacaciones",
+      "fr": "Logements et Locations de Vacances"
+    },
+    "parents": [
+      "432"
+    ],
+    "abstract": false
+  },
+  "438": {
+    "labels": {
+      "kr": "리조트",
+      "zh_hant": "度假村",
+      "en": "Resorts",
+      "zh": "度假村",
+      "jp": "リゾート",
+      "pt": "Resorts",
+      "de": "Ferienorte",
+      "it": "Resort",
+      "es": "Lugares de Vacaciones",
+      "fr": "Centre de Villégiature"
+    },
+    "parents": [
+      "432"
+    ],
+    "abstract": false
+  },
+  "439": {
+    "labels": {
+      "kr": "관광 정보 및 서비스",
+      "zh_hant": "旅客信息咨詢和服務",
+      "en": "Tourist Information and Services",
+      "zh": "旅客信息咨询和服务",
+      "jp": "観光情報とサービス",
+      "pt": "Serviços de Informação Turística",
+      "de": "Touristeninformation und Dienstleistungen",
+      "it": "Informazioni e Servizi Turistiche",
+      "es": "Información Turística y Servicios",
+      "fr": "Services et Informations Touristiques"
+    },
+    "parents": [
+      "430"
+    ],
+    "abstract": false
+  },
+  "440": {
+    "labels": {
+      "kr": "가이드 및 여행사",
+      "zh_hant": "旅行社",
+      "en": "Travel Agents and Tour Operators",
+      "zh": "旅行社",
+      "jp": "旅行代理店やツアー オペレーター",
+      "pt": "Agências de Viagens e Guias Turísticos",
+      "de": "Reisebüros und Reiseveranstalte",
+      "it": "Agenzie Di Viaggio e Tour Operator",
+      "es": "Agentes de Viaje y Operadores Turísticos",
+      "fr": "Agences de Voyages et Guides Touristiques"
+    },
+    "parents": [
+      "430"
+    ],
+    "abstract": false
+  },
+  "441": {
+    "labels": {
+      "kr": "노인 병학",
+      "zh_hant": "老年醫學",
+      "en": "Geriatrics",
+      "zh": "老年医学",
+      "jp": "老人医学",
+      "pt": "Geriatria",
+      "de": "Geriatrie",
+      "it": "Geriatria",
+      "es": "Geriatría",
+      "fr": "gériatrie"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+  "442": {
+    "labels": {
+      "kr": "할인점",
+      "zh_hant": "打折店",
+      "en": "Discount Stores",
+      "zh": "打折店",
+      "jp": "ディス カウント ストア",
+      "pt": "Lojas de Desconto",
+      "de": "Discounter",
+      "it": "Venditori Al Ribasso",
+      "es": "Tiendas de Descuento",
+      "fr": "Les Magasins Discount"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "443": {
+    "labels": {
+      "kr": "육류 및 해산물",
+      "zh_hant": "肉類和海鮮",
+      "en": "Meat and Seafood",
+      "zh": "肉类和海鲜",
+      "jp": "　肉類、魚介類",
+      "pt": "Carnes e Frutos do Mar",
+      "de": "Fleisch und Meeresfrüchte",
+      "it": "Carne e Pesce",
+      "es": "Carne y Marisco",
+      "fr": "Viandes et Fruits de Mer"
+    },
+    "parents": [
+      "149"
+    ],
+    "abstract": false
+  },
+  "444": {
+    "labels": {
+      "kr": "사무용품",
+      "zh_hant": "辦公用品",
+      "en": "Office Supplies",
+      "zh": "办公用品",
+      "jp": "オフィス用品",
+      "pt": "Materiais de Escritório",
+      "de": "Bürobedarf",
+      "it": "Materiale per Ufficio",
+      "es": "Artículos de Oficina",
+      "fr": "Articles de Bureau"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "445": {
+    "labels": {
+      "kr": "파티 용품",
+      "zh_hant": "派對用品",
+      "en": "Party Supplies",
+      "zh": "派对用品",
+      "jp": "パーティー用品",
+      "pt": "Fontes do Partido",
+      "de": "Partei Nachschub",
+      "it": "Partito Rifornimenti",
+      "es": "Artículos de Fiesta",
+      "fr": "Articles de Fête"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "446": {
+    "labels": {
+      "kr": "채용 도움말",
+      "zh_hant": "職業輔導",
+      "en": "Career Counseling",
+      "zh": "职业辅导",
+      "jp": "キャリアカウンセリング",
+      "pt": "Aconselhamento de Carreira",
+      "de": "Berufsberatung",
+      "it": "Carriera Guida",
+      "es": "Orientación Profesional",
+      "fr": "Conseil Carrière"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "447": {
+    "labels": {
+      "kr": "구조",
+      "zh_hant": "建設",
+      "en": "Construction",
+      "zh": "建设",
+      "jp": "建設",
+      "pt": "Construção",
+      "de": "Bau",
+      "it": "Costruzione",
+      "es": "Construcción",
+      "fr": "Construction"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "448": {
+    "labels": {
+      "kr": "공증인",
+      "zh_hant": "公證",
+      "en": "Notary",
+      "zh": "公证",
+      "jp": "公証人",
+      "pt": "Notário",
+      "de": "Notar",
+      "it": "Notaio",
+      "es": "Notarios",
+      "fr": "Notaire"
+    },
+    "parents": [
+      "269"
+    ],
+    "abstract": false
+  },
+  "449": {
+    "labels": {
+      "kr": "사진술",
+      "zh_hant": "攝影",
+      "en": "Photography",
+      "zh": "摄影",
+      "jp": "写真",
+      "pt": "Fotografia",
+      "de": "Fotografie",
+      "it": "Fotografia",
+      "es": "Fotografía",
+      "fr": "Photographie"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "450": {
+    "labels": {
+      "kr": "번역 서비스",
+      "zh_hant": "翻譯服務",
+      "en": "Translation Services",
+      "zh": "翻译服务",
+      "jp": "翻訳サービス",
+      "pt": "Serviços de Tradução",
+      "de": "Übersetzungsdienstleistungen",
+      "it": "Servizi di Traduzione",
+      "es": "Servicios de Traducción",
+      "fr": "Services de Traduction"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  },
+  "451": {
+    "labels": {
+      "kr": "골프 코스",
+      "zh_hant": "高爾夫球場",
+      "en": "Golf Courses",
+      "zh": "高尔夫球场",
+      "jp": "ゴルフコース",
+      "pt": "Campos de Golfe",
+      "de": "Golfplätze",
+      "it": "Campi da Golf",
+      "es": "Campos de Golf",
+      "fr": "Terrains de Golf"
+    },
+    "parents": [
+      "382"
+    ],
+    "abstract": false
+  },
+  "452": {
+    "labels": {
+      "kr": "파도 타기",
+      "zh_hant": "衝浪",
+      "en": "Surfing",
+      "zh": "冲浪",
+      "jp": "サーフィン",
+      "pt": "Surfe",
+      "de": "Surfen",
+      "it": "Surf",
+      "es": "Surf",
+      "fr": "Surf"
+    },
+    "parents": [
+      "408"
+    ],
+    "abstract": false
+  },
+  "453": {
+    "labels": {
+      "kr": "대사관",
+      "zh_hant": "大使館",
+      "en": "Embassies",
+      "zh": "大使馆",
+      "jp": "大使館",
+      "pt": "Embaixadas",
+      "de": "Botschaften",
+      "it": "Ambasciate",
+      "es": "Embajadas",
+      "fr": "Ambassades"
+    },
+    "parents": [
+      "37"
+    ],
+    "abstract": false
+  },
+  "454": {
+    "labels": {
+      "kr": "하부 구조",
+      "zh_hant": "架構",
+      "en": "Infrastructure",
+      "zh": "架构",
+      "jp": "インフラ",
+      "pt": "Infra-estrutura",
+      "de": "Infrastruktur",
+      "it": "infrastrutture",
+      "es": "Infraestructura",
+      "fr": "Infrastructure"
+    },
+    "parents": [
+      "460"
+    ],
+    "abstract": false
+  },
+  "455": {
+    "labels": {
+      "kr": "이동통신",
+      "zh_hant": "移動",
+      "en": "Mobile",
+      "zh": "移动",
+      "jp": "携帯電話",
+      "pt": "Móvel",
+      "de": "Handy",
+      "it": "cellulare",
+      "es": "Móvil",
+      "fr": "Mobile"
+    },
+    "parents": [
+      "460"
+    ],
+    "abstract": false
+  },
+  "456": {
+    "labels": {
+      "kr": "광고업",
+      "zh_hant": "廣告",
+      "en": "Advertising",
+      "zh": "广告",
+      "jp": "広告",
+      "pt": "Tecnologia",
+      "de": "Werbung",
+      "it": "pubblicità",
+      "es": "Publicidad",
+      "fr": "Publicité"
+    },
+    "parents": [
+      "460"
+    ],
+    "abstract": false
+  },
+  "457": {
+    "labels": {
+      "kr": "아시안 음식",
+      "zh_hant": "亞洲",
+      "en": "Asian",
+      "zh": "亚洲",
+      "jp": "アジアの",
+      "pt": "Asiático",
+      "de": "Asian",
+      "it": "Asian",
+      "es": "Comida Asiática",
+      "fr": "Asiatique"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "458": {
+    "labels": {
+      "kr": "푸드 트럭",
+      "zh_hant": "餐車",
+      "en": "Food Trucks",
+      "zh": "餐车",
+      "jp": "フードトラック",
+      "pt": "Food Trucks",
+      "de": "Nahrungsmittel-LKWs",
+      "it": "Food Trucks",
+      "es": "Camión de Comida",
+      "fr": "Food Trucks"
+    },
+    "parents": [
+      "347"
+    ],
+    "abstract": false
+  },
+  "459": {
+    "labels": {
+      "kr": "휴게소",
+      "zh_hant": "休息室",
+      "en": "Rest Areas",
+      "zh": "休息室",
+      "jp": "サービスエリア",
+      "pt": "Áreas de Descanso",
+      "de": "Rastplätze",
+      "it": "Aree di sosta",
+      "es": "Áreas de Descanso",
+      "fr": "Aire de Repos"
+    },
+    "parents": [
+      "415"
+    ],
+    "abstract": false
+  },
+  "460": {
+    "labels": {
+      "kr": "기술",
+      "zh_hant": "科技",
+      "en": "Technology",
+      "zh": "科技",
+      "jp": "テクノロジー",
+      "pt": "Tecnologia",
+      "de": "Tecnology",
+      "it": "Tecnology",
+      "es": "Tecnología",
+      "fr": "Technologie"
+    },
+    "parents": [
+      "177"
+    ],
+    "abstract": false
+  }
+}

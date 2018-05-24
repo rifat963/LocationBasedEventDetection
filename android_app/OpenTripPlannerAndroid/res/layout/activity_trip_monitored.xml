@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_texture"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/rr_header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/layer_header_green" >
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/icon_back" />
+
+        <TextView
+            android:id="@+id/textViewApp"
+            style="@style/ShadowBarText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/btn_options"
+            android:layout_toRightOf="@+id/btn_back"
+            android:gravity="center_horizontal"
+            android:text="@string/activity_trip_monitored"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/btn_options"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/icon_blank" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/tripListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rr_header"
+        android:divider="@null" >
+    </ListView>
+
+</RelativeLayout>
