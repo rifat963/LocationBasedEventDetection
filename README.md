@@ -1,4 +1,4 @@
-# LocationBasedEventDetection
+## Location Based Event Detection
 Location based event detection using social network feedback.
 Project is based on two parts: (i) Point of Interest(POI) location dectection using Social Media.
 (ii) Event detection. POI data are extracted from facebook, factual, foursquare and googleplaces.
