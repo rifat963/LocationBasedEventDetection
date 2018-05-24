@@ -4,7 +4,7 @@ Project is based on two parts: (i) Point of Interest(POI) location dectection us
 (ii) Event detection. POI data are extracted from facebook, factual, foursquare and googleplaces.
 POI data integration is perform using manual defined categories.
 
-![overview](https://raw.github.com/rifat963/LocationBasedEventDetection/nbproject/cityData.png)
+![overview](https://raw.github.com/rifat963/LocationBasedEventDetection/www/cityData.png)
 
 
 #### Licence
